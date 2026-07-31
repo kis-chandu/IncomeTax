@@ -93,3 +93,9 @@ CoinSwitch (Bitcipher Labs LLP, TAN BLRB16129B) "Smart Invest" algo bot. Source:
 ## 8. EVIDENCE INVENTORY (what we HAVE vs NEED)
 **HAVE (repo FY2024-25 folder):** ITR-2 (PDF+JSON+ACK), CPC 143(1), TIS+AIS(partial?)+ACF FY24-25 PDFs, CoinSwitch Tax P&L workbook ★ + trade ledger + Form 16A (TDS_Report), IDFC stmt full-year, 133(6) chain + drafts, both scrutiny notices.
 **NEED from user:** Form 16 FY24-25; FY24-25 payslips/EPF; NPS FY24-25 stmt; health-insurance FY24-25 receipt; **SBI FY24-25 HL interest cert ★**; SBI sanction/agreement/loan-stmt; sale deed; no-other-house declaration; statements of HDFC / SBI / Kotak / Indian Bank / Jio Payments (FY24-25); 26AS FY24-25 (for exact 16A rows 3-4/9-10); what is the 12,240 rent-machinery about; identify 8,934 remittance; MF/securities 13,69,760 broker confirmation (optional).
+
+## 9. LATE IDENTIFICATIONS (01-Aug-2026)
+- `Document.pdf` = **LIC Premium Paid Statement FY25-26**, policy 548919746 (since 28-Nov-2015), premium ₹52,782/yr yearly mode → 80C evidence source for FY24-25 (download FY24-25 version from LIC portal, ~2 min). Renamed in repo.
+- `invoice_63853678...pdf` = tax invoice from PANKAJ AGARWAL (Rajasthan, GSTIN 08AAQFH7445C1Z6) → customer Chandrakant, "Service Fees Apr-2025" ₹1,197.55+GST. FY25-26 artifact; possibly linked to the mystery ₹12,240 "rent plant & machinery" IFOS + TAN DELE07854A TDS ₹364 — AWAIT user explanation of what this income/fees stream is (demand #7 needs a one-liner).
+- Tier-1 doc inventory verified: NONE of (SBI FY24-25 HL cert, Form16 FY24-25, 26AS FY24-25, 5 bank stmts, EPF/payslips FY24-25) exist in repo. Have instead: full ITR-2 pack, CPC order, TIS+ACF FY24-25, IDFC stmt, complete crypto pack.
+- TIP: ClearTax dashboard (used for AY25-26 filing) likely holds FY24-25 Form 16 PDF + ClearTax computation — user to download from my.cleartax.in → Documents.
