@@ -166,3 +166,12 @@ PDF: uploads/70000000159713585_..._Notice us 143(2)_1090008156(1)_20062026 (1).p
 7. Fund flow IDFC-verified: SBI 50,000 (30-Jan, narration "Depositor Investment") → 49,600+500 → Bitcipher; 100 back via EquitasBank TPSTESTING; ₹1 Cashfree test. No other crypto credits FY24-25.
 8. Repo reorganization #2 (misfiled items relocated; PENDING.txt placeholders added in FY24-25 05/06/07 folders); NOT yet pushed (token to be re-minted when user wants).
 9. New workpaper: 06-AY2025-26-RETURN-ANATOMY.md (all verified numbers = drafting backbone). TIS extract saved tis-2425-extract.txt.
+
+---
+## LOG 31-Jul-2026 (night) — DOWNLOADS HAUL PROCESSED & ARRANGED
+- User web-uploaded 19 docs to downloads/ (commit d53e8da, from work laptop). Pulled w/ rebase via token (remote had vanished w/ .git/config across sessions — re-added).
+- KEY: SBI FY24-25 provisional HL cert interest **3,90,669 = ITR exact** (demand-5 core proof). FY23-24 certs supporting. Sanction 31/03/2021 (80EEA ✓).
+- 80C proofs: LIC FY24-25 (52,782), tuition receipts FY24-25 (65,000 qualifying; kit/annual-day/exam excluded), FY23-24 receipts filed to earlier-year folder.
+- ⚠️ NPS partial stmt shows only 36,750 → GET full-FY NPS statement; 80CCD(1B) 50k may be overclaimed.
+- .idea/ removed, .gitignore added, downloads/ = intake folder w/ README. PENDING.txt files updated.
+- STILL OWED BY USER: 26AS FY24-25; HDFC/SBI-savings/Kotak/Indian Bank/Jio stmts FY24-25; FY24-25 payslips/EPF passbook; full-FY NPS stmt; health-insurance FY24-25 receipt (80D 25k); sanction letter + sale deed (Tier-2); answers: ₹12,240 rent income nature; ₹8,934 remittance; SBI→HDFC takeover date; AY26-27 ack/e-verify status; was 133(6) draft ever submitted?

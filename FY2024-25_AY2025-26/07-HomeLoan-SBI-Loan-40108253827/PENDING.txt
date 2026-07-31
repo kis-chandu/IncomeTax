@@ -1,9 +1,12 @@
-PENDING (user to upload) - loan as per ITR-2:
-1. SBI FY2024-25 HOME LOAN INTEREST CERTIFICATE - Loan 40108253827 (interest shown in ITR: 3,90,669)
-2. SBI loan SANCTION LETTER (dated ~30-Mar-2021, Rs 44,00,000)
-3. SBI loan AGREEMENT + repayment schedule
-4. SBI loan account statement FY24-25 (EMI debits)
-5. Registered SALE DEED (ownership; stamp duty value 45,00,000 as declared in Sch 80EEA)
-6. Possession/occupancy proof (self-occupied declaration)
-7. Declaration: NO other residential house owned on sanction date (80EEA condition)
-8. Proof EMIs paid from assessee's own bank account
+RECEIVED 31-Jul-2026 (via downloads/):
+- SBI-HL-Certificate-FY2024-25-PROVISIONAL-Interest390669.pdf  <- THE KEY DOC (interest 3,90,669 = ITR figure EXACT)
+- SBI-HL-Certificate-FY2023-24-FINAL-Interest398319.pdf (sanction 31/03/2021 - proves 80EEA window)
+- SBI-HL-Certificate-FY2023-24-PROVISIONAL.pdf
+
+STILL PENDING (priority order):
+1. (optional, nice) FINAL FY24-25 interest certificate (SBI portal, generated after 31-Mar-2025) - provisional suffices if bank stmts show EMIs
+2. SBI loan statement FY24-25 (EMI debits) - proves payment + sole-payer prong alongside savings stmts
+3. Sanction letter (dated ~31-Mar-2021, Rs 44L) - mandatory-ish for 80EEA; else declare + offer on request
+4. Registered sale deed (ownership 100%; SDV 45,00,000 per Sch 80EEA) - or declaration
+5. "No other residential house on 31-Mar-2021" - declaration (his father owns Bokaro quarter? confirm it's not in HIS name)
+6. SBI->HDFC takeover date (one-line answer - determines reply's loan paragraph)

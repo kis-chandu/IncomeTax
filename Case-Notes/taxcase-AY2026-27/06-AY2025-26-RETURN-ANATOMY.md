@@ -109,3 +109,10 @@ Part B (old regime with employer: "Opting out of 115BAC? Yes"):
 - Payroll VI-A: 80C 1,50,000 + 80CCD(1B) 50,000 = **2,00,000** (both accepted w/ proofs at payroll) → corroborates #6 for these two; return-only extras still needing proof: 80D 25,000, 80EEA 1,50,000, 80TTA 8,505
 - Payroll taxable income 35,70,683; payroll tax 8,83,705 ×1.04 (4% cess) = **9,19,053 = exact TDS deducted** ✓ (perfectly regular payroll)
 Demand #4 = DONE.
+
+## 11. DOWNLOADS HAUL ORGANIZED (31-Jul-2026, commit d53e8da processed)
+**Home loan (demand #5) — KEY WIN:** SBI FY24-25 PROVISIONAL interest certificate (19-Dec-2024): **interest ₹3,90,669 = ITR figure to the rupee**; repayment 4,53,084 total. Sanction 31/03/2021 ✓ (80EEA window), co-borrower Priyanka Gorai, branch Kaggadasapura, rate 9.25%. FY23-24 FINAL cert: interest 3,98,319 + principal 61,261 (consistent declining pattern). Still want: sanction letter, loan stmt, sale deed; provisional cert acceptable w/ EMI-debit evidence.
+**80C evidence (demand #6):** LIC FY24-25 stmt ₹52,782 (paid 16-Nov-2024) + Sristi school receipts: FY24-25 qualifying **tuition = 30,000 (07-Jun-24) + 35,000 (19-Aug-24) = ₹65,000**; NON-qualifying flagged in filenames: student kit 6,353, annual day 1,600, exam fee 200 (80C = tuition only). FY23-24 tuition 60,000 filed by year too. 80C entered 2,01,797 — two exact decompositions possible (EPF 1,49,015 + LIC 52,782) OR (EPF 84,015 + LIC+tuition 1,17,782) → payslips/EPF passbook resolves.
+**80CCD(1B) ⚠️:** NPS Tier-I stmt Apr-2024→08-Jan-2025 = 5×4,200 + 5×3,150 = **₹36,750 only** vs claimed ₹50,000. Statement ends 08-Jan-25 → need FULL-FY (through 31-Mar-2025) NPS statement. If final < 50,000, claim is partially unsupported → decide presentation in drafting (proactive trim strengthens 270A(6)(a)).
+**ePRAN card** filed (PRAN 110169825743 ✓).
+**Hygiene:** user's web-upload brought `.idea/` IDE folder (removed + .gitignore added); downloads/ now has README intake note. dups purged: LAC ×3, NPS FY25-26 dup, LIC FY25-26 dup, HL-cert dup, receipt dup.
