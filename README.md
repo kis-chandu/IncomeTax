@@ -17,7 +17,7 @@
 |  09-Scrutiny-Notices-Jul2026 | 143(2) dt 20-Jun-2026 + 142(1) dt 31-Jul-2026 |
 | FY2025-26_AY2026-27/ | Current-year filing (ITR-3, filed 31-Jul-2026) |
 |  01-Filed-Return-ITR3 | (ack copy to be added) |
-|  02-Form16, 03-26AS, 04-AIS-TIS | employer/TDS/AIS docs |
+|  02-Form16, 03-26AS, 04-AIS-TIS | employer/TDS/AIS docs (AIS: full-year 29-Jul-2026 download + 20-May-2026 partial) |
 |  05-Brokers | Zerodha / Univest-Equity / Univest-FNO P&L reports |
 |  06-Crypto-CoinSwitch | FY25-26 reports |
 |  07-HomeLoan, 08-Bank-Statements, 09-Misc | misc |
