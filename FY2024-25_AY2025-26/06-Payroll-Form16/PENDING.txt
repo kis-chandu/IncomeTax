@@ -1,3 +1,7 @@
-PENDING (user to upload):
-- Form 16 FY2024-25 Part A & Part B (TechAspect Solutions Pvt Ltd, TAN HYDT01220C)
-- FY2024-25 monthly payslips (for EPF 80C proof)
+RECEIVED 31-Jul-2026:
+- Form 16 Part A FY2024-25 (TechAspect Solutions Pvt Ltd, TAN HYDT01220C, TDS 9,19,053)
+- Form 16 Part B FY2024-25 (Cert SHYODPA, 04-Jun-2025)
+
+STILL PENDING (user to upload):
+- FY2024-25 monthly payslips (proves: EPF ~80C, professional tax 2,400, and the 1,34,184 exempt-allowances breakup claimed in ITR but not via payroll)
+- EPF passbook FY24-25 (UAN portal, alt 80C proof)

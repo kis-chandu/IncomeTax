@@ -99,3 +99,13 @@ CoinSwitch (Bitcipher Labs LLP, TAN BLRB16129B) "Smart Invest" algo bot. Source:
 - `invoice_63853678...pdf` = tax invoice from PANKAJ AGARWAL (Rajasthan, GSTIN 08AAQFH7445C1Z6) → customer Chandrakant, "Service Fees Apr-2025" ₹1,197.55+GST. FY25-26 artifact; possibly linked to the mystery ₹12,240 "rent plant & machinery" IFOS + TAN DELE07854A TDS ₹364 — AWAIT user explanation of what this income/fees stream is (demand #7 needs a one-liner).
 - Tier-1 doc inventory verified: NONE of (SBI FY24-25 HL cert, Form16 FY24-25, 26AS FY24-25, 5 bank stmts, EPF/payslips FY24-25) exist in repo. Have instead: full ITR-2 pack, CPC order, TIS+ACF FY24-25, IDFC stmt, complete crypto pack.
 - TIP: ClearTax dashboard (used for AY25-26 filing) likely holds FY24-25 Form 16 PDF + ClearTax computation — user to download from my.cleartax.in → Documents.
+
+## 10. FORM 16 AY2025-26 RECEIVED (31-Jul-2026) — PAYROLL CROSS-CHECK
+Part A: TechAspect Solutions Pvt Ltd, deductor PAN AABCT3783F, TAN HYDT01220C; FY 01-Apr-2024→31-Mar-2025, one employer; quarterly TDS Q1 2,41,491 / Q2 1,94,517 / Q3 1,94,516 / Q4 2,88,529; total paid 40,23,083 & TDS 9,19,053 → EXACT TIE with ITR & TIS. Cert SHYODPA (04-Jun-2025).
+Part B (old regime with employer: "Opting out of 115BAC? Yes"):
+- Exemptions u/s 10 allowed by employer: **0** (return self-claimed 1,34,184 at filing via ClearTax → payslips needed for breakup: meal/phone/fuel/LTA?)
+- 16 deductions: SD 50,000 + **professional tax 2,400** (CPC figure 38,36,499 = 40,23,083−1,34,184−50,000−2,400 ⇒ PT was effectively claimed ✓ no leak)
+- **192(2B) HP loss reported to employer: −2,00,000 and ACCEPTED in payroll** → corroborates demand #5
+- Payroll VI-A: 80C 1,50,000 + 80CCD(1B) 50,000 = **2,00,000** (both accepted w/ proofs at payroll) → corroborates #6 for these two; return-only extras still needing proof: 80D 25,000, 80EEA 1,50,000, 80TTA 8,505
+- Payroll taxable income 35,70,683; payroll tax 8,83,705 ×1.04 (4% cess) = **9,19,053 = exact TDS deducted** ✓ (perfectly regular payroll)
+Demand #4 = DONE.
