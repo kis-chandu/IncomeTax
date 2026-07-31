@@ -1,0 +1,425 @@
+View Zerodha's guide on using tax reports for filing.
+Client ID RC2100
+Client Name CHANDRAKANT GORAI
+PAN ARQPG9033N
+Tradewise Exits from 2025-04-01 to 2026-03-15
+Equity - Intraday
+Symbol ISIN Entry Date Exit Date Quantity
+HEG INE545A01024 2025-08-26 2025-08-26 10
+Equity - Short Term
+Symbol ISIN Entry Date Exit Date Quantity
+KPITTECH INE04I401011 2025-07-02 2025-07-28 10
+MAHABANK INE457A01014 2025-07-02 2025-10-16 100
+GSFC INE026A01025 2025-08-01 2025-08-20 21
+GSFC INE026A01025 2025-08-01 2025-08-20 79
+NTPCGREEN INE0ONG01011 2025-08-05 2025-09-29 39
+NTPCGREEN INE0ONG01011 2025-08-05 2025-09-29 50
+IRFC INE053F01010 2025-08-07 2025-08-28 10
+STARHEALTH INE575P01011 2025-08-20 2025-09-04 10
+HEG INE545A01024 2025-08-20 2025-09-15 10
+RCF INE027A01015 2025-09-04 2025-09-26 100
+Equity - Long Term
+Symbol ISIN Entry Date Exit Date Quantity
+NLCINDIA INE589A01014 2018-06-01 2025-08-05 48
+Equity - Buyback
+Symbol ISIN Entry Date Exit Date Quantity
+
+Mutual Funds
+Symbol ISIN Entry Date Exit Date Quantity
+F&O
+Symbol Entry Date Exit Date Quantity Buy Value
+Currency
+Symbol Entry Date Exit Date Quantity Buy Value
+Commodity
+Symbol Entry Date Exit Date Quantity Buy Value
+Buy Value Sell Value Profit Period of Holding Fair Market Value
+4760 4778.5 18.5 0 0
+Buy Value Sell Value Profit Period of Holding Fair Market Value
+12480 11856 -624 26 0
+5700 6104 404 106 0
+4221 4516.47 295.47 19 0
+15879 16990.53 1111.53 19 0
+4095 3808.35 -286.65 55 0
+5250 4882.5 -367.5 55 0
+1250 1187.6 -62.4 21 0
+4360 4821 461 15 0
+5030 5236 206 26 0
+16000 14400 -1600 22 0
+Buy Value Sell Value Profit Period of Holding Fair Market Value
+4128 11894.4 7766.4 2622 0
+Buy Value Sell Value Profit Period of Holding Fair Market Value
+Buy Value Sell Value Profit Period of Holding Fair Market Value
+Sell Value Profit Turnover Brokerage Exchange Transaction Charges
+Sell Value Profit Turnover Brokerage Exchange Transaction Charges
+Sell Value Profit Turnover Brokerage Exchange Transaction Charges
+Taxable Profit Turnover Brokerage Exchange Transaction ChargesIPFT
+18.5 18.5 2.8615 0.2833 0.0095
+Taxable Profit Turnover Brokerage Exchange Transaction ChargesIPFT
+-624 0 0 0.7228 0.0243
+404 0 0 0.3506 0.0118
+295.47 0 0 0.2595 0.0087
+1111.53 0 0 0.9762 0.0329
+-286.65 0 0 0.2347 0.0079
+-367.5 0 0 0.3009 0.0101
+-62.4 0 0 0.0724 0.0024
+461 0 0 0.2727 0.0092
+206 0 0 0.3049 0.0103
+-1600 0 0 0.9029 0.0304
+Taxable Profit Turnover Brokerage Exchange Transaction ChargesIPFT
+7766.4 0 0 0.3533 0.0119
+Taxable Profit Turnover Brokerage Exchange Transaction ChargesIPFT
+Taxable Profit Turnover
+IPFT SEBI Charges CGST SGST IGST
+IPFT SEBI Charges CGST SGST IGST
+IPFT SEBI Charges CGST SGST IGST
+SEBI Charges CGST SGST IGST Stamp Duty
+0.0095 0.2848 0.2848 0 0
+SEBI Charges CGST SGST IGST Stamp Duty
+0.0243 0.0694 0.0694 0 2.0553
+0.0118 0.0337 0.0337 0 0.9447
+0.0087 0.0249 0.0249 0 0.6718
+0.0329 0.0938 0.0938 0 2.5273
+0.0079 0.0225 0.0225 0 0.78
+0.0101 0.0289 0.0289 0 1
+0.0024 0.007 0.007 0 0
+0.0092 0.0262 0.0262 0 0.4643
+0.0103 0.0293 0.0293 0 0.5357
+0.0304 0.0867 0.0867 0 2
+SEBI Charges CGST SGST IGST Stamp Duty
+0.0119 0.0339 0.0339 0 0
+SEBI Charges CGST SGST IGST Stamp Duty
+Stamp Duty STT
+Stamp Duty STT
+Stamp Duty STT
+STT
+1
+STT
+24.3564
+11.6436
+8.695
+32.7096
+7.9675
+10.2148
+2
+9.2358
+10.0463
+30.1383
+STT
+11.6829
+STT
+Client ID RC2100
+Client Name CHANDRAKANT GORAI
+PAN ARQPG9033N
+Taxpnl Statement for Equity from 2025-04-01 to 2026-03-15
+Realized Profit Breakdown
+Equity Intraday/Speculative profit18.5
+Equity Short Term profit -462.55
+Equity Long Term profit 7766.4
+Turnover Breakdown
+Intraday/Speculative turnover18.5
+Charges
+Account Head Amount
+Clearing Charges - Z 0
+Integrated GST - Z 0
+Stamp Duty - Z 25
+IPFT 0.259
+Brokerage - Z 3.0315
+Exchange Transaction Charges - Z7.6919
+Central GST - Z 1.0063
+State GST - Z 1.0063
+Securities Transaction Tax - Z249
+SEBI Turnover Fees - Z 0.259
+Other Charges
+Other Credits & Debits -493.39
+Equity Intraday
+Symbol Quantity Buy Value Sell Value Realized P&L
+HEG 10 4760 4778.5 18.5
+
+Equity Short Term
+Symbol Quantity Buy Value Sell Value Realized P&L
+NTPCGREEN 89 9345 8690.85 -654.15
+RCF 100 16000 14400 -1600
+HEG 10 5030 5236 206
+GSFC 100 20100 21507 1407
+MAHABANK 100 5700 6104 404
+STARHEALTH 10 4360 4821 461
+KPITTECH 10 12480 11856 -624
+IRFC 10 1250 1187.6 -62.4
+Equity Long Term
+Symbol Quantity Buy Value Sell Value Realized P&L
+NLCINDIA 48 4128 11894.4 7766.4
+Client ID RC2100
+Client Name CHANDRAKANT GORAI
+PAN ARQPG9033N
+Taxpnl Statement for Mutual Funds from 2025-04-01 to 2026-03-15
+Realized Profit Breakdown
+Short Term profit Equity 0
+Long Term profit Equity 0
+Short Term profit Debt 0
+Long Term profit Debt 0
+Debt - Purchases post 2023-04-010
+Charges
+Account Head Amount
+Other Charges
+Other Credits & Debits 0
+Short Term Trades Equity
+Symbol Quantity Buy Value Sell Value Realized P&L
+Long Term Trades Equity
+Symbol Quantity Buy Value Sell Value Realized P&L
+Short Term Trades Debt
+Symbol Quantity Buy Value Sell Value Realized P&L
+
+Long Term Trades Debt
+Symbol Quantity Buy Value Sell Value Realized P&L
+Debt - Purchases post 2023-04-01
+Symbol Quantity Buy Value Sell Value Realized P&L
+Client ID RC2100
+Client Name CHANDRAKANT GORAI
+PAN ARQPG9033N
+Taxpnl Statement for F&O from 2025-04-01 to 2026-03-15
+Realized Profit Breakdown
+Options Realized Profit 0
+Futures Realized Profit 0
+Turnover Breakdown
+Options Turnover 0
+Futures Turnover 0
+Charges
+Account Head Amount
+Other Charges
+Other Credits & Debits 0
+Options
+Symbol Quantity Buy Value Sell Value Realized P&L
+Futures
+Symbol Quantity Buy Value Sell Value Realized P&L
+
+Client ID RC2100
+Client Name CHANDRAKANT GORAI
+PAN ARQPG9033N
+Taxpnl Statement for Currency from 2025-04-01 to 2026-03-15
+Realized Profit Breakdown
+Options Realized Profit 0
+Futures Realized Profit 0
+Turnover Breakdown
+Options Turnover 0
+Futures Turnover 0
+Charges
+Account Head Amount
+Other Charges
+Other Credits & Debits 0
+Options
+Symbol Quantity Buy Value Sell Value Realized P&L
+Futures
+Symbol Quantity Buy Value Sell Value Realized P&L
+
+Client ID RC2100
+Client Name CHANDRAKANT GORAI
+PAN ARQPG9033N
+Taxpnl Statement for Commodity from 2025-04-01 to 2026-03-15
+Realized Profit Breakdown
+Options Realized Profit 0
+Futures Realized Profit 0
+Turnover Breakdown
+Options Turnover 0
+Futures Turnover 0
+Charges
+Account Head Amount
+Other Charges
+Other Credits & Debits 0
+Options
+Symbol Quantity Buy Value Sell Value Realized P&L
+Futures
+Symbol Quantity Buy Value Sell Value Realized P&L
+
+Client ID RC2100
+Client Name CHANDRAKANT GORAI
+PAN ARQPG9033N
+Other Debits and Credits for all segments from 2025-04-01 to 2026-03-15
+Equity
+Particulars Posting Date Debit
+AMC for Demat Account for 27-10-2025 to 25-01-2026 2026-02-19 88.5
+AMC for Demat Account for 28-07-2025 to 26-10-2025 2025-11-14 88.5
+DP Charges for Sale of MAHABANK on 16/10/2025 2025-10-16 15.34
+DP Charges for Sale of NTPCGREEN on 29/09/2025 2025-09-29 15.34
+DP Charges for Sale of RCF on 26/09/2025 2025-09-26 15.34
+DP Charges for Sale of HEG on 15/09/2025 2025-09-15 15.34
+DP Charges for Sale of STARHEALTH on 04/09/2025 2025-09-04 15.34
+DP Charges for Sale of IRFC on 28/08/2025 2025-08-28 15.34
+AMC for Demat Account for 28-04-2025 to 27-07-2025 2025-08-23 88.5
+DP Charges for Sale of GSFC on 20/08/2025 2025-08-20 15.34
+DP Charges for Sale of NLCINDIA on 05/08/2025 2025-08-05 15.34
+DP Charges for Sale of KPITTECH on 28/07/2025 2025-07-28 15.34
+Delayed payment charges for June - 2025 2025-07-03 1.33
+AMC for Demat Account for 27-01-2025 to 27-04-2025 2025-05-27 88.5
+Mutual Funds
+Particulars Posting Date Debit
+F&O
+Particulars Posting Date Debit
+Currency
+Particulars Posting Date Debit
+Commodity
+
+Particulars Posting Date Debit
+Credit
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Credit
+Credit
+Credit
+Credit
+Client ID RC2100
+Client Name CHANDRAKANT GORAI
+PAN ARQPG9033N
+Open Positions for F&O
+Symbol Trade Date Exchange Instrument Type Open Quantity
+Open Positions for Currency
+Symbol Trade Date Exchange Instrument Type Open Quantity
+Open Positions for Commodity
+Symbol Trade Date Exchange Instrument Type Open Quantity
+
+Average Price Previous Closing PriceUnrealized Profit
+Average Price Previous Closing PriceUnrealized Profit
+Average Price Previous Closing PriceUnrealized Profit
+Client ID RC2100
+Client Name CHANDRAKANT GORAI
+PAN ARQPG9033N
+Open Positions for F&O
+Symbol Trade Date Exchange Instrument Type Open Quantity
+Open Positions for Currency
+Symbol Trade Date Exchange Instrument Type Open Quantity
+Open Positions for Commodity
+Symbol Trade Date Exchange Instrument Type Open Quantity
+
+Average Price Previous Closing PriceUnrealized Profit
+Average Price Previous Closing PriceUnrealized Profit
+Average Price Previous Closing PriceUnrealized Profit
+Client ID RC2100
+Client Name CHANDRAKANT GORAI
+PAN ARQPG9033N
+Equity Dividends & Debt interest from 2025-04-01 to 2026-03-15
+Total Dividend Amount 10686.65
+Total Interest Amount 1929.68
+Quarterly Breakdown Net Dividend Amount
+Upto 15-Jun-2025 5818.4
+16-Jun-2025 to 15-Sep-20251878.25
+16-Sep-2025 to 15-Dec-2025783
+16-Dec-2025 to 15-Mar-20262207
+16-Mar-2026 to 31-Mar-20260
+Symbol ISIN Ex-date Quantity Dividend Per Share
+SBIN# INE062A01020 2025-05-16 24 15.9
+TRIDENT INE064C01022 2025-05-27 100 0.5
+ITC INE154A01025 2025-05-28 24 7.85
+INFY# INE009A01021 2025-05-30 8 22
+LT INE018A01030 2025-06-03 124 34
+TCS INE467B01029 2025-06-04 24 30
+TATASTEEL INE081A01020 2025-06-06 24 3.6
+HDFCBANK INE040A01034 2025-06-27 24 22
+BAJAJFINSV INE918I01026 2025-06-27 24 1
+TCS INE467B01029 2025-07-16 24 11
+HDFCBANK INE040A01034 2025-07-25 24 5
+KPITTECH INE04I401011 2025-07-28 10 6
+CDSL INE736A01011 2025-08-07 40 12.5
+QUESS INE615P01015 2025-08-08 2 6
+JIOFIN INE758E01017 2025-08-11 5 0.5
+RELIANCE INE002A01018 2025-08-14 42 5.5
+THOMASCOOK INE332A01027 2025-08-21 15 0.45
+IRCTC INE335Y01020 2025-08-22 24 1
+NITINSPIN6 INE229H01012 2025-08-29 10 3
+IRB INE821I01022 2025-08-29 400 0.07
+GNFC6 INE113A01013 2025-09-02 2 18
+RBLBANK INE976G01028 2025-09-08 12 1
+
+NLCINDIA INE589A01014 2025-09-19 100 1.5
+TCS INE467B01029 2025-10-15 26 11
+INFY# INE009A01021 2025-10-27 8 23
+IRB INE821I01022 2025-11-18 400 0.07
+IRCTC INE335Y01020 2025-11-21 27 5
+TCS INE467B01029 2026-01-16 27 11
+TCS INE467B01029 2026-01-16 27 46
+NLCINDIA INE589A01014 2026-01-20 100 3.6
+ITC# INE154A01025 2026-02-04 27 6.5
+QUESS INE615P01015 2026-02-06 2 5
+IRB INE821I01022 2026-02-18 400 0.07
+IRCTC INE335Y01020 2026-02-20 27 3.5
+Dividends are credited to your registered bank account within 30–45 days from the ex-date.
+Interest earned from 2025-04-01 to 2026-03-15
+Symbol ISIN Record Date Quantity Interest per quantity
+SGBOCT27VI IN0020190388 2025-04-15 3 47.9375
+945IFSL25 INE321N07301 2025-04-17 46 23.04
+1003VCL25 INE01HV07437 2025-04-21 5 8.24
+SGBN28VIII IN0020200286 2025-05-03 1 64.7125
+1003VCL25 INE01HV07437 2025-05-22 5 8.52
+1003VCL25 INE01HV07437 2025-06-22 5 8.24
+SGBJUL28IV IN0020200146 2025-06-29 2 60.65
+1003VCL25 INE01HV07437 2025-07-22 5 8.52
+1003VCL25 INE01HV07437 2025-08-22 5 8.52
+SGBOCT27VI IN0020190388 2025-10-15 3 47.9375
+SGBN28VIII IN0020200286 2025-11-03 1 64.7125
+SGBJUL28IV IN0020200146 2025-12-30 2 60.65
+Interest amount is credited to your registered bank account within 15 days from the record date.
+Net Dividend Amount
+381.6
+50
+188.4
+176
+4216
+720
+86.4
+528
+24
+264
+120
+60
+500
+12
+2.5
+231
+6.75
+24
+30
+28
+36
+12
+150
+286
+184
+28
+135
+297
+1242
+360
+175.5
+10
+28
+94.5
+Net Interest amount
+143.81
+1059.84
+41.2
+64.71
+42.6
+41.2
+121.3
+42.6
+42.6
+143.81
+64.71
+121.3
+Client ID RC2100
+Client Name CHANDRAKANT GORAI
+PAN ARQPG9033N
+Ledger Balances from 2025-04-01 to 2026-03-15
+Zerodha
+Opening Balance -85.3521
+Closing Balance -88.4962
