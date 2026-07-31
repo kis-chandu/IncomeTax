@@ -175,3 +175,7 @@ PDF: uploads/70000000159713585_..._Notice us 143(2)_1090008156(1)_20062026 (1).p
 - ⚠️ NPS partial stmt shows only 36,750 → GET full-FY NPS statement; 80CCD(1B) 50k may be overclaimed.
 - .idea/ removed, .gitignore added, downloads/ = intake folder w/ README. PENDING.txt files updated.
 - STILL OWED BY USER: 26AS FY24-25; HDFC/SBI-savings/Kotak/Indian Bank/Jio stmts FY24-25; FY24-25 payslips/EPF passbook; full-FY NPS stmt; health-insurance FY24-25 receipt (80D 25k); sanction letter + sale deed (Tier-2); answers: ₹12,240 rent income nature; ₹8,934 remittance; SBI→HDFC takeover date; AY26-27 ack/e-verify status; was 133(6) draft ever submitted?
+
+---
+## LOG 31-Jul-2026 (night, final) — MANDATORY-ONLY LIST FROZEN
+User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank stmts FY24-25 (HDFC/SBI/Kotak/IndianBank/Jio); FY24-25 payslips zip; full-FY NPS Tier-I stmt; health insurance FY24-25 receipt; sale deed (owner+SDV pages). Everything else = in-repo or declaration. List mirrored in FY2024-25_AY2025-26/MANDATORY-FOR-REPLY.txt.
