@@ -1,0 +1,934 @@
+General Information
+Permanent Account Number (PAN) Aadhaar Number Name of Assessee
+ARQPG9033N XXXX XXXX 4837 CHANDRAKANT GORAI
+Date of Birth Mobile Number E-mail Address
+07/03/1989 8123150307 kishore.chandrakant@gmail.com
+Address
+QUARTER NO. 1492,STREET - 49,SECTOR- 8 D,KODIGEHALLI,BOKARO,827009,JHARKHAND
+-------------------------------------------------------------------- Taxpayer Information Summary (TIS) --------------------------------------------------------------------
+(All amount values are in INR)
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+1 Salary 40,23,083 40,23,083
+2 Dividend 8,009 8,009
+3 Interest from savings bank 8,505 8,505
+4 Interest from deposit 4,807 4,807
+5 Interest from others 40,299 40,299
+6 Rent on plant & machinery 12,240 12,240
+7 Receipts on transfer of virtual digital asset 52,29,356 52,29,356
+8 Outward foreign remittance/purchase of foreign currency 8,934 8,934
+9 Purchase of securities and units of mutual funds 13,69,760 13,69,760
+The information details under each information category is provided on next page.
+Reported by Source - Value as reported by the information source
+Processed by System - Value after processing (including deduplication of information) based on pre-defined rules
+Accepted by Taxpayer/ Confirmed by Source - Value derived after considering the taxpayer's feedback or source's confirmation on taxpayer's feedback (if 
+any) and value Processed by System
+Disclaimer
+Taxpayer Information Summary (TIS) includes information presently available with Income Tax Department. There may be other transactions relating to the 
+taxpayer which are not presently displayed in Taxpayer Information Summary (TIS). Taxpayer is expected to check all related information and report complete 
+and accurate information in the Income Tax Return.
+Taxpayer Information Summary (TIS) Financial Year 2024-25
+Download ID : ARQPG9033N202605191357 IP Address : 103.214.61.2
+Generation Date : 19/05/2026, 13:57:21 Page 1 of 7
+ 
+----------------------------------------------------------- Annexure to Taxpayer Information Summary (TIS) -----------------------------------------------------------
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+1 Salary 40,23,083 40,23,083
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED BY 
+SOURCE
+PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ CONFIRMED 
+BY SOURCE
+1 Other Salary (TDS 
+Annexure II)
+TECHASPECT SOLUTIONS 
+PRIVATE LIMITED 
+(HYDT01220C)
+Gross Salary 
+Received
+40,23,083 40,23,083 40,23,083
+2 TDS/
+TCS
+Salary received 
+(Section 192)
+TECHASPECT SOLUTIONS 
+PRIVATE LIMITED 
+(HYDT01220C)
+Amount paid/
+credited
+40,23,083 - -
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+2 Dividend 8,009 8,009
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED 
+BY SOURCE
+PROCESSED 
+BY SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+1 SFT Dividend income 
+(SFT-015)
+LARSEN & TOUBRO LIMITED 
+(AAACL0140P .AZ859)
+Total Dividend 
+amount
+3,220 3,220 3,220
+2 SFT Dividend income 
+(SFT-015)
+TATA CONSUL TANCY SERVICES 
+LIMITED (AAACR4849R.AZ803)
+Total Dividend 
+amount
+2,318 2,318 2,318
+3 TDS/
+TCS
+Dividend received 
+(Section 194)
+TATA CONSUL TANCY SERVICES 
+LIMITED (MUMT24925F)
+Amount paid/
+credited
+2,318 - -
+4 SFT Dividend income 
+(SFT-015)
+INFOSYS LIMITED 
+(AAACI4798L.AZ382)
+Total Dividend 
+amount
+392 392 392
+5 SFT Dividend income 
+(SFT-015)
+CENTRAL DEPOSITORY SERVICES 
+(INDIA) LIMITED (AAACC6233A.AZ482)
+Total Dividend 
+amount
+330 330 330
+6 SFT Dividend income 
+(SFT-015)
+NLC INDIA LIMITED 
+(AAACN1121C.AZ821)
+Total Dividend 
+amount
+300 300 300
+7 SFT Dividend income 
+(SFT-015)
+HDFC BANK LIMITED 
+(AAACH2702H.AB772)
+Total Dividend 
+amount
+273 273 273
+8 TDS/
+TCS
+Dividend received 
+(Section 194)
+HDFC BANK LIMITED (MUMH03189E) Amount paid/
+credited
+273 - -
+9 SFT Dividend income 
+(SFT-015)
+I T C LIMITED (AAACI5950L.AZ257) Total Dividend 
+amount
+248 248 248
+10 SFT Dividend income 
+(SFT-015)
+INDIAN RAILWAY CATERING AND 
+TOURISM CORPORATION LIMITED 
+(AAACI7074F.AZ687)
+Total Dividend 
+amount
+206 206 206
+11 SFT Dividend income 
+(SFT-015)
+STATE BANK OF INDIA 
+(AAACS8577K.AB703)
+Total Dividend 
+amount
+192 192 192
+12 SFT Dividend income 
+(SFT-015)
+IRB INFRASTRUCTURE DEVELOPERS 
+LIMITED (AABCD1071G.AZ193)
+Total Dividend 
+amount
+160 160 160
+13 SFT Dividend income 
+(SFT-015)
+RELIANCE INDUSTRIES LIMITED 
+(AAACR5055K.AZ423)
+Total Dividend 
+amount
+160 160 160
+14 SFT Dividend income 
+(SFT-015)
+TATA STEEL LIMITED 
+(AAACT2803M.AZ428)
+Total Dividend 
+amount
+54 54 54
+PAN Name Financial Year
+ARQPG9033N CHANDRAKANT GORAI 2024-25
+Download ID : ARQPG9033N202605191357 IP Address : 103.214.61.2
+Generation Date : 19/05/2026, 13:57:21 Page 2 of 7
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED 
+BY SOURCE
+PROCESSED 
+BY SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+15 SFT Dividend income 
+(SFT-015)
+TRIDENT LIMITED 
+(AABCA4139J.AZ629)
+Total Dividend 
+amount
+36 36 36
+16 SFT Dividend income 
+(SFT-015)
+GUJARAT NARMADA VALLEY 
+FERTILISERS AND CHEMICALS 
+LIMITED (AAACG8372Q.AZ628)
+Total Dividend 
+amount
+33 33 33
+17 SFT Dividend income 
+(SFT-015)
+NITIN SPINNERS LIMITED 
+(AAACN7529A.AZ540)
+Total Dividend 
+amount
+25 25 25
+18 SFT Dividend income 
+(SFT-015)
+QUESS CORP LIMITED 
+(AABCI7601M.AZ849)
+Total Dividend 
+amount
+20 20 20
+19 SFT Dividend income 
+(SFT-015)
+RBL BANK LIMITED 
+(AABCT3335M.AB361)
+Total Dividend 
+amount
+18 18 18
+20 SFT Dividend income 
+(SFT-015)
+BAJAJ FINSERV LIMITED 
+(AADCB2924N.AZ595)
+Total Dividend 
+amount
+15 15 15
+21 SFT Dividend income 
+(SFT-015)
+THOMAS COOK INDIA LIMITED 
+(AAACT4050C.AZ973)
+Total Dividend 
+amount
+9 9 9
+22 SFT Dividend income 
+(SFT-015)
+VAKRANGEE LIMITED 
+(AAACV9920D.AZ838)
+Total Dividend 
+amount
+0 0 0
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+3 Interest from savings bank 8,505 8,505
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED BY 
+SOURCE
+PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+1 SFT Interest income 
+(SFT-016) – Savings 
+HDFC BANK LIMITED 
+(AAACH2702H.AB772)
+Interest 3,670 3,670 3,670
+2 SFT Interest income 
+(SFT-016) – Savings 
+STATE BANK OF INDIA 
+(AAACS8577K.AB703)
+Interest 2,805 2,805 2,805
+3 SFT Interest income 
+(SFT-016) – Savings 
+KOTAK MAHINDRA BANK 
+LIMITED (AAACK4409J.AB194)
+Interest 978 978 978
+4 SFT Interest income 
+(SFT-016) – Savings 
+IDFC BANK LIMITED 
+(AADCI6523Q.AB806)
+Interest 842 842 842
+5 SFT Interest income 
+(SFT-016) – Savings 
+JIO PAYMENTS BANK LIMITED 
+(AADCJ8257C.AB954)
+Interest 210 210 210
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+4 Interest from deposit 4,807 4,807
+PAN Name Financial Year
+ARQPG9033N CHANDRAKANT GORAI 2024-25
+Download ID : ARQPG9033N202605191357 IP Address : 103.214.61.2
+Generation Date : 19/05/2026, 13:57:21 Page 3 of 7
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED BY 
+SOURCE
+PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+1 SFT Interest income 
+(SFT-016) – Term 
+Deposit
+KOTAK MAHINDRA BANK 
+LIMITED (AAACK4409J.AB194)
+Interest 4,705 4,705 4,705
+2 SFT Interest income 
+(SFT-016) – Term 
+Deposit
+UTKARSH SMALL FINANCE BANK 
+LIMITED (AABCU9355J.AZ767)
+Interest 102 102 102
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+5 Interest from others 40,299 40,299
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED BY 
+SOURCE
+PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ CONFIRMED 
+BY SOURCE
+1 TDS/
+TCS
+Interest received on 
+securities (Section 193) 
+HOUSE OF KIERAYA LIMITED 
+(BLRK11703G)
+Amount paid/
+credited
+12,950 12,950 12,950
+2 TDS/
+TCS
+Interest received on 
+securities (Section 193) 
+CEUTICS BUSINESSES 
+PRIVATE LIMITED 
+(MUMC27289D)
+Amount paid/
+credited
+11,362 11,362 11,362
+3 TDS/
+TCS
+Interest received on 
+securities (Section 193) 
+INCRED FINANCIAL 
+SERVICES LIMITED 
+(MUMM37903F)
+Amount paid/
+credited
+4,348 4,348 4,348
+4 TDS/
+TCS
+Interest received on 
+securities (Section 193) 
+HELLA INFRA MARKET 
+LIMITED (PNEB11037F)
+Amount paid/
+credited
+3,733 3,733 3,733
+5 TDS/
+TCS
+Interest received on 
+securities (Section 193) 
+NAVI FINSERV LIMITED 
+(BLRC11116A)
+Amount paid/
+credited
+3,331 3,331 3,331
+6 TDS/
+TCS
+Interest received on 
+securities (Section 193) 
+VIVRITI CAPITAL LIMITED 
+(CHEV15012E)
+Amount paid/
+credited
+1,935 1,935 1,935
+7 TDS/
+TCS
+Interest received on 
+securities (Section 193) 
+UGRO CAPITAL LIMITED 
+(MUMC11113E)
+Amount paid/
+credited
+1,698 1,698 1,698
+8 TDS/
+TCS
+Interest received on 
+securities (Section 193) 
+PROFECTUS CAPITAL 
+PRIVATE LIMITED 
+(MUMP37684D)
+Amount paid/
+credited
+797 797 797
+9 TDS/
+TCS
+Interest received on 
+securities (Section 193) 
+BERAR FINANCE LIMITED 
+(NGPB00491B)
+Amount paid/
+credited
+145 145 145
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+6 Rent on plant & machinery 12,240 12,240
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED BY 
+SOURCE
+PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ CONFIRMED 
+BY SOURCE
+1 TDS/
+TCS
+Rent on plant & 
+machinery (Section 
+194I(a))
+EXCITEL BROADBAND 
+PRIVATE LIMITED 
+(DELE07854A)
+Amount paid/
+credited
+12,240 12,240 12,240
+ 
+PAN Name Financial Year
+ARQPG9033N CHANDRAKANT GORAI 2024-25
+Download ID : ARQPG9033N202605191357 IP Address : 103.214.61.2
+Generation Date : 19/05/2026, 13:57:21 Page 4 of 7
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+7 Receipts on transfer of virtual digital asset 52,29,356 52,29,356
+SR. NO. PART INFORMATION DESCRIPTION INFORMATION 
+SOURCE
+AMOUNT 
+DESCRIPTION
+REPORTED BY 
+SOURCE
+PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ CONFIRMED 
+BY SOURCE
+1 TDS/
+TCS
+Amount received on transfer 
+of virtual digital asset (Section 
+194S)
+BITCIPHER LABS LLP 
+(BLRB16129B)
+Amount paid/
+credited
+52,29,356 52,29,356 52,29,356
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+8 Outward foreign remittance/purchase of foreign currency 8,934 8,934
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED BY 
+SOURCE
+PROCESSED BY 
+SYSTEM
+ACCEPTED BY TAXPAYER/ 
+CONFIRMED BY SOURCE
+1 TDS/
+TCS
+Remittance under LRS 
+(u/s 206C(1G(a)))
+HDFC BANK LIMITED 
+(MUMH03189E)
+Remittance 
+amount
+8,934 8,934 8,934
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+9 Purchase of securities and units of mutual funds 13,69,760 13,69,760
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED 
+BY SOURCE
+PROCESSED 
+BY SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+1 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - SBI Mutual Fund(L) 
+(AAACC3035G.AZ670)
+Total purchase 
+amount
+2,21,989 2,21,989 2,21,989
+2 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - Quant MF(166) 
+(AAGCK6303B)
+Total purchase 
+amount
+2,00,990 2,00,990 2,00,990
+3 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - HDFC Asset Management 
+Company Limited(H) (AAACC3035G.AZ670)
+Total purchase 
+amount
+99,995 99,995 99,995
+4 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - UTI MUTUAL 
+FUND(108) (AAGCK6303B)
+Total purchase 
+amount
+91,995 91,995 91,995
+5 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - ICICI Prudential Mutual Fund(P) 
+(AAACC3035G.AZ670)
+Total purchase 
+amount
+91,772 91,772 91,772
+6 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - AXIS MUTUAL 
+FUND(128) (AAGCK6303B)
+Total purchase 
+amount
+73,996 73,996 73,996
+7 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - MOTILAL 
+OSWAL MUTUAL FUND(127) 
+(AAGCK6303B)
+Total purchase 
+amount
+51,997 51,997 51,997
+PAN Name Financial Year
+ARQPG9033N CHANDRAKANT GORAI 2024-25
+Download ID : ARQPG9033N202605191357 IP Address : 103.214.61.2
+Generation Date : 19/05/2026, 13:57:21 Page 5 of 7
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED 
+BY SOURCE
+PROCESSED 
+BY SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+8 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - Aditya Birla Sun Life Mutual 
+Fund(B) (AAACC3035G.AZ670)
+Total purchase 
+amount
+48,998 48,998 48,998
+9 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - INVESCO 
+MUTUAL FUND(120) (AAGCK6303B)
+Total purchase 
+amount
+46,998 46,998 46,998
+10 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - Bandhan AMC Limited(G) 
+(AAACC3035G.AZ670)
+Total purchase 
+amount
+36,998 36,998 36,998
+11 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - Kotak Mahindra Asset 
+Management Company Limited(K) 
+(AAACC3035G.AZ670)
+Total purchase 
+amount
+36,998 36,998 36,998
+12 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - NIPPON INDIA 
+MUTUAL FUND(RMF) (AAGCK6303B)
+Total purchase 
+amount
+36,998 36,998 36,998
+13 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - JM Financial 
+Mutual Fund(105) (AAGCK6303B)
+Total purchase 
+amount
+34,998 34,998 34,998
+14 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - Canara Robeco 
+Mutual Fund(101) (AAGCK6303B)
+Total purchase 
+amount
+32,998 32,998 32,998
+15 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - DSP Asset Managers Private 
+Limited(D) (AAACC3035G.AZ670)
+Total purchase 
+amount
+27,427 27,427 27,427
+16 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - 360 ONE  Asset Management 
+Limited(IF) (AAACC3035G.AZ670)
+Total purchase 
+amount
+23,999 23,999 23,999
+17 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - Mirae Asset 
+Mutual Fund(117) (AAGCK6303B)
+Total purchase 
+amount
+23,999 23,999 23,999
+18 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - BANK OF INDIA 
+MUTUAL FUND(116) (AAGCK6303B)
+Total purchase 
+amount
+17,999 17,999 17,999
+19 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - LIC MUTUAL 
+FUND(102) (AAGCK6303B)
+Total purchase 
+amount
+17,999 17,999 17,999
+20 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - PGIM INDIA 
+MUTUAL FUND(129) (AAGCK6303B)
+Total purchase 
+amount
+17,999 17,999 17,999
+21 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - Tata Asset Management Private 
+Limited(T) (AAACC3035G.AZ670)
+Total purchase 
+amount
+15,999 15,999 15,999
+22 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - QUANTUM 
+MUTUAL FUND(123) (AAGCK6303B)
+Total purchase 
+amount
+15,499 15,499 15,499
+23 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - Union Mutual Fund(UK) 
+(AAACC3035G.AZ670)
+Total purchase 
+amount
+12,999 12,999 12,999
+24 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - PPFAS Asset Management Pvt. 
+Ltd.(PP) (AAACC3035G.AZ670)
+Total purchase 
+amount
+11,999 11,999 11,999
+25 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - ITI MUTUAL 
+FUND(152) (AAGCK6303B)
+Total purchase 
+amount
+8,000 8,000 8,000
+PAN Name Financial Year
+ARQPG9033N CHANDRAKANT GORAI 2024-25
+Download ID : ARQPG9033N202605191357 IP Address : 103.214.61.2
+Generation Date : 19/05/2026, 13:57:21 Page 6 of 7
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED 
+BY SOURCE
+PROCESSED 
+BY SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+26 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - SAMCO 
+MUTUAL FUND(188) (AAGCK6303B)
+Total purchase 
+amount
+8,000 8,000 8,000
+27 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - Baroda BNP 
+Paribas Mutual Fund(178) (AAGCK6303B)
+Total purchase 
+amount
+7,122 7,122 7,122
+28 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - Franklin Templeton Asset 
+Management India Private Limited(FTI) 
+(AAACC3035G.AZ670)
+Total purchase 
+amount
+7,000 7,000 7,000
+29 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - HSBC Asset Management ( India ) 
+Private Limited(O) (AAACC3035G.AZ670)
+Total purchase 
+amount
+7,000 7,000 7,000
+30 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - Helios Capital Asset Management 
+(India) Private Limited(HLS) 
+(AAACC3035G.AZ670)
+Total purchase 
+amount
+7,000 7,000 7,000
+31 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - Edelweiss 
+Mutual Fund(118) (AAGCK6303B)
+Total purchase 
+amount
+5,000 5,000 5,000
+32 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - WhiteOak Capital Asset 
+Management Limited(Y) 
+(AAACC3035G.AZ670)
+Total purchase 
+amount
+4,000 4,000 4,000
+33 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - Zerodha Fund House(Z) 
+(AAACC3035G.AZ670)
+Total purchase 
+amount
+4,000 4,000 4,000
+34 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - TAURUS 
+MUTUAL FUND(104) (AAGCK6303B)
+Total purchase 
+amount
+4,000 4,000 4,000
+35 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - TRUST 
+MUTUAL FUND(185) (AAGCK6303B)
+Total purchase 
+amount
+4,000 4,000 4,000
+36 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - Mahindra Manulife Investment 
+Management Private Limited(MM) 
+(AAACC3035G.AZ670)
+Total purchase 
+amount
+3,000 3,000 3,000
+37 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - GROWW 
+MUTUAL FUND(125) (AAGCK6303B)
+Total purchase 
+amount
+3,000 3,000 3,000
+38 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+KFin Technologies Pvt. Ltd - NJ MUTUAL 
+FUND(187) (AAGCK6303B)
+Total purchase 
+amount
+3,000 3,000 3,000
+39 SFT Purchase of 
+mutual funds (SFT 
+- 018)
+Computer Age Management Services 
+Limited - NAVI AMC LIMITED(PLF) 
+(AAACC3035G.AZ670)
+Total purchase 
+amount
+2,000 2,000 2,000
+ 
+PAN Name Financial Year
+ARQPG9033N CHANDRAKANT GORAI 2024-25
+Download ID : ARQPG9033N202605191357 IP Address : 103.214.61.2
+Generation Date : 19/05/2026, 13:57:21 Page 7 of 7

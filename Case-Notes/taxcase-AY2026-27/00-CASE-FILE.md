@@ -148,3 +148,21 @@ PDF: uploads/70000000159713585_..._Notice us 143(2)_1090008156(1)_20062026 (1).p
 - [31-Jul] FACT C3: FY24-25 HL EMIs paid SOLELY from assessee's bank account → defends FULL ₹2,00,000 24(b) claim despite wife co-borrowing (repayment-source test met; attach his repayment bank stmt + co-borrower deed note).
 - [31-Jul] FACT C4: ONLY six bank accounts (HDFC, IDFC, Kotak, SBI, Indian Bank, Jio) → Demand-3 bank pack bounded; no hidden/dormant/NRE accounts to disclose.
 - [31-Jul] FACT C5: NO big one-off credits FY24-25 (no gifts/loans/maturities/cash deposits) → Demand-3 narration index limited to routine entries: salary, refund?, CoinSwitch flows, MF, interest, own-transfers.
+
+---
+## LOG 31-Jul-2026 ~14:30 IST — REPO PUSHED
+- Pushed to github.com/kis-chandu/IncomeTax main: `cbbd5d3..bd91aaf` (two commits: year-wise reorg b9d2f15 + AIS fix bd91aaf). Token used once via env-var credential helper; NEVER stored in git config (remote URL verified clean).
+- Uploads reconciliation: 13 of 14 files in /home/user/uploads were byte-identical to files already organized in repo. 14th = FY25-26 AIS: upload (12pg, downloaded 29-Jul-2026, full-year) differed from repo copy (9pg, 20-May-2026, partial through Dec-2025). RESOLVED: both kept, date-labeled (`AIS_20052026_partial.pdf`, `AIS_29072026.pdf`) in FY2025-26/04-AIS-TIS; archive duplicate removed.
+- PENDING ON USER: (1) flip repo to PRIVATE; (2) REVOKE the ghp_ token at github.com/settings/tokens (it was a classic token; worked, now disused).
+
+---
+## LOG 31-Jul-2026 (late) — TRACK 2 INVESTIGATION SPRINT (IoT of evidence)
+1. **CoinSwitch FY24-25 Tax P&L workbook FOUND in-repo** (was misfiled as bank doc "report_27477331.xlsx"): 6,223 transfers verified row-by-row; consideration 52,39,849.05; cost 52,12,523.51; **income u/s 115BBH = 38,859.70** (5,089 profit legs, 1,097 loss legs −11,534.16 not set-offable); fees 20,887.09; realized profit 6,438.45; TDS 52,277.60; deposits 50,100; withdrawal 100; portfolio nil. ⇒ matches draft 133(6) claims ~exactly.
+2. **ITR-U BARRED during pending 143(3)** (139(8A) 3rd proviso; pending from 143(2) 20-Jun-2026) — 5 sources. STRATEGY PIVOT: corrective disclosure inside 142(1) reply + accept ~₹12,089 differential + 270A(6)(a) bona fide + 270AA fallback. Do NOT repeat "will file ITR-U" language (from old 133(6) drafts).
+3. **HL in AY25-26 return = SBI loan 40108253827** (30-Mar-2021, 44L, SDV 45L), NOT HDFC. Interest declared 3,90,669 supports 24(b) 2,00,000 + 80EEA 1,50,000 (total claim 3.5L). HDFC 703764316 = refinance (FY25-26 doc; pre-EMI interest 2,57,199). NEED: SBI FY24-25 interest cert ★ (not in repo).
+4. **VI-A split (JSON):** 80C 2,01,797→1,50,000 (≈EPF; need FY24-25 payslips), 80CCD1B 50,000 (need FY24-25 NPS stmt), 80D 25,000 (need premium proof), 80EEA 1,50,000 (SBI docs), 80TTA 8,505 ✓ties TIS.
+5. **IFOS 71,731 mapped:** dividend 8,009 / SB 8,505 / FD 4,807 / rent-machinery 12,240 / interest-securities 38,170. TIS "interest from others" 40,299 → Δ2,129 to explain. TIS categories tie otherwise. Rent 12,240: what asset? (user). Remittance 8,934, MF/securities buys 13,69,760: informational.
+6. **Employer identity confirmed:** TechAspect Solutions Pvt Ltd, TAN HYDT01220C. Salary gross 40,23,083; exempt u/s 10 = 1,34,184.
+7. Fund flow IDFC-verified: SBI 50,000 (30-Jan, narration "Depositor Investment") → 49,600+500 → Bitcipher; 100 back via EquitasBank TPSTESTING; ₹1 Cashfree test. No other crypto credits FY24-25.
+8. Repo reorganization #2 (misfiled items relocated; PENDING.txt placeholders added in FY24-25 05/06/07 folders); NOT yet pushed (token to be re-minted when user wants).
+9. New workpaper: 06-AY2025-26-RETURN-ANATOMY.md (all verified numbers = drafting backbone). TIS extract saved tis-2425-extract.txt.

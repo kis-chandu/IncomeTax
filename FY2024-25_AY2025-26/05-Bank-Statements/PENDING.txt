@@ -1,0 +1,7 @@
+PENDING bank statements 01-04-2024 to 31-03-2025 (user to upload):
+- HDFC savings account statement (EMI debits? salary/FD credits)
+- SBI savings account statement (50,000 -> IDFC on 30-Jan-2025; any CoinSwitch credits)
+- Kotak savings/current (even if NIL/one-page confirmation)
+- Indian Bank statement
+- Jio Payments Bank statement
+HAVE: IDFC First 10056816452 (full FY24-25) - in this folder
