@@ -116,3 +116,18 @@ Demand #4 = DONE.
 **80CCD(1B) ⚠️:** NPS Tier-I stmt Apr-2024→08-Jan-2025 = 5×4,200 + 5×3,150 = **₹36,750 only** vs claimed ₹50,000. Statement ends 08-Jan-25 → need FULL-FY (through 31-Mar-2025) NPS statement. If final < 50,000, claim is partially unsupported → decide presentation in drafting (proactive trim strengthens 270A(6)(a)).
 **ePRAN card** filed (PRAN 110169825743 ✓).
 **Hygiene:** user's web-upload brought `.idea/` IDE folder (removed + .gitignore added); downloads/ now has README intake note. dups purged: LAC ×3, NPS FY25-26 dup, LIC FY25-26 dup, HL-cert dup, receipt dup.
+
+## 12. FORM 26AS AY2025-26 RECEIVED & FULLY PARSED (03-Aug-2026; TRACES on-demand txt, request 200524931, created 31-07-2026)
+**Demand #2 named document = DONE.** 23,726 lines; Part-I = 14 deductors (23,460 Bitcipher rows alone). Parts II-IV, V, VII-IX, X: NIL. **Part-VI (TCS): HDFC Bank u/s 206CQ ₹8,933.66 (08-Aug-2024), TCS ₹0** ← the "outward remittance 8,934" = LRS/foreign remittance via HDFC, zero tax. Part-VII refunds: NIL here (FY24-25 refund belongs to FY25-26 26AS ✓).
+**Part-I DEDUCTOR TABLE (gross / TDS):** TechAspect 40,23,083 / 9,19,053 [192] ✓; Bitcipher (CoinSwitch) **52,29,329.97 / 52,279.39** [194S]; Navi Finserv 3,331 / 562.80 [193]; House of Kieraya (Furlenco) 12,950 / 1,295 [193]; Vivriti 1,934.36 / 193.45; UGRO 1,698 / 212.50; Ceutics 11,362 / 1,136; HDFC Bank 273 / 55 [194 div]; Incred 4,347.07 / 653; Profectus 797 / 86; TCS Ltd 2,318 / 0 [194 div]; Berar Finance 145 / 15; Hella Infra 3,733 / 375; Excitel Broadband 12,245.76 / 367.36 [194I(a)] ← see below.
+**Σ TDS-credit per 26AS = 9,75,916.14 vs claimed 9,75,885 → ₹31 UNCLAIMED (favorable; footnote).**
+
+### KEY FINDINGS
+1. **₹12,240 mystery SOLVED:** **Excitel Broadband Pvt Ltd** pays him ₹1,020.48/mo (₹12,245.76/yr) with **2% TDS u/s 194-I(a) = rent of plant & machinery** — matches TIS category + Schedule OS row 1c (12,240 declared). Almost certainly equipment/space rental at his flat — CONFIRM w/ user one-liner for demand #7.
+2. **NEW UNDER-DECLARATION FOUND (before AO could):** Navi Finserv 193-interest 26AS ₹3,331 vs ITR-mapped ₹1,202 → **IFOS short by ₹2,129** (exact). Micro-bond coupons (WintWealth/Grip-type basket: Navi/Kieraya/Vivriti/UGRO/Ceutics/Incred/Profectus/Berar/Hella). Sum of 193 gross = 40,297.43 ≈ TIS "interest from others" 40,299 ✓ — but ITR OS-1e declared only 38,170 (missing the Navi 2,129; X-ref figured rows: BLRC11116A mapped 1,202).
+3. VDA gross figure cluster (recon row in reply): CoinSwitch 52,39,849.05 | 26AS 52,29,329.97 | TIS 52,29,356 | ITR-TDS-row 52,29,372 | all ±0.22% (deductor rounding + "G"-remark correction-reversal pairs in 26AS detail). TDS cluster: workbook 52,277.60 | 16A 52,278.39 | **26AS 52,279.39 (authoritative for credit)** | claimed 52,293 (₹13.61 over-claim, de-minimis, offset by 31.14 under-claim elsewhere).
+### CORRECTED COMPUTATION (for voluntary disclosure in reply)
+- VDA income 113 → **38,860** (Δ+38,747 @30% + cess = **12,089**)
+- IFOS 71,731 → **73,860** (Δ+2,129 @31.2% ≈ **664**)
+- Total additional liability ≈ **₹12,753**; still fully covered by crypto TDS alone; refund (~₹1.27L) stays.
+- 270A(6)(a) posture: BOTH corrections volunteered in reply itself w/ full schedules = bona fide documented.
