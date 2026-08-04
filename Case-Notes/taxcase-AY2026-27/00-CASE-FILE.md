@@ -188,3 +188,13 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 - TCS row: HDFC 206CQ ₹8,933.66@0% = the 8,934 remittance (LRS, not income) — question closed.
 - 26AS txt filed: FY2024-25/03-AIS-TIS/. Commit 054aaeb pushed.
 - Mandatory-6 status: 26AS✅ Form16✅ SBIcert✅ LIC/NPS(partial)/tuition✅ | remaining: 5 bank stmts, payslips FY24-25, full-FY NPS, health-insurance receipt, sale-deed pages. Bank stmts = the only true gate for reply assembly.
+
+---
+## LOG 04-Aug-2026 — BANK STATEMENT HAUL #1 (4 of 6 accounts now in)
+- User web-uploaded 4 files; arranged into FY2024-25/05-Bank-Statements (commit pending this line).
+- **HDFC 00101130003550 (Besant Nagar, 48pp) = SALARY/OPERATING A/C**: 13× TechAspect salary NEFT (e.g., 30-Apr-24 +2,35,091), **HOME LOAN EMI "HOME LOAN <MONTH> 2024" narrations + EMI cheque debits (demand-#5 repayment source ✓)**, Groww 120×, Zerodha 99× (= TIS securities 13,69,760 story), eNPS debits (ties NPS stmt), Sristi tuition UPI.
+- **Kotak 2112302126 (9pp)**: FD maturity 77,585 (02-Apr-24), sweep/ActivMoney moves; 3 large credits (80,000 UPI 03-Apr; 1,48,650 IMPS; +FD) → cross-match as OWN transfers in narration index pending SBI/HDFC outflow sides.
+- **Jio Payments 001620421000864 (16pp)**: NOT dormant — totals Dr 1,82,656 / Cr 1,83,116, 65+218 txns; closing 509.21. Contains NPS-Trust & Sristi UPIs.
+- **IDFC re-download (26pp, totals Dr 6,61,365 / Cr 6,66,616 / close 15,223.08)** replaced repo copy (same account/period, complete totals row). Navi coupon credits visible here (ties 26AS Navi rows).
+- MISSING: SBI savings + Indian Bank. SBI = last true gate (50,000 crypto trail + EMI outflow side).
+- MANDATORY-6 now: Form16✅ 26AS✅ HLcert✅ banks 4/6 ⏳ | payslips, full-FY NPS, health receipt, sale deed still owed.

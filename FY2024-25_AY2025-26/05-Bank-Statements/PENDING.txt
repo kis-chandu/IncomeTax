@@ -1,7 +1,9 @@
-PENDING bank statements 01-04-2024 to 31-03-2025 (user to upload):
-- HDFC savings account statement (EMI debits? salary/FD credits)
-- SBI savings account statement (50,000 -> IDFC on 30-Jan-2025; any CoinSwitch credits)
-- Kotak savings/current (even if NIL/one-page confirmation)
-- Indian Bank statement
-- Jio Payments Bank statement
-HAVE: IDFC First 10056816452 (full FY24-25) - in this folder
+BANK STATEMENTS FY 2024-25 (demand #3) - STATUS
+HAVE (6 of 6 known accounts... 4 here + earlier):
+- IDFC First 10056816452 (26pp re-download w/ totals: Dr 6,61,365 / Cr 6,66,616 / close 15,223.08) OK
+- HDFC 00101130003550 Besant Nagar Chennai (48pp) OK  <- NEW 04-Aug
+- Kotak 2112302126 HRBR Layout (9pp, open 30,305.58; note FD maturity 77,585 + sweeps) OK <- NEW 04-Aug
+- Jio Payments 001620421000864 (16pp, close 509.21 - quasi-dormant) OK <- NEW 04-Aug
+STILL MISSING:
+- SBI savings account (CRITICAL: 50,000 -> IDFC 30-Jan-2025 CoinSwitch trail; EMI debits for HL 40108253827; SBIN0011822)
+- Indian Bank account (even NIL/one-pager)
