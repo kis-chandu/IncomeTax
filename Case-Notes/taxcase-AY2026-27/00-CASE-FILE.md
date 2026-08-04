@@ -179,3 +179,12 @@ PDF: uploads/70000000159713585_..._Notice us 143(2)_1090008156(1)_20062026 (1).p
 ---
 ## LOG 31-Jul-2026 (night, final) — MANDATORY-ONLY LIST FROZEN
 User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank stmts FY24-25 (HDFC/SBI/Kotak/IndianBank/Jio); FY24-25 payslips zip; full-FY NPS Tier-I stmt; health insurance FY24-25 receipt; sale deed (owner+SDV pages). Everything else = in-repo or declaration. List mirrored in FY2024-25_AY2025-26/MANDATORY-FOR-REPLY.txt.
+
+---
+## LOG 03-Aug-2026 — 26AS AY2025-26 SECURED & PARSED (demand-#2 named doc DONE)
+- User fetched TRACES on-demand 26AS (req 200524931, txt). Parsed: 14 deductors; 26AS TDS-credit Σ=9,75,916.14 vs claimed 9,75,885 (+31 favorable).
+- **Mystery ₹12,240 solved:** Excitel Broadband 194-I(a), ₹1,020.48/mo equipment/space rent (2% TDS). User to confirm one-liner.
+- **New self-found correction #2:** Navi Finserv 193-interest ₹2,129 under-declared IFOS → folded into voluntary disclosure. Corrected addl liability ≈ ₹12,753 (VDA 12,089 + Navi 664). Posture unchanged: refund >₹1.25L, zero revenue loss, 270A(6)(a) stronger.
+- TCS row: HDFC 206CQ ₹8,933.66@0% = the 8,934 remittance (LRS, not income) — question closed.
+- 26AS txt filed: FY2024-25/03-AIS-TIS/. Commit 054aaeb pushed.
+- Mandatory-6 status: 26AS✅ Form16✅ SBIcert✅ LIC/NPS(partial)/tuition✅ | remaining: 5 bank stmts, payslips FY24-25, full-FY NPS, health-insurance receipt, sale-deed pages. Bank stmts = the only true gate for reply assembly.
