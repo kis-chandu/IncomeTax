@@ -63,6 +63,12 @@ Enclosed (Cert SHYODPA dt 04-Jun-2025): gross salary ₹40,23,083 & TDS ₹9,19,
 P1 activities note (this letter) · P2-A return · P2-B 26AS · P2-C computation · P3-A 5 bank statements · P3-B narration index · P4-A Form 16 A&B ⟦P4-B payslips — PENDING⟧ · P5 ⟦sale deed + SBI final cert + sanction/agreement/schedule + HDFC interest stmt — PENDING⟧ · P6 LIC stmt, tuition receipts, ePRAN, ⟦NPS full stmt, 80D receipt — PENDING⟧ · P8-A CoinSwitch tax workbook · P8-B 6,223-trade VDA computation extract · Z corrected-computation summary.
 
 ---
+### UPLOAD-SCOPE DECISIONS (05-Aug-2026)
+- Pile A (AO uploads): P2-A/B/C, P3-A/B, P4-A, P5 set, P6 set, P8-A/B — mostly repo files; NEW user uploads = deed-PDF, NPS stmt, SBI final cert only.
+- Pile B (verification, not demanded): P4-B payslips — recommended to upload anyway (closes 80C/EPF proof in round 1: LIC 52,782 + tuition 65,000 = 1,17,782 < 1,50,000 cap ⇒ EPF delta ~₹32k+ needed; EPF passbook (Umang) = fallback evidence, but payslips also decode the ₹1,34,184 breakup).
+- 80D receipt: upload only if no payroll-medical evidence in payslips.
+- Packaging: merge into lean, clearly-named PDFs within e-Proceedings limits.
+
 ### OPEN WORK before submission
 1. Fill P4-B from payslips (exempt ₹1,34,184 breakup; EPF/80C split; PT).
 2. Paste SBI final-cert + HDFC interest figures into P5 table; attach sanction/agreement/schedule + sale deed.
