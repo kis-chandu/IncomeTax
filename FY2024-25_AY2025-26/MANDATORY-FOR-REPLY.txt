@@ -3,8 +3,9 @@ Everything NOT listed here is either already in the repo or will be covered by d
 Upload to downloads/ (or uploads/).
 
 1. 26AS FY 2024-25 (PDF) ................. incometax.gov.in > e-File > View Form 26AS (2 min)
-2. Bank statements 01-Apr-2024..31-Mar-2025: REMAINING = SBI savings + Indian Bank only
-   (HAVE: IDFC First, HDFC 00101130003550, Kotak 2112302126, Jio Payments 001620421000864)
+2. Bank statements 01-Apr-2024..31-Mar-2025: REMAINING = Indian Bank only
+   (HAVE: HDFC 00101130003550, IDFC First, Kotak 2112302126, Jio Payments 001620421000864,
+    SBI 40092818384 <- received 05-Aug-2026)
 3. FY 2024-25 payslips (Apr-2024..Mar-2025), 12 PDFs as one zip
    (proves EPF for 80C + the 1,34,184 exempt allowances + professional tax + any payroll-deducted medical premium)
 4. NPS Tier-I statement full FY 01-Apr-2024..31-Mar-2025
@@ -13,3 +14,9 @@ Upload to downloads/ (or uploads/).
    (unless payslips already show payroll-deducted medical premium)
 6. Registered sale deed of Mukunda Brundhavan flat - scan of first page + the page showing
    owner name(s) and stamp duty value (proves ownership for 24(b)/80EEA)
+7. NEW (05-Aug-2026, strongly recommended; one branch/netbanking step each):
+   a. SBI FINAL interest / loan-closure certificate FY 2024-25 for HL 40108253827
+      (loan CLOSED 18-Feb-2025 per bank statement -> the provisional cert Rs 3,90,669
+       is a full-year projection and stale; reply must quote actuals)
+   b. HDFC FY 2024-25 interest statement / first-EMI schedule for takeover loan 703764316
+      (shows first-EMI date + interest for 18-Feb..31-Mar-2025, payable basis)

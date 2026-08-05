@@ -48,6 +48,7 @@ CoinSwitch (Bitcipher Labs LLP, TAN BLRB16129B) "Smart Invest" algo bot. Source:
 - 80EEA conditions per return data: sanction 30-Mar-2021 ∈ [01-04-19, 31-03-22] ✓; loan 44L ≤ 45L ✓; SDV 45L ≤ 45L ✓; **"no other residential house on sanction date" — needs declaration/proof**
 - HDFC 703764316 (₹42.5L @7.60%) = **REFINANCE** loan seen in FY25-26 documents (cert lists co-borrowers Mr + Mrs Priyanka Gorai; FY25-26: principal 74,230, interest 1,07,074, **pre-EMI interest 2,57,199** = 5-yr 24(b) installments ₹51,440/yr where eligible — a FY25-26+ matter)
 - **DOCS STILL NEEDED from user:** SBI FY24-25 interest certificate (the ₹3,90,669 proof — the single most important annexure for #5), sanction letter, agreement+schedule, SBI loan-a/c statement FY24-25, registered sale deed, "Sole EMI payer from his accounts" proof (C2 confirmed), no-other-house declaration.
+- **★ UPDATE 05-Aug-2026 (see §13):** SBI savings statement obtained — EMI trail proven (11×31,000 + 6×10,000 = ₹4,01,000 own funds), and **SBI HL CLOSED 18-Feb-2025 via HDFC takeover (credit 42,19,245 "FOR LOAN CLOSURE" → debit 42,21,242 "HL CLOSURE")**. Provisional cert ₹3,90,669 is a full-year projection and now stale; actual FY24-25 interest = SBI-to-18-Feb (~3.3–3.4L) + HDFC 18-Feb→31-Mar slice (payable basis) ≳ 3.6L ≥ 3.5L claim ✓. **New ask: SBI FINAL interest/closure certificate FY24-25 + HDFC FY24-25 interest statement (first-EMI date).** HDFC bank KYC address = C-114 Mukunda Brundhavan itself (ownership corroboration). First HL EMI appears to fall in FY25-26 (no HL-EMI-size debit in HDFC bank stmt before 31-Mar-25).
 
 ## 4. VI-A ₹3,83,505 (demand #6) — exact split from JSON
 | Section | Entered | Allowed | Proof status |
@@ -131,3 +132,39 @@ Demand #4 = DONE.
 - IFOS 71,731 → **73,860** (Δ+2,129 @31.2% ≈ **664**)
 - Total additional liability ≈ **₹12,753**; still fully covered by crypto TDS alone; refund (~₹1.27L) stays.
 - 270A(6)(a) posture: BOTH corrections volunteered in reply itself w/ full schedules = bona fide documented.
+
+## 13. SBI SAVINGS 40092818384 STATEMENT RECEIVED & FULLY PARSED (05-Aug-2026) — THE LAST CRITICAL BANK DOC
+Source: TRACES-style e-statement via email (password-unlocked), generated 05-08-2026. Filed: `FY2024-25_AY2025-26/05-Bank-Statements/SBI-Savings-40092818384-FY2024-25.pdf` (5pp).
+
+### A. Identity & integrity
+- SBI "Lotus Savings" (Aadhaar, chequebook) a/c **40092818384**, CIF 90747690186, Doddabanaswadi branch 11822, **IFSC SBIN0011822** ✓, opened **23/03/2021** (8 days before HL sanction 31/03/2021) = the home-loan servicing account.
+- **Ledger integrity PERFECT:** opening 74,501.80 + credits **48,17,083.00** (19) − debits **48,90,580.00** (27) = closing **1,004.80**; my line-by-line tally ties to the rupee.
+- SB interest credited: 629 (25/06) + 718 (25/09) + 842 (25/12) + 648 (25/03) = **₹2,837** (component of 80TTA 8,505 ✓).
+
+### B. Home-loan servicing (demand #5) — 11 EMIs + 6 prepayments, all own funds
+- **11 × UPI credit ₹45,000** (02/04→05/02) from own HDFC 00101130003550 (handle kishore.ch@okhdfcbank, narration "Home") = 4,95,000 — own-transfer funding the EMI account. Cross-visible on HDFC side as "HOME LOAN &lt;MONTH&gt;" UPIs (e.g. 05/02/2025 → KISHORE.CHANDRAKANT-4@OKHDFCBANK-**SBIN0011822** ✓).
+- **11 × DIRECT DR ₹31,000** (10th Apr→Feb) to HL 40108253827 = **₹3,41,000 EMI**. No March EMI (loan closed 18-Feb).
+- **6 × ₹10,000** part-prepayments (10/04→10/09, INB "Payment towards loan repayment") = ₹60,000.
+- **Total serviced to SBI HL in FY24-25 from own accounts = ₹4,01,000.**
+
+### C. ★ CRYPTO FUND TRAIL — 100% CLOSED (demand #8)
+| Date | Leg | Amount | Result |
+|---|---|---|---|
+| 28/01/25 | IMPS → ESFB-xx307 "BitCiphe/Deposit" | 1.00 | reversed same-ref (net 0) |
+| 28/01/25 | IMPS → ESFB-xx307 "BitCiphe/Deposit" | 50,000 | reversed same day (net 0) |
+| 30/01/25 | IMPS → ESFB-xx307 "CoinSwit/Deposit" | 50,000 | reversed same day (net 0) |
+| 30/01/25 | IMPS → **IDFB-xx452 own IDFC First** | 50,000 | **SUCCESS — net 50,000 out** |
+- Chain: HDFC salary → SBI (balance from 45k transfers) → **50,000 on 30-Jan-2025** → IDFC First → **49,600 to Bitcipher/Equitas 30-Jan** (+ earlier 500 on 22-Jan from IDFC; 100 test withdrawal returned). **Net fiat into crypto = ₹50,000 own money.** Gross consideration ₹52.39L ≈ **~104× churn** by the Smart Invest bot on that ₹50k base — the one-line answer to why 26AS 194S gross (52.29L) dwarfs any deposit.
+
+### D. ★ HOME LOAN CLOSURE / HDFC TAKEOVER — DATE SOLVED BY THE DOCUMENT
+- **18/02/2025:** credit **₹42,19,245 "DEP TFR FOR LOAN CLOSURE"** then debit **₹42,21,242 "WDL TFR HL CLOSURE 0040108253827"** → **SBI HL closed 18-Feb-2025** (own top-up ₹1,997). Credit = HDFC Ltd takeover disbursement (loan 703764316; FY25-26 certs) routed through SBI savings — self-explanatory narration, and exactly the kind of 42L credit an AO would otherwise question under demand #3.
+- **Consequence:** SBI interest accrued only 01-Apr-24→18-Feb-25 (~10.5 months). The provisional certificate (₹3,90,669, 19-Dec-2024) projected a full 12 months → **STALE for reply purposes**. Working estimate: SBI actual interest ≈ ₹3.3–3.4L + foreclosure interest slice; HDFC-side 42.19L interest for 18-Feb→31-Mar (payable basis if first EMI fell in FY25-26). Combined FY24-25 interest still ≳ **₹3.6L** ≥ claim 3,50,000 (24b 2L + 80EEA 1.5L) ✓, BUT the reply must present ACTUALS, not the stale projection.
+  - **NEW DOC ASK (strongly recommended):** SBI FINAL interest/loan-closure certificate FY24-25 (one branch/netbanking step) + HDFC FY24-25 interest statement/first-EMI schedule (shows when first EMI fell and interest portion).
+  - Cross-check: HDFC bank stmt through p48 shows NO HL-EMI-size debit before 31-Mar-25 — only "EMI 465411998 CHQ" **₹2,917** (05/03) + processing fee **₹353** (04/02) = a small consumer facility, NOT the 42L HL (HL a/c = 703764316). First HL EMI most likely fell in **FY25-26** (consistent with FY25-26 pre-EMI/EMI certs).
+- Bonus corroboration: HDFC bank a/c KYC address = "**C-114, C Block, Mukunda Brundhavan Apartments**, 3rd Cross, Kurudu Sonnenahalli, Bengaluru 560067" (c/o Kala Chand Gorai) = the mortgaged property itself → supports ownership/self-occupation. (SBI a/c address Doddabommasandra = older/other residence.)
+
+### E. New narration-index items needing user one-liners
+1. **23/02/25: IMPS ₹1,00,000 → ICIC-xx469 "Shalu/To Shalu"** (after ₹1 test 21/02 as "Priyansh/Test") — who & purpose? (visible the same week as the 42L closure credit ⇒ AO will ask).
+2. **Recurring ₹10,000/month UPI → Bank of India xx9177** ("FEBRUARY 2025", HDFC stmt) — rent for the Doddabanaswadi residence? If YES and the exempt-u/s-10 ₹1,34,184 includes HRA, we'll need rent receipts/agreement (payslips will confirm anyway).
+3. **04–05/03/25: credits ₹40,001 + ₹1 from "PUTUL RANI GORAI"** (Axis xx2773) — mother? gift/support?
+4. HDFC-side recurring debits for the index: "ACH HDFC BANK LTD-414234282 ₹15,906" (05/03; personal loan EMI?), "AUTOPAY SI-TAD ₹8,444/mo", ₹1,000 ×N ACH to INDIAN CLEARING CORP (BSE MF SIPs — ties to TIS MF purchases 13,69,760), Zerodha/Groww ACH legs.

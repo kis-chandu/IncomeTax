@@ -1,9 +1,10 @@
 BANK STATEMENTS FY 2024-25 (demand #3) - STATUS
-HAVE (6 of 6 known accounts... 4 here + earlier):
-- IDFC First 10056816452 (26pp re-download w/ totals: Dr 6,61,365 / Cr 6,66,616 / close 15,223.08) OK
-- HDFC 00101130003550 Besant Nagar Chennai (48pp) OK  <- NEW 04-Aug
-- Kotak 2112302126 HRBR Layout (9pp, open 30,305.58; note FD maturity 77,585 + sweeps) OK <- NEW 04-Aug
-- Jio Payments 001620421000864 (16pp, close 509.21 - quasi-dormant) OK <- NEW 04-Aug
+HAVE (5 of 6 known accounts):
+- HDFC 00101130003550 Besant Nagar Chennai (48pp) OK  <- SALARY/OPERATING a/c; HL-45k UPIs out
+- IDFC First 10056816452 (26pp, Dr 6,61,365.04 / Cr 6,66,615.80 / close 15,223.08) OK
+- Kotak 2112302126 HRBR Layout (9pp, open 30,305.58) OK
+- Jio Payments 001620421000864 (16pp, Dr 1,82,656 / Cr 1,83,116 / close 509.21) OK
+- SBI 40092818384 Doddabanaswadi (5pp, opening 74,501.80 / Cr 48,17,083 / Dr 48,90,580 /
+  close 1,004.80) OK  <- NEW 05-Aug-2026; EMI account + 18-Feb-25 HDFC-takeover closure
 STILL MISSING:
-- SBI savings account (CRITICAL: 50,000 -> IDFC 30-Jan-2025 CoinSwitch trail; EMI debits for HL 40108253827; SBIN0011822)
 - Indian Bank account (even NIL/one-pager)
