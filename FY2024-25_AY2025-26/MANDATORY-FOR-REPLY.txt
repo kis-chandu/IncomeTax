@@ -16,15 +16,22 @@ LEGEND:  [DONE] received  |  [DUE] still needed from you
           (80CCD(1B) Rs 50,000; partial stmt in repo stops 08-Jan-25 at Rs 36,750)
 [DUE ] 6. Health-insurance premium receipt / 80D certificate FY 2024-25 (Rs 25,000) -> demand #6
           explicit. SKIP ONLY IF the payslips already show a payroll-deducted medical premium.
-[DUE ] 7. Home-loan set for demand #5 (the notice's own words: ownership, repayment source,
-          sanction/agreement/schedule, purpose):
-          a. Registered sale deed — pages showing buyer name(s) + stamp duty value
-          b. SBI FINAL interest / loan-closure certificate FY 2024-25 (loan closed 18-Feb-25, so the
-             repo's provisional certificate is a stale projection; final cert is the actuals proof)
-          c. SBI sanction letter + loan agreement & repayment schedule (SBI netbanking/branch)
-          d. HDFC FY 2024-25 interest statement for takeover loan 703764316 (one download; needed
-             because part of the year's interest moved to HDFC from 18-Feb-2025)
+[REWRITTEN 05-Aug-2026, user-driven triage — flattened & cut]
+[DUE ] 4 items total:
+  1. FY24-25 payslips (12 PDFs, one zip) ............ payroll portal ~5 min
+  2. NPS Tier-I FULL-year statement FY24-25 ......... enps.nsdl.com ~3 min
+  3. Sale deed = ONLY 2 PHOTOS: (a) page showing seller->buyer name + SRO seal,
+     (b) Schedule-of-Property + consideration/SDV Rs 45L page.
+     (Backup instead: EC from Kaveri Online, 2-min download)
+  4. SBI FINAL interest/closure certificate FY24-25 . YONO/branch ~5 min
+     -> if it shows interest >= Rs 3,50,000, THAT IS ALL. HDFC FY24-25 statement
+        then NOT needed. (If below 3.5L: one 2-min HDFC portal pull, flagged then.)
+  5. 80D receipt = SKIP if any payslip shows payroll medical deduction.
 
-THAT IS ALL. 5 uploads total (items 3-7). Everything else — sister-in-law Rs 1L, mother transfers
-(10k/mo + 40,001), Kotak 80,000/1,48,650 (own transfers, proven), wife's transfers, LendBox,
-Excitel/Ultra lease income, crypto chain — is answered inside the reply itself from this repo.
+DROPPED (05-Aug-2026 triage): SBI sanction letter/agreement/schedule — the FY23-24 SBI
+certificate already in this repo carries the sanction date; reply cites it and offers
+originals on request.
+
+THAT IS ALL. Everything else — sister-in-law Rs 1L, mother transfers (10k/mo + 40,001),
+Kotak 80,000/1,48,650 (own transfers, proven), wife's transfers, LendBox, Excitel/Ultra
+lease income, crypto chain, bank narrations — is answered inside the reply from this repo.

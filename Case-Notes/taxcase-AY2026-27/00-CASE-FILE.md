@@ -223,3 +223,7 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 - Reply drafting begins (workpaper 07-REPLY-DRAFT-142(1).md).
 - Indian Bank variant RESOLVED: account **opened after 31-Mar-2025** (user, 05-Aug-2026) → declaration wording locked: "no Indian Bank account held during PY 2024-25 (opened in FY 2025-26)".
 - REPLY DRAFT v1 created: workpaper 07-REPLY-DRAFT-142(1).md — cover letter + P1–P8 + annexure map; only 4 placeholder slots remain (payslips→P4-B, HL set→P5, NPS/80D→P6). Core defenses drafted: 194S↔VDA (50k corpus ×104 churn; 115BBH ₹38,860; corrected TI ₹33,65,716; +₹12,753 tax vs ₹8,965 unclaimed credits; net ≈₹3,788+int), voluntary disclosure + 270A(6)(a)/270AA posture, 5-bank declaration w/ Indian Bank FY25-26 opening.
+
+## LOG 05-Aug-2026 (night) — USER FATIGUE MANAGEMENT: ask-list triaged to 4 flat tasks
+- User frustrated by nested sub-docs. Demand #5 set cut: DROPPED sanction letter/agreement/schedule (FY23-24 SBI cert in repo already proves sanction date 31-Mar-2021 — reply cites it + offers originals on request); HDFC FY24-25 interest stmt made CONDITIONAL (only if SBI final cert < ₹3.5L); sale deed = 2 phone photos (buyer-name page + schedule/consideration page) OR EC via Kaveri Online; 80D conditional on payslips.
+- FINAL ASK = payslips zip + NPS full-year stmt + deed 2 photos + SBI final cert (~20 min user effort). Nothing further will be asked for this notice — all analysis/annexures generated from repo.
