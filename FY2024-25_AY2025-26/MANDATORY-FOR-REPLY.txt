@@ -1,22 +1,31 @@
-ABSOLUTE-MANDATORY UPLOAD LIST for 142(1) reply (updated 31-Jul-2026)
-Everything NOT listed here is either already in the repo or will be covered by declaration.
-Upload to downloads/ (or uploads/).
+FINAL MANDATORY DOCUMENT LIST for the 142(1) reply — AUDITED 05-Aug-2026
+Rule applied: a document is on this list ONLY if (a) the 142(1) notice's 8 demands explicitly
+require it, or (b) it is the sole proof of a number the AO already sees. Nothing optional.
+Everything else has been answered or labelled from documents already in this repo.
 
-1. 26AS FY 2024-25 (PDF) ................. incometax.gov.in > e-File > View Form 26AS (2 min)
-2. Bank statements 01-Apr-2024..31-Mar-2025: REMAINING = Indian Bank only
-   (HAVE: HDFC 00101130003550, IDFC First, Kotak 2112302126, Jio Payments 001620421000864,
-    SBI 40092818384 <- received 05-Aug-2026)
-3. FY 2024-25 payslips (Apr-2024..Mar-2025), 12 PDFs as one zip
-   (proves EPF for 80C + the 1,34,184 exempt allowances + professional tax + any payroll-deducted medical premium)
-4. NPS Tier-I statement full FY 01-Apr-2024..31-Mar-2025
-   (current one stops 08-Jan-2025; must verify the 50,000 claim)
-5. Health insurance premium receipt/paid certificate FY 2024-25 (80D Rs 25,000)
-   (unless payslips already show payroll-deducted medical premium)
-6. Registered sale deed of Mukunda Brundhavan flat - scan of first page + the page showing
-   owner name(s) and stamp duty value (proves ownership for 24(b)/80EEA)
-7. NEW (05-Aug-2026, strongly recommended; one branch/netbanking step each):
-   a. SBI FINAL interest / loan-closure certificate FY 2024-25 for HL 40108253827
-      (loan CLOSED 18-Feb-2025 per bank statement -> the provisional cert Rs 3,90,669
-       is a full-year projection and stale; reply must quote actuals)
-   b. HDFC FY 2024-25 interest statement / first-EMI schedule for takeover loan 703764316
-      (shows first-EMI date + interest for 18-Feb..31-Mar-2025, payable basis)
+LEGEND:  [DONE] received  |  [DUE] still needed from you
+
+[DONE] 1. Form 26AS FY 2024-25                      -> demand #2/#8  (received 03-Aug-2026)
+[DONE] 2. Bank statements, 5 of 6 accounts          -> demand #3
+          (HDFC, SBI, IDFC, Kotak, Jio Payments in repo)
+[DUE ] 3. Indian Bank statement 01-Apr-24..31-Mar-25 -> demand #3 ("ALL bank accounts" — last one;
+          even a NIL/one-page statement is fine)
+[DUE ] 4. FY 2024-25 payslips, 12 months, one zip    -> demand #4 + #2 (Form 16 vs return
+          reconciliation the AO will run) + #6 (proves the EPF part of 80C). This one file also
+          replaces three other potential asks (exempt Rs 1,34,184 breakup, PT 2,400, payroll medical).
+[DUE ] 5. NPS Tier-I account statement, FULL FY 01-Apr-24..31-Mar-25 -> demand #6 explicit
+          (80CCD(1B) Rs 50,000; partial stmt in repo stops 08-Jan-25 at Rs 36,750)
+[DUE ] 6. Health-insurance premium receipt / 80D certificate FY 2024-25 (Rs 25,000) -> demand #6
+          explicit. SKIP ONLY IF the payslips already show a payroll-deducted medical premium.
+[DUE ] 7. Home-loan set for demand #5 (the notice's own words: ownership, repayment source,
+          sanction/agreement/schedule, purpose):
+          a. Registered sale deed — pages showing buyer name(s) + stamp duty value
+          b. SBI FINAL interest / loan-closure certificate FY 2024-25 (loan closed 18-Feb-25, so the
+             repo's provisional certificate is a stale projection; final cert is the actuals proof)
+          c. SBI sanction letter + loan agreement & repayment schedule (SBI netbanking/branch)
+          d. HDFC FY 2024-25 interest statement for takeover loan 703764316 (one download; needed
+             because part of the year's interest moved to HDFC from 18-Feb-2025)
+
+THAT IS ALL. 5 uploads total (items 3-7). Everything else — sister-in-law Rs 1L, mother transfers
+(10k/mo + 40,001), Kotak 80,000/1,48,650 (own transfers, proven), wife's transfers, LendBox,
+Excitel/Ultra lease income, crypto chain — is answered inside the reply itself from this repo.

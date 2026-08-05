@@ -168,3 +168,26 @@ Source: TRACES-style e-statement via email (password-unlocked), generated 05-08-
 2. **Recurring ₹10,000/month UPI → Bank of India xx9177** ("FEBRUARY 2025", HDFC stmt) — rent for the Doddabanaswadi residence? If YES and the exempt-u/s-10 ₹1,34,184 includes HRA, we'll need rent receipts/agreement (payslips will confirm anyway).
 3. **04–05/03/25: credits ₹40,001 + ₹1 from "PUTUL RANI GORAI"** (Axis xx2773) — mother? gift/support?
 4. HDFC-side recurring debits for the index: "ACH HDFC BANK LTD-414234282 ₹15,906" (05/03; personal loan EMI?), "AUTOPAY SI-TAD ₹8,444/mo", ₹1,000 ×N ACH to INDIAN CLEARING CORP (BSE MF SIPs — ties to TIS MF purchases 13,69,760), Zerodha/Groww ACH legs.
+
+## 14. USER ANSWERS + INTER-ACCOUNT CROSS-MATCHING COMPLETE (05-Aug-2026) — bank narration index now fully labelable (demand #3)
+### A. User's four answers (verbatim sense, recorded for reply wording)
+1. **"Shalu" ICIC-xx469, ₹1,00,000 (23-Feb-2025, SBI)** = **sister-in-law**; temporary monetary help, **repaid back later**. Narration: interest-free family accommodation to sister-in-law, subsequently returned; no income element either leg; no TDS/reportable consequence.
+2. **Recurring ₹10,000/month → Bank of India xx9177 ("FEBRUARY 2025" etc., from HDFC)** = **transfer to his mother** (not rent). Narration: family support to parent; gift to relative not taxable in recipient's hands (56(2)(x) recipient side), no implication in his return. **⇒ the exempt-u/s-10 ₹1,34,184 is NOT HRA-on-this**; its composition resolves via payslips only (mandatory item stays; no rent docs pre-emptively).
+3. **₹40,001 + ₹1 in from "Putul Rani Gorai" (Axis xx2773, 04–05-Mar-2025, HDFC)** = **mother, family exchange**. Narration: family fund exchange with parent; non-income receipt from a "relative" (exempt u/s 56(2)(x)).
+4. **Excitel Broadband ₹1,020.48/month (₹12,245.76 gross FY24-25, 26AS 194-I(a) @2%)** = **asset-leasing investment via the "Ultra" platform** (equipment financed by him, leased to Excitel). ⇒ IFOS answer #7 wording: "lease-rental income from telecom equipment owned by the assessee and leased to the deductor through an asset-leasing platform ('Ultra'); offered under IFOS at ₹12,240; ties to 26AS ₹12,245.76 / TDS ₹367.36." **#12,240 closed with proper description.**
+
+### B. Cross-matching done WITHOUT user input (mechanical, audit-grade)
+- **Kotak ₹80,000 (03-Apr-2024)** = own transfer **from HDFC xx3550** (UPI ref 409483666998 ties both sides; narration "Savings April"), immediately swept to own FD **[3564700088]** (ActivMoney). **RESOLVED — own funds.**
+- **Kotak ₹1,48,650 (05-Jun-2024)** = own transfer **from HDFC xx3550** (HDFC p9: debit 1,48,650 "XXXXXX2126-SAVINGS JUNE 2024" → Kotak xx2126 ✓). **RESOLVED — own funds.** (Earlier "own-transfer candidate" flags officially closed.)
+- **Kotak credits from PRIYANKA GORAI (wife, HDFC-HL co-borrower):** 20,000 (04/06), 30,000 (07/06), 50,000 (03/07), 10,000 (19/07), 30,000 (~05/09), 25,000 (~01/10) ≈ ₹1,65,000 — **family pooling from wife, non-income** (56(2)(x) relative). RESOLVED by counterparty identity (no user input needed).
+- **Kotak "LendBox" ₹10,000 (01-Jun-2024 UPI)** = P2P-lending platform fund flow; interest from such platforms sits inside IFOS "interest from others" ₹40,299 ↔ 26AS cluster. Labeled.
+- **Jio Payments = NPS payment rail:** monthly pattern UPI-DR "NATIONAL PENSION SYSTEM NPS TRUST / enps.rzph" — e.g., 02-Aug-24: 4,200 + 300; 02-Sep-24: 4,200 + 300 — funded by UPI-CR from HDFC "For NPS" (4,300+4,500). Confirms the 5×4,200 Tier-I pattern in the partial NPS statement; the 300s = Tier-II/gateway-side legs.
+- **IDFC 07-Mar-2025 "SIP" legs:** SBI 18,000 → IDFC (IMPS .../SBIN0011822/8384/SIP) → same-day UPI "SIP" 18,000 out; **plus a separate "SIP" 50,000 out the same day** (both via UPI/MOB handles). Destination unconfirmed by narration alone = **candidate NPS top-up(s) / MF SIP**; resolves ONLY from NPS full-year statement (mandatory item #4) + Groww/Zerodha tags (MF purchases sit in TIS 13,69,760). If NPS FY total ≥ 50,000, the 80CCD(1B) claim is safe; internal estimate: 36,750 (partial stmt) + likely ≥13,250 across Jio/IDFC Jan–Mar legs.
+
+### C. Bank narration coverage status after this pass
+- HDFC: salary, 45k HL UPIs, Zerodha/Groww/ICCL SIP ACH legs, 10k/mo to mother (BoI), 80k & 1,48,650 own transfers OUT, 40,001 from mother IN, PL-EMI 15,906 & AUTOPAY 8,444 (identity of product: minor, low-value; declare as loan EMI/insurance SIP if asked — NOT asking user now), IRCTC/retail = living expenses. ✓ label-ready
+- SBI: fully labeled (§13). ✓
+- IDFC: crypto legs ✓, Navi coupons ✓, SIP legs pending NPS stmt. ✓ near-complete
+- Kotak: fully labeled after this pass. ✓
+- Jio: NPS rail + Sristi fees + retail. ✓
+- **Indian Bank: statement itself still awaited — last gap for demand #3.**
