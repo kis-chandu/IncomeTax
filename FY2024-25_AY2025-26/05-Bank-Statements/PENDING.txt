@@ -1,10 +1,11 @@
-BANK STATEMENTS FY 2024-25 (demand #3) - STATUS
-HAVE (5 of 6 known accounts):
-- HDFC 00101130003550 Besant Nagar Chennai (48pp) OK  <- SALARY/OPERATING a/c; HL-45k UPIs out
-- IDFC First 10056816452 (26pp, Dr 6,61,365.04 / Cr 6,66,615.80 / close 15,223.08) OK
-- Kotak 2112302126 HRBR Layout (9pp, open 30,305.58) OK
-- Jio Payments 001620421000864 (16pp, Dr 1,82,656 / Cr 1,83,116 / close 509.21) OK
-- SBI 40092818384 Doddabanaswadi (5pp, opening 74,501.80 / Cr 48,17,083 / Dr 48,90,580 /
-  close 1,004.80) OK  <- NEW 05-Aug-2026; EMI account + 18-Feb-25 HDFC-takeover closure
-STILL MISSING:
-- Indian Bank account (even NIL/one-pager)
+BANK STATEMENTS FY 2024-25 (demand #3) - STATUS: COMPLETE
+Operative accounts in FY 2024-25 (user-confirmed universe, 05-Aug-2026):
+- HDFC 00101130003550 (salary/operating, 48pp) ....................................... IN
+- SBI 40092818384 (HL servicing + funds pooling, 5pp) ................................ IN
+- IDFC First 10056816452 (crypto rail + coupons, 26pp) ............................... IN
+- Kotak 2112302126 (FDs/sweeps + family pool, 9pp) ................................... IN
+- Jio Payments 001620421000864 (NPS rail + fees/retail, 16pp) ........................ IN
+- Indian Bank: **NO ACCOUNT EXISTED IN FY 2024-25** (user confirmation 05-Aug-2026)
+  -> opened in FY 2025-26 (user confirmation 05-Aug-2026) -> covered by a
+     DECLARATION in the 142(1) reply (exact wording locked)
+ALL FY24-25 ACCOUNTS NOW DOCUMENTED. Demand #3 package = 5 statements + narration index + declaration.

@@ -215,3 +215,11 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 - User challenged ask-volume ("only absolutely necessary"). **Response: audited list — every remaining doc maps to an explicit 142(1) demand line; zero extras.** List rewritten in repo MANDATORY-FOR-REPLY.txt with demand mapping; 26AS marked done; HL doc-set consolidated (demand #5's own words: ownership / repayment source / sanction / agreement / schedule / purpose).
 - Bank narration coverage: HDFC/SBI/Kotak/Jio label-ready; IDFC near-complete; **Indian Bank statement = sole remaining gap for demand #3.**
 - Next: full 142(1) reply draft (cover letter + P1–P8 + recon tables + narration index) in workpapers/ + repo mirror.
+
+## LOG 05-Aug-2026 (late) — BANK UNIVERSE CLOSED: Indian Bank did NOT exist in FY 2024-25 (user confirmation)
+- Demand #3 universe for FY24-25 = 5 operative accounts (HDFC, SBI, IDFC, Kotak, Jio) — ALL STATEMENTS IN. 
+- Reply will carry a formal declaration: no Indian Bank account held during PY 2024-25. ONE wording point resolved with user (asked): opened after 31-Mar-2025 vs closed/dormant before 01-Apr-2024 — needed to keep the statutory declaration factually exact.
+- Mandatory list: **4 uploads remain** (payslips, NPS full-year, 80D receipt, HL doc-set).
+- Reply drafting begins (workpaper 07-REPLY-DRAFT-142(1).md).
+- Indian Bank variant RESOLVED: account **opened after 31-Mar-2025** (user, 05-Aug-2026) → declaration wording locked: "no Indian Bank account held during PY 2024-25 (opened in FY 2025-26)".
+- REPLY DRAFT v1 created: workpaper 07-REPLY-DRAFT-142(1).md — cover letter + P1–P8 + annexure map; only 4 placeholder slots remain (payslips→P4-B, HL set→P5, NPS/80D→P6). Core defenses drafted: 194S↔VDA (50k corpus ×104 churn; 115BBH ₹38,860; corrected TI ₹33,65,716; +₹12,753 tax vs ₹8,965 unclaimed credits; net ≈₹3,788+int), voluntary disclosure + 270A(6)(a)/270AA posture, 5-bank declaration w/ Indian Bank FY25-26 opening.
