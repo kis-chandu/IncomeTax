@@ -69,5 +69,3 @@ P1 activities note (this letter) · P2-A return · P2-B 26AS · P2-C computation
 3. Paste NPS full-year total into P6 (₹50,000 check) + 80D receipt.
 4. Generate Annexure P3-B full narration index (script-driven from the 5 PDFs) and P8-B trade extract.
 5. Final legal pass on cover letter (270A(6)(a)/270AA wording, undertaking para).
-EOF
-echo "draft created"; wc -l /home/user/taxcase-AY2026-27/"07-REPLY-DRAFT-142(1).md"
