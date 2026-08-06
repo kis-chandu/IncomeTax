@@ -1,27 +1,18 @@
-RUNNING LIST for the 142(1) reply — updated 06-Aug-2026 (mid) after your 4 responses
+RUNNING LIST for the 142(1) reply — updated 06-Aug-2026 (late, haul #3 processed)
 
-DONE & IN REPO: 26AS · 5 bank statements + declaration · payroll set · deed extracts ·
-SBI foreclosure letter · LIC + tuition + ePRAN · crypto workbook · Form 16 · notices
+DONE & IN REPO: everything to date + LTA travel evidence (10 files, pool Rs 41,070)
++ NPS Tier-I SOT FY24-25 (unlocked; contribution Rs 25,200) + SBI foreclosure letter +
+provisional cert (actual-repayment tie verified). Corrections #3 (LTA) and #4 (NPS) LOCKED.
 
 REMAINING (final):
-1. LTA — BRANCH-A ACTIVE: upload ALL FY24-25 family-travel ticket PDFs/e-tickets to downloads/
-   (self + wife + daughter; India only; journeys in Apr-2024..Mar-2025; SKIP cancelled/refunded
-   bookings — statements show refunds, only completed journeys count). I will build the s.10(5)
-   fare schedule and set exemption = min(provable fares, 1,34,184); un-evidenced remainder is
-   withdrawn in the reply (pay 31.2% only on the short piece).
-2. 80D (Rs 25,000): payslips prove NO mediclaim deduction in FY24-25 payroll, payroll comp
-   shows 80D = 0 — so "salary deduction" isn't on paper yet. Do ONE of:
-   (a) TPA/insurer app -> download "80D / premium paid certificate" (Medi Assist/Paramount/
-       Star/Vidal — usually a 2-min download), or
-   (b) one email to HR: "certificate of mediclaim premium deducted from my salary FY 2024-25", or
-   (c) tell me the premium was fully employer-paid -> we trim the claim (+Rs 7,800 tax), no paper.
-3. NPS: password "chan0703" fails (I tested the whole name-variant family). Don't fight the PDF:
-   open eNPS/CRA app or enps.nsdl.com -> Statement of Transactions FY 2024-25 -> VIEW on screen
-   (no password) -> screenshot the contribution table and upload. Or just tell me the Tier-I
-   FY-total figure you see there.
-4. SBI FINAL interest/closure certificate FY 2024-25: GOOD-TO-HAVE, not a blocker.
-   I can now derive FY interest from the foreclosure letter + bank trail (table ready).
-   Get it if YONO/branch is convenient; else we submit the derived-interest table and offer
-   the certificate on requisition. Decision rights fully yours.
+1. 80D Rs 25,000 — pick ONE: (a) TPA/insurer-app 80D/premium certificate, or (b) HR
+   certificate "premium deducted from salary FY 2024-25", or (c) reply "employer-paid"
+   and we trim the claim (+Rs 7,800 tax). No other proof acceptable; payslips show none.
+2. (OPTIONAL UPSIDE) Any other FY24-25 journey tickets (e.g., Bengaluru->Howrah outbound
+   flight; Kalyan return leg)? Each extra provable rupee of fare reduces the LTA
+   withdrawal Rs-for-Rs. If none, say "none" and we finalize at Rs 41,070.
+3. (OPTIONAL) SBI final interest certificate — only if convenient; derived-interest
+   table + foreclosure letter already cover demand #5. CASLOAN PDF downloaded is
+   password-broken; ignore it or share the right password if the app shows it later.
 
-NOTHING ELSE. After items 1-3 land: fill draft -> your review -> submit ~15 Aug.
+Nothing else. Draft update -> your review -> submit ~15 Aug.

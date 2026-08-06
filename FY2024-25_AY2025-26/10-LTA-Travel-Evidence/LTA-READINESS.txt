@@ -1,0 +1,25 @@
+LTA §10(5) SUBSTANTIATION — FY 2024-25 (built 06-Aug-2026)
+Exemption claimed in return: Rs 1,34,184 (full-year LTA component, 11,182 x 12).
+Payroll gave 0 exemption (employer taxed the LTA component in full).
+
+PROVABLE FARE POOL (rules applied: fares only; family = spouse+child; journeys in FY24-25;
+CNF journeys only — WL/cancelled/refunded EXCLUDED; rail 5-pax ticket apportioned 3/5 to family;
+air excess-baggage (Rs 1,000 x 2) excluded as non-fare):
+| # | Journey | PNR/Docs | Pax claimed | Provable fare (Rs) |
+| 1 | KJM(KR Puram) -> Tirupati, 12-Jul-2024, 3A | 4365879255 ERS | self + wife | 1,306.30 |
+| 2 | Tirupati -> KJM, 13-Jul-2024 | 6535176364 ERS = RLWL/14,15 | - | EXCLUDED (auto-cancel, refunded) |
+| 3 | Howrah -> Chandrapura, 10-Nov-2024, SL- Tatkal | 6544062285 ERS | self | 407.25 |
+| 4 | KSR Bengaluru -> Kalyan, 13-Feb-2025, 3A | 4624467864 ERS (5 pax on ticket; family = 3) | self + wife + child | 5,883.78 (9,806.30 x 3/5) |
+| 5 | BLR -> Ranchi(IXR), 25-Feb-2025, IX2722 | B4D9WZ: itinerary + invoice IBLR250100172141 + BOARDING PASS | self + wife + child | 16,284.99 |
+| 6 | Ranchi -> BLR, 05-Mar-2025, IX2976 | E82FNA: itinerary + invoice IIXR250200005503 + BOARDING PASS | self + wife + child | 17,187.98 |
+| TOTAL PROVABLE | | | | 41,070.30 |
+
+RESULT:
+- Sustainable exemption = Rs 41,070
+- Balance to be voluntarily withdrawn = 1,34,184 - 41,070 = Rs 93,113 -> +tax 29,051 @31.2%
+- IF more FY24-25 journeys with tickets exist (e.g., Bengaluru->Howrah outbound before the
+  10-Nov solo train; Kalyan return leg), exemption rises Rs-for-Rs. LAST call on extra tickets.
+
+Class-cap check: rail 3A/SL and Air India Express economy all <= permitted caps (economy air /
+1st AC rail fares of shortest route) — compliant.
+FY25-26 journeys (DNR-SMVB 11-May-25, SMVB-ROU 21-Apr-25) filed separately under FY2025-26.

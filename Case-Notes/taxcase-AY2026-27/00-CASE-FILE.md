@@ -244,3 +244,11 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 3. NPS password: CRA rule = first4(name)+DDMM ⇒ "chan0703" expecting; tried chan/kish/gora families + case variants — ALL FAIL. Robust path set: in-app CRA/eNPS SOT view (no password) → screenshots of FY24-25 contribution table → uploads.
 4. LTA: user CAN produce FY24-25 family tickets → BRANCH-A activated with evidence rules (fares-only, family-scope, block 2022-25, shortest-route cap, exclude cancelled/refunded journeys — statements show refunds, attach completed only; names-match). Exemption = min(provable fares, 1,34,184); remainder withdrawn as correction.
 - Pending still: ticket upload, TPA/HR 80D paper or trim-decision, SOT screenshots, SBI final cert (preferred, with fallback ready). Reply draft carries all forks.
+
+
+## LOG 06-Aug-2026 (late) — HAUL #3: LTA tickets + NPS unlocked SOT + SBI certs — corrections #3/#4 LOCKED
+- 21 files in; arranged: LTA evidence → FY2024-25/10-LTA-Travel-Evidence/ (10 files + LTA-READINESS.txt with pool table); NPS unlocked SOT → 06-Deductions-Proofs/ (old locked file deleted); SBI provisional dup discarded; CASLOAN (password-broken) parked in 07-HomeLoan/; FY25-26 journeys → FY2025-26/09-Misc/Travel-FY2025-26/; downloads/ cleared.
+- LTA: provable pool ₹41,070 → exemption kept 41,070, **withdraw ₹93,113 (+₹29,051)**. Excluded: WL auto-cancel, FY25-26 journeys, excess baggage. Optional upside: user to say if MORE FY24-25 journey tickets exist.
+- NPS: FY Tier-I = ₹25,200 official → **correction #4: 80CCD(1B) trimmed 50,000→25,200 (+₹7,738)**.
+- Corrected computation now locked at +₹49,542 tax (+₹57,342 if 80D trimmed); covered by credits; penalty-shield intact (all self-disclosed).
+- STILL OPEN (final): (1) 80D fork — TPA/HR certificate OR user word "employer-paid"→trim; (2) any extra FY24-25 LTA journey tickets (optional upside only); (3) SBI final interest cert = optional (derived-interest fallback ready); (4) AY26-27 ack/e-verify + refund figure (Track 1).
