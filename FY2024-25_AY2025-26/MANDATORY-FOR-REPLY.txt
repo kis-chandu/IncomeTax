@@ -1,37 +1,23 @@
-FINAL MANDATORY DOCUMENT LIST for the 142(1) reply — AUDITED 05-Aug-2026
-Rule applied: a document is on this list ONLY if (a) the 142(1) notice's 8 demands explicitly
-require it, or (b) it is the sole proof of a number the AO already sees. Nothing optional.
-Everything else has been answered or labelled from documents already in this repo.
+FINAL MANDATORY LIST for the 142(1) reply — AUDITED 06-Aug-2026 (haul #2 processed)
+LEGEND: [DONE] in repo & analyzed | [DUE] still needed from you
 
-LEGEND:  [DONE] received  |  [DUE] still needed from you
+[DONE] Form 26AS FY24-25 · 5 bank statements (Indian Bank = opened FY25-26, declared)
+[DONE] FY24-25 payroll set (payslips + 4 tax comps) — gross 40,23,083 / TDS 9,19,053 / EPF 21,600 / PT 2,400 all tie
+[DONE] Sale deed extracts (4 pages): purchasers, property C-114, consideration Rs 44,26,500 (<=45L), RERA reg
+[DONE] SBI foreclosure letter 18-Jan-2025 (closure value 42,19,245 ties to bank credit)
+[DONE] 80C evidence chain complete (LIC 52,782 + tuition 65,000 + EPF 21,600 + HL principal 42,473)
 
-[DONE] 1. Form 26AS FY 2024-25                      -> demand #2/#8  (received 03-Aug-2026)
-[DONE] 2. Bank statements, ALL FY24-25 accounts     -> demand #3
-          (HDFC, SBI, IDFC, Kotak, Jio Payments in repo;
-           Indian Bank opened only in FY 2025-26 per user 05-Aug-2026 -> reply declaration covers it)
-[DUE ] 4. FY 2024-25 payslips, 12 months, one zip    -> demand #4 + #2 (Form 16 vs return
-          reconciliation the AO will run) + #6 (proves the EPF part of 80C). This one file also
-          replaces three other potential asks (exempt Rs 1,34,184 breakup, PT 2,400, payroll medical).
-[DUE ] 5. NPS Tier-I account statement, FULL FY 01-Apr-24..31-Mar-25 -> demand #6 explicit
-          (80CCD(1B) Rs 50,000; partial stmt in repo stops 08-Jan-25 at Rs 36,750)
-[DUE ] 6. Health-insurance premium receipt / 80D certificate FY 2024-25 (Rs 25,000) -> demand #6
-          explicit. SKIP ONLY IF the payslips already show a payroll-deducted medical premium.
-[REWRITTEN 05-Aug-2026, user-driven triage — flattened & cut]
-[DUE ] 4 items total:
-  1. FY24-25 payslips (12 PDFs, one zip) ............ payroll portal ~5 min
-  2. NPS Tier-I FULL-year statement FY24-25 ......... enps.nsdl.com ~3 min
-  3. Sale deed = ONLY 2 PHOTOS: (a) page showing seller->buyer name + SRO seal,
-     (b) Schedule-of-Property + consideration/SDV Rs 45L page.
-     (Backup instead: EC from Kaveri Online, 2-min download)
-  4. SBI FINAL interest/closure certificate FY24-25 . YONO/branch ~5 min
-     -> if it shows interest >= Rs 3,50,000, THAT IS ALL. HDFC FY24-25 statement
-        then NOT needed. (If below 3.5L: one 2-min HDFC portal pull, flagged then.)
-  5. 80D receipt = SKIP if any payslip shows payroll medical deduction.
+REMAINING — 3 docs + 2 quick decisions:
+[DUE] 1. SBI FINAL interest/loan-closure certificate FY 2024-25 (YONO/branch) — the last open
+        number for demand #5 actuals (decides whether HDFC FY24-25 statement is needed at all)
+[DUE] 2. Health-insurance (80D) premium receipt FY 2024-25, Rs 25,000 — payslips show NO
+        payroll medical deduction, payroll's final comp shows 80D = 0. The claim needs this paper.
+[DUE] 3. NPS SOT password (the PDF uploaded is locked) OR an unlocked copy — needed to verify
+        the 80CCD(1B) Rs 50,000 claim (bank rails suggest actual ~Rs 40,950)
+[DECIDE] 4. LTA Rs 1,34,184 exemption — OPTIONS: (a) provide family-travel ticket/fare proof
+        for journeys (exemption then limited to actual fares), or (b) WITHDRAW it in the reply
+        as voluntary correction #3 (+Rs 41,866 tax). Recommendation: (b) unless strong proof.
+[DECIDE] 5. If SOT confirms ~Rs 40,950: trim 80CCD(1B) 50,000 -> actual; add correction #4
+        (+Rs 2,824 tax). Decide after item 3.
 
-DROPPED (05-Aug-2026 triage): SBI sanction letter/agreement/schedule — the FY23-24 SBI
-certificate already in this repo carries the sanction date; reply cites it and offers
-originals on request.
-
-THAT IS ALL. Everything else — sister-in-law Rs 1L, mother transfers (10k/mo + 40,001),
-Kotak 80,000/1,48,650 (own transfers, proven), wife's transfers, LendBox, Excitel/Ultra
-lease income, crypto chain, bank narrations — is answered inside the reply from this repo.
+NOTHING ELSE WILL BE ASKED for this notice.

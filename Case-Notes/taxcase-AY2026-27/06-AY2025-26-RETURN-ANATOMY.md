@@ -191,3 +191,38 @@ Source: TRACES-style e-statement via email (password-unlocked), generated 05-08-
 - Kotak: fully labeled after this pass. ✓
 - Jio: NPS rail + Sristi fees + retail. ✓
 - **Indian Bank: statement itself still awaited — last gap for demand #3.**
+
+## 15. PAYROLL HAUL + DEED PAGES + FORECLOSURE LETTER RECEIVED & PARSED (06-Aug-2026)
+Files → `06-Payroll-Form16/Payslips-FY2024-25/` (9 PDFs); `07-HomeLoan-.../SBI-HL-Foreclosure-Letter-18Jan2025.jpg` + `SaleDeed-Extracts/` (4 page-shots); `06-Deductions-Proofs/NPS-SOT-passlocked-...pdf`; FY25-26 monthly slips + comp → `FY2025-26/02-Form16/Payslips-FY2025-26-monthly/`. (7 payslip folders in downloads = 3 unique sets × duplicates — deduped.)
+
+### A. Payroll structure DECODED (Mar-2025 finals; ties Form 16 exactly)
+- **Annual Gross Taxable ₹40,23,083 ✓ = Form 16.** Components: Basic 16,10,136 · Spl Allow 14,29,956 · HRA 6,44,052 · **LTA Taxable 1,34,184** · Performing Bonus 78,429 · Fuel 28,800 · Tel 24,000 · Books 18,000 · Driver 10,800 · Food Allow 26,400 (taxable) · Food Coupon 26,400 (excluded from taxable gross).
+- Deductions: PT ₹2,400 ✓ · **EPF ₹21,600** (₹1,800/mo, 15k-ceiling-capped) ✓ · TDS 8,55,169 + 63,884 (one-time tax) = **₹9,19,053 ✓ = Form 16 A.** Regime: OLD on payslips ✓. PF AP/KKP/68071/11846, UAN 100127148453.
+- Payroll exemptions through the year: **HRA 0 (rent shown 0), LTA 0.**
+
+### B. ⚠️ THE ₹1,34,184 EXEMPT-u/s-10 = **LTA**, self-claimed at filing (100% confirmed)
+- 11,182 × 12 = 1,34,184 exact; payroll labels it "LTA TAXABLE Recurring" and gave 0 exemption (no travel proof submitted to employer). The return claimed the entire LTA as s.10(5) exemption.
+- s.10(5) requires ACTUAL travel fares (self+family, India, on leave) in the block (2022–25). Bank-trail IRCTC spends are small (₹2-7k, several cancelled/refunded).
+- **USER DECISION REQUIRED:** produce ticket evidence (then exemption limited to actual fares) OR withdraw the exemption in the reply as voluntary correction #3: **+₹1,34,184 salary → +₹41,866 tax (31.2%)**. Reply draft handles both branches; recommendation: withdraw unless solid fare proof exists.
+
+### C. 80C — demand #6 now FULLY EVIDENCED, no further docs
+Payroll-decomposed: LIC ₹53,969 (stmt actual: 52,782) + tuition ₹60,000 (receipts: 65,000) + **HL principal ₹42,473** + **EPF ₹21,600 (payslips prove)** = 1,78,042+ → **cap ₹1,50,000 securely covered** ✓. SBI bank trail (EMI+prepay ₹4,01,000 incl. 60k principal prepays) corroborates principal.
+
+### D. NPS 80CCD(1B) ₹50,000 — probable SHORTFALL (password-needed item)
+- Bank rails: monthly 4,200 Tier-I-style legs (Aug/Sep via Jio; May/Oct/Dec/Feb via HDFC-ENPS/Billdesk), 300 side-legs; partial SOT (→08-Jan-25) = 36,750 = 5×4,200+5×3,150. **Feb-2025: 4,200+300 (17/02). March-2025: NO NPS leg on any bank rail** (IDFC 07-Mar "SIP" 18,000/50,000 went to UPI/MOB app handles = MF, not NPS).
+- Estimated FY Tier-I ≈ **40,950 → short of claim by ~₹9,050** → if SOT confirms, fold correction #4: +₹9,050 disallowance → **+₹2,824 tax**. SOT PDF is password-locked (standard passwords failed) — **await user password/unlocked copy.**
+
+### E. Sale deed (BNS-I-5063-2021-22, reg dt 16-Aug-2021, SRO Bangarapet?-side) — demand #5 ownership CLOSED
+- **Purchasers: Mr. CHANDRAKANT GORAI (S/o Kala Chand Gorai) & Mrs. PRIYANKA GORAI** (p3). Sellers via POA to **M/s. Mukunda Developers** (p2).
+- **Property: Flat C-114, 1st floor, 'C' Block, 1,425 sft SBA + 584 sft UDS; RERA PRM/KA/RERA/1251/446/PR/200121/003220; Sy 27/2 Kodigehalli, BBMP Ward 54 (p6).**
+- **CONSIDERATION ₹44,26,500 ≤ ₹45L — deed itself nails the 80EEA SDV condition; loan purpose "for purchasing the schedule flat" — deed answers demand #5's "purpose" too.** (Return's Sch 80EEA SDV ₹45,00,000 = guidance-value basis; reply quotes DEED consideration ₹44.27L.)
+- Note for reply: deed shows JOINT spouse co-ownership vs return's SE-100% → one-line defense: sole repayment by assessee (bank-proven), spouse no income contribution → 100% claim by payer-owner. Keep ready, don't over-volunteer.
+
+### F. SBI foreclosure letter (18-Jan-2025, Kaggadasapura branch 11290)
+- HL 40108253827, borrowers Mr + Mrs Gorai; **outstanding ₹42,01,075; closure value ₹42,19,245 @18-Jan-2025 = EXACTLY the 18-Feb-2025 bank credit.** Annexure for P5 (closure documentation). 
+- Interest estimate FY24-25: SBI Apr–18-Feb ≈ ₹3.2–3.3L (from ~42.6L→42.0L amortization @~8.6-9.1%) + HDFC Mar-2025 slice ~₹30k (payable basis) ≈ ₹3.5L± — **claim ₹3.5L tight-but-covered ⇒ SBI FINAL interest certificate remains the deciding document (sole remaining HL ask).**
+
+### G. Corrected-computation RANGE for the reply (pending 2 user decisions)
+- Base (already committed): +VDA 38,747 & +IFOS 2,129 → **+₹12,753** 🟢
+- If LTA withdrawn: **+₹41,866** 🟠 | If NPS SOT confirms ~40,950: **+₹2,824** 🟠
+- Worst-case all three: +₹1,75,960 income → **+₹57,443 tax** — still 100% covered by TDS headroom (refund 1.40L received vs recomputed ~₹0.87L refund) ⇒ **voluntary disclosure keeps 270A(6)(a) armor; bigger disclosure = stronger bona-fides story, weaker refund.**
