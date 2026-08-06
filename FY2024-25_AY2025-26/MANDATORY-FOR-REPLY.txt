@@ -1,23 +1,27 @@
-FINAL MANDATORY LIST for the 142(1) reply — AUDITED 06-Aug-2026 (haul #2 processed)
-LEGEND: [DONE] in repo & analyzed | [DUE] still needed from you
+RUNNING LIST for the 142(1) reply — updated 06-Aug-2026 (mid) after your 4 responses
 
-[DONE] Form 26AS FY24-25 · 5 bank statements (Indian Bank = opened FY25-26, declared)
-[DONE] FY24-25 payroll set (payslips + 4 tax comps) — gross 40,23,083 / TDS 9,19,053 / EPF 21,600 / PT 2,400 all tie
-[DONE] Sale deed extracts (4 pages): purchasers, property C-114, consideration Rs 44,26,500 (<=45L), RERA reg
-[DONE] SBI foreclosure letter 18-Jan-2025 (closure value 42,19,245 ties to bank credit)
-[DONE] 80C evidence chain complete (LIC 52,782 + tuition 65,000 + EPF 21,600 + HL principal 42,473)
+DONE & IN REPO: 26AS · 5 bank statements + declaration · payroll set · deed extracts ·
+SBI foreclosure letter · LIC + tuition + ePRAN · crypto workbook · Form 16 · notices
 
-REMAINING — 3 docs + 2 quick decisions:
-[DUE] 1. SBI FINAL interest/loan-closure certificate FY 2024-25 (YONO/branch) — the last open
-        number for demand #5 actuals (decides whether HDFC FY24-25 statement is needed at all)
-[DUE] 2. Health-insurance (80D) premium receipt FY 2024-25, Rs 25,000 — payslips show NO
-        payroll medical deduction, payroll's final comp shows 80D = 0. The claim needs this paper.
-[DUE] 3. NPS SOT password (the PDF uploaded is locked) OR an unlocked copy — needed to verify
-        the 80CCD(1B) Rs 50,000 claim (bank rails suggest actual ~Rs 40,950)
-[DECIDE] 4. LTA Rs 1,34,184 exemption — OPTIONS: (a) provide family-travel ticket/fare proof
-        for journeys (exemption then limited to actual fares), or (b) WITHDRAW it in the reply
-        as voluntary correction #3 (+Rs 41,866 tax). Recommendation: (b) unless strong proof.
-[DECIDE] 5. If SOT confirms ~Rs 40,950: trim 80CCD(1B) 50,000 -> actual; add correction #4
-        (+Rs 2,824 tax). Decide after item 3.
+REMAINING (final):
+1. LTA — BRANCH-A ACTIVE: upload ALL FY24-25 family-travel ticket PDFs/e-tickets to downloads/
+   (self + wife + daughter; India only; journeys in Apr-2024..Mar-2025; SKIP cancelled/refunded
+   bookings — statements show refunds, only completed journeys count). I will build the s.10(5)
+   fare schedule and set exemption = min(provable fares, 1,34,184); un-evidenced remainder is
+   withdrawn in the reply (pay 31.2% only on the short piece).
+2. 80D (Rs 25,000): payslips prove NO mediclaim deduction in FY24-25 payroll, payroll comp
+   shows 80D = 0 — so "salary deduction" isn't on paper yet. Do ONE of:
+   (a) TPA/insurer app -> download "80D / premium paid certificate" (Medi Assist/Paramount/
+       Star/Vidal — usually a 2-min download), or
+   (b) one email to HR: "certificate of mediclaim premium deducted from my salary FY 2024-25", or
+   (c) tell me the premium was fully employer-paid -> we trim the claim (+Rs 7,800 tax), no paper.
+3. NPS: password "chan0703" fails (I tested the whole name-variant family). Don't fight the PDF:
+   open eNPS/CRA app or enps.nsdl.com -> Statement of Transactions FY 2024-25 -> VIEW on screen
+   (no password) -> screenshot the contribution table and upload. Or just tell me the Tier-I
+   FY-total figure you see there.
+4. SBI FINAL interest/closure certificate FY 2024-25: GOOD-TO-HAVE, not a blocker.
+   I can now derive FY interest from the foreclosure letter + bank trail (table ready).
+   Get it if YONO/branch is convenient; else we submit the derived-interest table and offer
+   the certificate on requisition. Decision rights fully yours.
 
-NOTHING ELSE WILL BE ASKED for this notice.
+NOTHING ELSE. After items 1-3 land: fill draft -> your review -> submit ~15 Aug.
