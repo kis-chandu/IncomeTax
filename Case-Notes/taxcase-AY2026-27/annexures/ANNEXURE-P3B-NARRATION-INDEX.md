@@ -203,7 +203,7 @@ Generated mechanically from the enclosed statements (Annexure P3-A), cross-valid
 | 05 Jun 2024 | SWEEP TRANSFER TO [3567625823] | 30,000.00 | 0.00 | Kotak FD maturity / ActivMoney auto-sweep between SB & linked FD — own funds; FD interest already in IFOS |
 | 07 Jun 2024 | UPI/PRIYANKA GORAI/415923835957/UPI UPI-415926258041 | 30,000.00 | 0.00 | Family pooling with wife Mrs. Priyanka Gorai / mother — no income element |
 | 17 Jun 2024 | Sweep Trf From: 3567625823 | 0.00 | 10,000.00 | Kotak FD maturity / ActivMoney auto-sweep between SB & linked FD — own funds; FD interest already in IFOS |
-| 19 Jun 2024 | UPI/CURREX HOSPITAL/417113421829/UPI UPI-417143352025 | 16,690.00 | 0.00 | Medical spend — self/wife (personal; 80D N/A as all <60 & premium employer-paid) |
+| 19 Jun 2024 | UPI/CURREX HOSPITAL/417113421829/UPI UPI-417143352025 | 16,690.00 | 0.00 | Medical spend — self/wife/child (personal; 80D N/A — family all <60; no assessee-paid premium deduction claimed) |
 | 19 Jun 2024 | Sweep Trf From: 3567625823 | 0.00 | 20,000.00 | Kotak FD maturity / ActivMoney auto-sweep between SB & linked FD — own funds; FD interest already in IFOS |
 | 24 Jun 2024 | UPI/PRIYANKA GORAI/454219757133/UPI UPI-417648790816 | 0.00 | 90,000.00 | Family pooling with wife Mrs. Priyanka Gorai / mother — no income element |
 | 24 Jun 2024 | Sweep Trf From: 3564700088 | 55,000.00 | 0.00 | Kotak FD maturity / ActivMoney auto-sweep between SB & linked FD — own funds; FD interest already in IFOS |

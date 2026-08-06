@@ -46,3 +46,11 @@ User: "I would go with B… whatever is needed (if something extreme can be done
 
 ## Cross-year frame
 Track-1 AY2026-27 refund ≈ ₹1.10L inbound ⇒ s.245 adjustment absorbs clawback; two-year net cash position stays strongly positive. FY26-27 payroll optimization (playbook) rebuilds monthly cash.
+
+## FINAL AUDIT — 08-Aug-2026 (pre-submission lock)
+**Trigger:** user FG-80D proof-hunt returned NIL + instruction "don't miss anything that can benefit me."
+1. **Lever sweep re-run (all closed, floor ₹35,604 FINAL):** 80TTA filed = actual ₹8,505 (no lever); 80C ₹1.5L fully evidenced (₹1,81,855 basis); 80CCD(2) not available (employer scheme NIL in FY24-25 — FY26-27 lever only, playbook 03); 87A N/A (TI ₹34L, old regime); 80E/80G/80DD/80DDB/80GG — no facts, nothing to claim; HRA — dead on facts; s.89 relief — no inter-year arrears; 57(iii) — dead (loans start Mar-2025); LTA — kept per Option B (tickets ₹43,070 in reserve, contingency ready); VDA — 115BBH computation is law-fixed (₹38,860); FO loss — unusable in AY25-26 (4 walls, logged 08-Aug). **No legal, documentable saving remains inside AY25-26.**
+2. **Accuracy fix applied (assessee-side):** removed the unprovable "premium was employer-paid" assertion from ALL upload artifacts (07 letter cover table + P6 row; Z head-table + recap; P3-B medical classification note; build_p3b.py source) → replaced with verifiable fact: *no assessee-paid premium traceable in the five furnished statements*. Withdrawal unchanged; attack surface reduced to zero.
+3. **Arithmetic re-tied fresh:** filed 8,42,350 exact ✓; corrected bottom-up 8,70,640 (TI 34,15,514→34,15,510; slab 8,25,495 + VDA 11,658 + cess 33,486.12 → 288B ⇒ 8,70,640) ✓; Δ +28,290 vs per-item 28,291 (₹1 utility rounding, disclosed) ✓; refund recompute 1,05,276.14; clawback 35,603.86 ≈ ₹35,604 ✓. Net cash after s.245 vs AY26-27 refund 1,09,973 = **≈ ₹74,369**.
+4. **Demand coverage:** 8/8 requisitions mapped 1:1 (P1–P8 + Z); annexure set matches minimal-upload map; reserve items listed.
+**STATUS: FINAL v3 — LOCKED FOR SUBMISSION. Review 10–12 Aug; upload target 15-Aug; hard limit 17-Aug-2026 15:28 IST.**

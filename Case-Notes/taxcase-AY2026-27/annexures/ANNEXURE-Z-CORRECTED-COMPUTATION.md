@@ -15,7 +15,7 @@
 | **Gross total income** | **37,08,343** | **37,49,219** | | |
 | VI-A: 80C | 1,50,000 | 1,50,000 | — | fully evidenced |
 | 80CCD(1B) NPS | 50,000 | **25,200** | +24,800 | Correction #3 — SOT-verified (demand #6) |
-| 80D | 25,000 | **0** | +25,000 | Correction #4 — premium employer-paid (demand #6) |
+| 80D | 25,000 | **0** | +25,000 | Correction #4 — no assessee-paid premium traceable in furnished statements (demand #6) |
 | 80EEA | 1,50,000 | 1,50,000 | — | (P5) |
 | 80TTA | 8,505 | 8,505 | — | |
 | **Total VI-A** | **3,83,505** | **3,33,705** | +49,800 | |
@@ -41,7 +41,7 @@
 | 1 | Schedule VDA 113 → 38,860 (115BBH; P8-A/B) | 38,747 | 12,089 |
 | 2 | IFOS interest trued to 26AS | 2,129 | 664 |
 | 3 | 80CCD(1B) 50,000 → 25,200 per NPS SOT | 24,800 | 7,738 |
-| 4 | 80D 25,000 → 0 (employer-paid premium) | 25,000 | 7,800 |
+| 4 | 80D 25,000 → 0 (no assessee-paid premium traceable in furnished statements) | 25,000 | 7,800 |
 | | **TOTAL** | **90,676** | **28,291** |
 
 **Interest:** 234A NIL (timely filing). 234B/234C prayed **NIL** — prepaid TDS (₹9.76L) exceeded 90% of the recomputed liability in every quarter. Undertaking to pay on quantification; consent to s.245 adjustment vs pending AY 2026-27 refund (≈ ₹1.10L).

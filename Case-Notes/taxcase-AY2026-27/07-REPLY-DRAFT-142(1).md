@@ -1,5 +1,5 @@
 # FINAL v3 (OPTION B: minimal-scope) — REPLY TO NOTICE u/s 142(1), AY 2025-26 (Chandrakant Gorai)
-**Status: SUBMISSION-READY (07-Aug-2026). Answers EXACTLY the 8 requisitions — nothing beyond. 4 corrections only where the demanded documents themselves require; no LTA mention (never asked). Submit via e-Proceedings ONLY, before 17-Aug-2026 15:28 IST (target 15-Aug).**
+**Status: FINAL — LOCKED FOR SUBMISSION (08-Aug-2026). Answers EXACTLY the 8 requisitions — nothing beyond. 4 corrections only where the demanded documents themselves require; no LTA mention (never asked). 80D proof-hunt closed 08-Aug: no assessee-paid premium traceable → withdrawal stands. AY26-27 ITR e-verified ✓ (s.245 adjustment source secured). Submit via e-Proceedings ONLY, before 17-Aug-2026 15:28 IST (target 15-Aug).**
 
 ---
 ## COVER LETTER
@@ -17,7 +17,7 @@ Respected Sir/Madam,
    | 1 | Schedule VDA understated (demand #8): income u/s 115BBH is **₹38,860**, not ₹113 — ClearTax import aggregated 6,223 trades into a garbled ₹259/₹113 entry | +38,747 | +12,089 |
    | 2 | IFOS interest cluster mapped exactly to 26AS figures (demands #2/#7 reconciliation) | +2,129 | +664 |
    | 3 | 80CCD(1B) NPS Tier-I per Statement of Transactions = **₹25,200** (6×₹4,200), not ₹50,000; the payroll-era estimate had been claimed — SOT enclosed per demand #6 | +24,800 | +7,738 |
-   | 4 | 80D ₹25,000: premium was employer-paid; no assessee-paid premium exists to evidence per demand #6 ⇒ withdrawn | +25,000 | +7,800 |
+   | 4 | 80D ₹25,000: no premium payment by the assessee is traceable in any of the five bank statements furnished; absent the payment evidence required by requisition #6(c)–(e), the claim is withdrawn | +25,000 | +7,800 |
    | | **TOTAL** | **+90,676** | **+₹28,291** (bottom-up recompute ⇒ ₹8,70,640 total; +₹28,290, ₹1 utility rounding) |
 4. Net effect: corrected total income ₹34,15,510 (vs ₹33,24,840); corrected tax ₹8,70,640 (vs ₹8,42,350); TDS credits ₹9,75,916.14 (all 26AS figures now fully claimed, incl. ₹31.14 earlier missed) ⇒ recomputed refund **≈ ₹1,05,276** vs ₹1,40,880 received ⇒ **≈ ₹35,604 stands refundable to the Department** in the 143(3) order. The assessee undertakes to pay the differential with applicable interest immediately upon quantification and **consents to adjustment u/s 245 against the pending AY 2026-27 refund (≈ ₹1.10 lakh)** for expedited closure. Interest u/s 234A NIL (timely return); 234B/234C prayed NIL — TDS credits exceeded 90% of the recomputed liability in every quarter of FY 2024-25.
 5. The inaccuracies were bona fide; the larger part of tax on the corrected figures stands pre-paid via TDS (incl. ₹52,279 u/s 194S). This reply is itself the first disclosure of the corrections. It is prayed that they be treated as cooperation with reference to **s.270A(6)(a)** and, if required, **s.270AA**.
@@ -65,7 +65,7 @@ Enclosed (P4-A, Cert SHYODPA dt 04-Jun-2025): **gross salary ₹40,23,083, TDS �
 |---|---|---|---|---|---|
 | 80C | 1,50,000 | Fully evidenced | 1,50,000 | LIC ₹52,782 (premium stmt) + tuition ₹65,000 (Sristi receipts) + EPF ₹21,600 (₹1,800×12 payroll deduction) + HL principal ₹42,473 (SBI repayment trail): aggregate ₹1,81,855 → cap | Payroll/own accounts |
 | 80CCD(1B) | 50,000 | **SOT shows 6×₹4,200 = ₹25,200** (3,150/420/630 rows = E/C/G scheme-splits of each 4,200) | **25,200** | NPS Tier-I Statement of Transactions FY24-25 (enclosed) — correction #3 | Own account (Jio rail) |
-| 80D | 25,000 | Premium employer-paid; no assessee-paid premium exists | **0** | — correction #4 | — |
+| 80D | 25,000 | No assessee-paid premium traceable in the five statements furnished; payment evidence per #6(c)–(e) not available | **0** | — correction #4 | — |
 | 80EEA | 1,50,000 | Per P5 | 1,50,000 | Per P5 | Per P5 |
 | 80TTA | 8,505 | SB-interest credits across five statements | 8,505 | Statement lines | — |
 
