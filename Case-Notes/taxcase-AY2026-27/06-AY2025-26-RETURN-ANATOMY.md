@@ -233,3 +233,17 @@ Payroll-decomposed: LIC ₹53,969 (stmt actual: 52,782) + tuition ₹60,000 (rec
 **NPS LOCKED: FY24-25 Tier-I = 6 × ₹4,200 = ₹25,200** (SOT investment summary: 8 contributions / ₹33,600 CUMULATIVE since 10-Jan-2024 registration incl. 2 in FY23-24; earlier "36,750 partial" reading was E-scheme split-row confusion). **Correction #4: 80CCD(1B) 50,000 → 25,200 ⇒ +₹24,800 → +₹7,738 tax.**
 **SBI docs:** (a) 2nd copy of the 19-Dec-2024 provisional cert (opens with pw 50307070389 — noted: "Actual repayment 01-Apr→30-Nov = ₹3,08,000" = EXACTLY our bank trail 8×31k+6×10k ✓ audit tie); (b) CASLOAN loan-a/c statement = password-broken (17+ variants incl. mobile-last5+DOB fail; parked since alternates exist). FY23-24 cert → FY24-25 provisional carried expected principal ₹62,415 / interest ₹3,90,669 (projection).
 **Corrected computation (06-Aug LOCKED components):** +VDA 38,747 (+12,089) · +IFOS 2,129 (+664) · +LTA-withdraw 93,113 (+29,051) · +NPS 24,800 (+7,738) = **+₹1,83,589 income → +₹49,542 tax** ⟦+₹7,800 if 80D trimmed⟧ vs unclaimed credits −₹8,965 ⇒ net differential ≈ ₹40,577 (+interest u/s 234B/C). Refund received 1,40,880 → AO-recomputed refund ≈ ₹92,958 (or 85,158 w/ 80D trim) ⇒ repay-from-refund ≈ ₹48–56k; still no penalty exposure (all volunteered in reply; TDS on crypto was always with the dept).
+
+## 17. USER DECISIONS FINALIZED + CASLOAN CRACKED (06-Aug-2026, final corrections set)
+**User decisions:** (1) 80D — "leave it" (employer-paid premium ⇒ not assessee-paid ⇒ not eligible): **correction #5 LOCKED: drop ₹25,000 → +₹7,800 tax.** (2) No more LTA tickets → exemption sealed at ₹41,070 (correction #3 as locked). (3) User hint re passwords paid off.
+**CASLOAN CRACKED:** true password = **5030707031989** (mobile-last5 + DDMMYYYY; filename had it truncated). 2-page loan-account ledger (01-Oct→31-Dec-2024): official monthly INTEREST postings **33,035 (31/10) + 31,987 (30/11) + 33,059 (31/12) = ₹98,081 for Oct–Dec alone**; rate 9.25%; EMI re-priced to ₹36,271 post-hike while he kept paying ₹31,000 ⇒ arrears ₹48,133 by Dec-2024 (explains ledger; foreclosure settled all). ⇒ **Derived FY24-25 interest grounded on official postings: Apr–Sep (6 mo @ ~31.5k) ≈ ₹1.89L + Oct–Dec ₹98,081 (official) + 01-Jan→18-Feb ≈ ₹52k ⇒ SBI ≈ ₹3.39L; + HDFC payable Mar-slice ≈ ₹30k ⇒ total ≈ ₹3.65–3.72L ≥ ₹3.5L claim** — the tight-honesty gap effectively closes. SBI final certificate now truly optional. Filed unlocked copy; locked original DELETED. Repo-wide encryption scan: 0 locked files remain.
+**FINAL CORRECTIONS SET (5, all self-volunteered in reply):**
+| # | Item | Income +₹ | Tax +₹ |
+|---|---|---|---|
+| 1 | VDA 113→38,860 (115BBH) | 38,747 | 12,089 |
+| 2 | IFOS Navi interest | 2,129 | 664 |
+| 3 | LTA: 1,34,184→41,070 | 93,113 | 29,051 |
+| 4 | 80CCD(1B): 50,000→25,200 | 24,800 | 7,738 |
+| 5 | 80D: 25,000→0 | 25,000 | 7,800 |
+| **TOTAL** | | **1,83,789** | **57,342** |
+Less unclaimed credits (TCS 8,933.66 + TDS 31.14 = ₹8,965) ⇒ **net differential ≈ ₹48,377 + s.234B/C interest** (AO quantifies in 143(3)). Refund recomputed ≈ ₹85,158 vs ₹1,40,880 received ⇒ repay ≈ ₹55,722 (net within assessment order; no separate challan unless AO asks). 270A(6)(a)/270AA posture: five-item self-disclosure = textbook bona-fide cooperation evidence.

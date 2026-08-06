@@ -252,3 +252,10 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 - NPS: FY Tier-I = ₹25,200 official → **correction #4: 80CCD(1B) trimmed 50,000→25,200 (+₹7,738)**.
 - Corrected computation now locked at +₹49,542 tax (+₹57,342 if 80D trimmed); covered by credits; penalty-shield intact (all self-disclosed).
 - STILL OPEN (final): (1) 80D fork — TPA/HR certificate OR user word "employer-paid"→trim; (2) any extra FY24-25 LTA journey tickets (optional upside only); (3) SBI final interest cert = optional (derived-interest fallback ready); (4) AY26-27 ack/e-verify + refund figure (Track 1).
+
+## LOG 06-Aug-2026 (night) — ALL USER DECISIONS IN; CASLOAN CRACKED (5030707031989); corrections set FINAL at +₹57,342
+- 80D trimmed (employer-paid, ineligible) = correction #5. LTA sealed 41,070 (no more tickets). 
+- CASLOAN opened (mobile-last5+DDMMYYYY; filename string was truncated copy). Official Oct-Dec interest postings ₹98,081; EMI re-price 31,000→36,271 explains arrears; ≈₹3.4L SBI FY interest + ₹0.3L HDFC slice ⇒ ₹3.5L claim covered; SBI FINAL cert now OPTIONAL.
+- Final corrections: VDA +12,089 · IFOS +664 · LTA +29,051 · NPS +7,738 · 80D +7,800 = **+₹57,342** (income +₹1,83,789); net of ₹8,965 credits ⇒ ≈₹48,377 + interest; repaid via refund reduction (~₹56k within 143(3) order).
+- USER-ASKS REMAINING: none for AY25-26 reply (optional: SBI final cert). Track-1: AY26-27 ack/e-verify/refund figure still owed by user.
+- NEXT: finalize reply text (P1-P8 + cover) → user review → submit ~15-Aug.

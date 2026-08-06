@@ -1,18 +1,7 @@
-RUNNING LIST for the 142(1) reply — updated 06-Aug-2026 (late, haul #3 processed)
+STATUS: COMPLETE — 06-Aug-2026 (night). No further documents needed for the 142(1) reply.
 
-DONE & IN REPO: everything to date + LTA travel evidence (10 files, pool Rs 41,070)
-+ NPS Tier-I SOT FY24-25 (unlocked; contribution Rs 25,200) + SBI foreclosure letter +
-provisional cert (actual-repayment tie verified). Corrections #3 (LTA) and #4 (NPS) LOCKED.
-
-REMAINING (final):
-1. 80D Rs 25,000 — pick ONE: (a) TPA/insurer-app 80D/premium certificate, or (b) HR
-   certificate "premium deducted from salary FY 2024-25", or (c) reply "employer-paid"
-   and we trim the claim (+Rs 7,800 tax). No other proof acceptable; payslips show none.
-2. (OPTIONAL UPSIDE) Any other FY24-25 journey tickets (e.g., Bengaluru->Howrah outbound
-   flight; Kalyan return leg)? Each extra provable rupee of fare reduces the LTA
-   withdrawal Rs-for-Rs. If none, say "none" and we finalize at Rs 41,070.
-3. (OPTIONAL) SBI final interest certificate — only if convenient; derived-interest
-   table + foreclosure letter already cover demand #5. CASLOAN PDF downloaded is
-   password-broken; ignore it or share the right password if the app shows it later.
-
-Nothing else. Draft update -> your review -> submit ~15 Aug.
+- 80D: user decision = leave it (employer-paid premium, ineligible) -> correction #5 in reply.
+- LTA: sealed at Rs 41,070 (no more tickets) -> correction #3.
+- CASLOAN cracked (password 5030707031989); interest officially grounded; SBI final
+  certificate = OPTIONAL only.
+Remaining (non-reply): AY 2026-27 ack/e-verify/refund figures (Track 1) whenever ready.
