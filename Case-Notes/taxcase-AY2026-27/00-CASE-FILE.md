@@ -268,3 +268,9 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 ## LOG 06-Aug-2026 (end) — USER Q on VDA 38,747 explained in writing
 - Explained ladder: pocket profit ≈₹6,438 (38,860 gross wins −11,534 losses −20,887 fees) vs statutory 115BBH income ₹38,860 (loss set-off barred, fees non-deductible) — figure is printed in CoinSwitch's own Tax-P&L workbook ("Income u/s 115BBH = 38,859.70"); filed ₹113 = ClearTax import artifact. Tax delta +₹12,089 vs crypto TDS ₹52,279 in hand (>4×). No new asks; user understands.
 - Internal check: 38,859.70 − 11,534.16 = 27,325.54 ✓ = consideration 52,39,849.05 − cost 52,12,523.51 exactly; −fees 20,887.09 = 6,438.45 realized ✓ all ties.
+
+## LOG 06-Aug-2026 (minimization mandate) — WORKPAPER 08 CREATED; two levers dead on evidence, three fact-dependent
+- Mechanical sweeps: 80TTA actual SB interest ₹8,536 (immaterial Δ); PL ₹15,906 & consumer loan ₹2,917 both START Mar-2025 → 57(iii) lever DEAD for FY24-25 (no loan-interest in year).
+- New applied lever: airline ancillary ₹2,000 folded into LTA travel-cost (lean-defensible) → LTA keep ₹43,070, withdraw ₹91,114 → Δ tax now +₹56,718, clawback ≈ ₹55,098.
+- ASKED (single block): (1) parents' health premium/medical spend (80D(b)/(d), up to ₹17,160 save); (2) Kalyan co-travellers dependent siblings? (−₹1,224); (3) LRS Aug-2024 purpose — COMPLIANCE-SAFETY (foreign assets ⇒ Schedule FA; BMA penalty class!); (4) donations 80G quick-y/n.
+- Floor analysis: after answers, clawback floor ≈ ₹36.5k–38k; below that = no paper exists.
