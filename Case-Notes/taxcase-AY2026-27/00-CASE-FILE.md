@@ -259,3 +259,8 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 - Final corrections: VDA +12,089 · IFOS +664 · LTA +29,051 · NPS +7,738 · 80D +7,800 = **+₹57,342** (income +₹1,83,789); net of ₹8,965 credits ⇒ ≈₹48,377 + interest; repaid via refund reduction (~₹56k within 143(3) order).
 - USER-ASKS REMAINING: none for AY25-26 reply (optional: SBI final cert). Track-1: AY26-27 ack/e-verify/refund figure still owed by user.
 - NEXT: finalize reply text (P1-P8 + cover) → user review → submit ~15-Aug.
+
+## LOG 06-Aug-2026 (final) — USER Q: "so I pay ₹57,342?" → EXPLAINED (no out-of-pocket)
+- ₹57,342 = delta between filed tax (8,42,350) and corrected tax (8,99,692); prepaid credits 9,84,850 EXCEED corrected liability → corrected refund ≈ ₹85,158 vs ₹1,40,880 received ⇒ AO adjusts ≈ ₹55,722 in 143(3), most likely via s.245 adjustment against pending AY2026-27 refund (~₹1.10L).
+- 234B/234C ≈ NIL (TDS > 90% of assessed tax in every quarter; crypto Q4 income had simultaneous TDS). Unclaimed credits ₹8,965 net the differential to ≈ ₹48,377 before interest.
+- Penalty frame restated: non-disclosure path = same tax + 50%/200% 270A + interest; our path = tax-only, shielded by 270A(6)(a)/270AA. User aligned.
