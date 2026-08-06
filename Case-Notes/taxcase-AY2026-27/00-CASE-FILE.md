@@ -264,3 +264,7 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 - ₹57,342 = delta between filed tax (8,42,350) and corrected tax (8,99,692); prepaid credits 9,84,850 EXCEED corrected liability → corrected refund ≈ ₹85,158 vs ₹1,40,880 received ⇒ AO adjusts ≈ ₹55,722 in 143(3), most likely via s.245 adjustment against pending AY2026-27 refund (~₹1.10L).
 - 234B/234C ≈ NIL (TDS > 90% of assessed tax in every quarter; crypto Q4 income had simultaneous TDS). Unclaimed credits ₹8,965 net the differential to ≈ ₹48,377 before interest.
 - Penalty frame restated: non-disclosure path = same tax + 50%/200% 270A + interest; our path = tax-only, shielded by 270A(6)(a)/270AA. User aligned.
+
+## LOG 06-Aug-2026 (end) — USER Q on VDA 38,747 explained in writing
+- Explained ladder: pocket profit ≈₹6,438 (38,860 gross wins −11,534 losses −20,887 fees) vs statutory 115BBH income ₹38,860 (loss set-off barred, fees non-deductible) — figure is printed in CoinSwitch's own Tax-P&L workbook ("Income u/s 115BBH = 38,859.70"); filed ₹113 = ClearTax import artifact. Tax delta +₹12,089 vs crypto TDS ₹52,279 in hand (>4×). No new asks; user understands.
+- Internal check: 38,859.70 − 11,534.16 = 27,325.54 ✓ = consideration 52,39,849.05 − cost 52,12,523.51 exactly; −fees 20,887.09 = 6,438.45 realized ✓ all ties.
