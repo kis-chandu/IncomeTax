@@ -22,7 +22,7 @@
 | 4 | **P3-B Narration & source-index** | `P3B-Narration-Index-FY2024-25.pdf` |
 | 5 | **P4 Form 16 Part A & B** *(zip)* | `Form16-AY2025-26-PartA-TechAspect.pdf` + `Form16-AY2025-26-PartB-TechAspect.pdf` (from `06-Payroll-Form16/`) |
 | 6 | **P5-A Sale deed extracts + foreclosure letter** | `P5A-SaleDeed-Foreclosure-Extracts.pdf` |
-| 7 | **P5-B Loan interest evidence** *(zip)* | `SBI-HL-CASLOAN-LoanStatement-Oct-Dec2024-UNLOCKED-interest-98081.pdf` + `SBI-HL-Certificate-FY2023-24-FINAL-Interest398319.pdf` + `P5-Interest-Derivation-Note.pdf` (all from `07-HomeLoan-SBI-Loan-40108253827/`) |
+| 7 | **P5-B/C Loan evidence — sanction letter + interest** *(zip)* | `SBI-HL-Sanction-Letter-40108253827-44L-Mar2021.pdf` (**sanction letter**, 4 pp) + `SBI-HL-CASLOAN-LoanStatement-Oct-Dec2024-UNLOCKED-interest-98081.pdf` + `SBI-HL-Certificate-FY2023-24-FINAL-Interest398319.pdf` + `P5-Interest-Derivation-Note.pdf` (all from `07-HomeLoan-SBI-Loan-40108253827/`) |
 | 8 | **P6 Chapter VI-A proofs** *(zip)* | `LIC-Premium-Paid-Statement-FY2024-25-Policy548919746-52782.pdf` + `Receipt-24SGA041120-07Jun2024-Tuition-30000.pdf` + `Receipt-24SGA042493-19Aug2024-Tuition-35000.pdf` (the two tuition receipts ONLY — the others are NOT-80C items) + `NPS-Tier1-SOT-FY2024-25-UNLOCKED-Contribution-25200.pdf` (all from `06-Deductions-Proofs/`) |
 | 9 | **P8-A CoinSwitch tax workbook (xlsx)** *(zip)* | `CoinSwitch-Tax-PnL-FY2024-25-report_27477331.xlsx` (from `04-Crypto-CoinSwitch/`) |
 | 10 | **P8-B trade extract + Z corrected computation** *(zip)* | `P8B-VDA-Trade-Extract.pdf` + `Z-Corrected-Computation-AY2025-26.pdf` |
