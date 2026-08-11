@@ -44,6 +44,6 @@
 | 4 | 80D 25,000 → 0 (no assessee-paid premium traceable in furnished statements) | 25,000 | 7,800 |
 | | **TOTAL** | **90,676** | **28,291** |
 
-**Interest:** 234A NIL (timely filing). 234B/234C prayed **NIL** — prepaid TDS (₹9.76L) exceeded 90% of the recomputed liability in every quarter. Undertaking to pay on quantification; consent to s.245 adjustment vs pending AY 2026-27 refund (≈ ₹1.10L).
+**Interest:** 234A NIL (timely filing; tax fully covered by TDS). 234B/234C do not arise — no advance-tax liability ever arose u/s 208 (TDS ₹9,75,916 > recomputed tax ₹8,70,640 at all times). Undertaking to pay on quantification; consent to s.245 adjustment vs pending AY 2026-27 refund (≈ ₹1.10L).
 
 > Internal note (not for upload): Option A figures (with LTA withdrawal) exist in git history (FINAL v2). If the AO ever raises the s.10 exemption, the concession set is ready: tickets ₹43,070 kept + concede ₹91,114 (+₹28,428) — recomputation to v2 numbers is a 5-minute job.

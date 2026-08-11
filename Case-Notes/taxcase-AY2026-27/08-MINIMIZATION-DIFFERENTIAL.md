@@ -54,3 +54,6 @@ Track-1 AY2026-27 refund ≈ ₹1.10L inbound ⇒ s.245 adjustment absorbs clawb
 3. **Arithmetic re-tied fresh:** filed 8,42,350 exact ✓; corrected bottom-up 8,70,640 (TI 34,15,514→34,15,510; slab 8,25,495 + VDA 11,658 + cess 33,486.12 → 288B ⇒ 8,70,640) ✓; Δ +28,290 vs per-item 28,291 (₹1 utility rounding, disclosed) ✓; refund recompute 1,05,276.14; clawback 35,603.86 ≈ ₹35,604 ✓. Net cash after s.245 vs AY26-27 refund 1,09,973 = **≈ ₹74,369**.
 4. **Demand coverage:** 8/8 requisitions mapped 1:1 (P1–P8 + Z); annexure set matches minimal-upload map; reserve items listed.
 **STATUS: FINAL v3 — LOCKED FOR SUBMISSION. Review 10–12 Aug; upload target 15-Aug; hard limit 17-Aug-2026 15:28 IST.**
+
+## POST-LOCK AUDIT — 11-Aug-2026 (pre-upload, user-ordered line-by-line)
+14 defects fixed (reserve-line deletion; 270A/234B-C citation law; placeholder address; signature; unverifiable assertions purged; FY25-26/Indian Bank/LTA strings removed from AO-facing text; 80EEA first-home asserted on user confirmation; P3 FDR-sweep consistency; Z/response-text/index aligned). Residual declarations: deed SDV per extract pages = consideration; P3-B threshold ₹10k. Nothing asserted without document-basis or user confirmation.

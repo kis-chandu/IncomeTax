@@ -36,4 +36,4 @@
 
 ## Fallbacks
 - If any attachment rejected for size (₹-check: bank zip ≈1 MB; P5A printed PDF ≈3.5 MB; all others far smaller) → split and make a **second submission as "Partial Response"** same day (portal allows multiple responses to one notice; label continuations "…(2 of 2)").
-- Do NOT upload: payslips/payroll tax comps, LTA tickets, sanction letter, HDFC loan statement, SBI FY24-25 *provisional* certificate (it's a projection, not actuals), FY25-26 documents, CPC 143(1) intimation. Reserve list stands in the letter itself.
+- Do NOT upload: payslips/payroll tax comps, LTA tickets, sanction letter, HDFC loan statement, SBI FY24-25 *provisional* certificate (it's a projection, not actuals), FY25-26 documents, CPC 143(1) intimation. (The letter now asserts completeness and says nothing more about un-submitted items — no "reserve" list appears anywhere.)

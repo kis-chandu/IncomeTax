@@ -3,7 +3,7 @@
 
 ---
 ## COVER LETTER
-To, The Assessing Officer ⟦Ward/Circle as shown on e-Proceedings portal⟧, Income-tax Department
+To, **The Assessing Officer, Income-tax Department** — National e-Assessment Centre / jurisdictional assessment unit (per proceeding reference on the e-Proceedings portal)
 
 **Re: Reply to notice u/s 142(1) DIN ITBA/AST/F/142(1)/2026-27/1091691350(1) dated 31-Jul-2026 — PAN ARQPG9033N — AY 2025-26 (143(3) proceedings; 143(2) DIN ITBA/AST/S/143(2)/2026-27/1090008156(1) dated 20-Jun-2026; return Ack 522131170310725 dated 31-Jul-2025)**
 
@@ -20,7 +20,7 @@ Respected Sir/Madam,
    | 4 | 80D ₹25,000: no premium payment by the assessee is traceable in any of the five bank statements furnished; absent the payment evidence required by requisition #6(c)–(e), the claim is withdrawn | +25,000 | +7,800 |
    | | **TOTAL** | **+90,676** | **+₹28,291** (bottom-up recompute ⇒ ₹8,70,640 total; +₹28,290, ₹1 utility rounding) |
 4. Net effect: corrected total income ₹34,15,510 (vs ₹33,24,840); corrected tax ₹8,70,640 (vs ₹8,42,350); TDS credits ₹9,75,916.14 (all 26AS figures now fully claimed, incl. ₹31.14 earlier missed) ⇒ recomputed refund **≈ ₹1,05,276** vs ₹1,40,880 received ⇒ **≈ ₹35,604 stands refundable to the Department** in the 143(3) order. The assessee undertakes to pay the differential with applicable interest immediately upon quantification and **consents to adjustment u/s 245 against the pending AY 2026-27 refund (≈ ₹1.10 lakh)** for expedited closure. Interest u/s 234A NIL (timely return); 234B/234C prayed NIL — TDS credits exceeded 90% of the recomputed liability in every quarter of FY 2024-25.
-5. The inaccuracies were bona fide; the larger part of tax on the corrected figures stands pre-paid via TDS (incl. ₹52,279 u/s 194S). This reply is itself the first disclosure of the corrections. It is prayed that they be treated as cooperation with reference to **s.270A(6)(a)** and, if required, **s.270AA**.
+5. The inaccuracies were bona fide; the larger part of tax on the corrected figures stands pre-paid via TDS (incl. ₹52,279 u/s 194S). This reply is itself the first disclosure of the corrections. It is prayed that no penalty be initiated u/s 270A — the explanation for each correction is bona fide and all material facts are disclosed (s.270A(6)); alternatively, immunity may be granted u/s 270AA upon payment.
 
 ---
 ## P1 — Nature of activities during FY 2024-25  *(demand #1)*
@@ -31,11 +31,11 @@ Enclosed: filed return JSON+PDF (P2-A), Form 26AS (P2-B), head-wise computation 
 - **Salary** 40,23,083 ↔ 26AS 192 gross 40,23,083; TDS 9,19,053 ✓ exact tie.
 - **26AS 194S cluster:** Bitcipher Labs LLP gross ₹52,29,329.97 / TDS ₹52,279.39 ↔ CoinSwitch workbook consideration ₹52,39,849.05 — full table at P8; TDS claimed in full.
 - **Interest/dividend clusters** per P7 table (every 26AS row mapped; IFOS trued to 26AS, +₹2,129).
-- **26AS Part-VI row (HDFC, 08-Aug-2024, ₹8,933.66):** verified on the bank statement as an **Amazon Marketplace card purchase** (bank LRS-tagged) with Tax Collected ₹0.00 / TCS Deposited ₹0.00 — **no credit exists; NIL claim** (an earlier working note claiming this TCS stands withdrawn/corrected).
+- **26AS Part-VI row (HDFC, 08-Aug-2024, ₹8,933.66):** verified on the bank statement as an **Amazon Marketplace card purchase** (bank LRS-tagged) with Tax Collected ₹0.00 / TCS Deposited ₹0.00 — **no credit exists; NIL claim.**
 - **Σ TDS per 26AS = ₹9,75,916.14** vs ₹9,75,885 claimed ⇒ ₹31.14 extra credit **now claimed**.
 
 ## P3 — Bank statements of all accounts, with narrations & source of credits  *(demand #3)*
-- **Declaration:** In PY 2024-25 the assessee held/operated **exactly five** accounts; statements of ALL five enclosed (P3-A): HDFC 00101130003550 (salary/operating), SBI 40092818384 (HL servicing), IDFC FIRST 10056816452 (investment routing), Kotak 2112302126 (savings/FD), Jio Payments 001620421000864 (expenses/NPS rail). **No Indian Bank account existed in PY 2024-25** (opened only in FY 2025-26). No FDR/CC/OD account other than shown; no undisclosed account; no significant cash deposits.
+- **Declaration:** In PY 2024-25 the assessee held/operated **exactly five** accounts; statements of ALL five enclosed (P3-A): HDFC 00101130003550 (salary/operating), SBI 40092818384 (HL servicing), IDFC FIRST 10056816452 (investment routing), Kotak 2112302126 (savings/FD), Jio Payments 001620421000864 (expenses/NPS rail). **No other bank account was held or operated during PY 2024-25** (any sweep FD balances operate within these five accounts); no current/CC/OD account; no significant cash deposits.
 - **Narration/source index (Annexure P3-B):** generated mechanically from the statements, **chain-validated (running balance per account; exact tie to SBI printed totals)** — every entry ≥ ₹10,000 classified. Source-of-credit summary of all non-trivial credits:
   | Credit(s) | Source (as per statement narration) |
   |---|---|
@@ -46,7 +46,7 @@ Enclosed: filed return JSON+PDF (P2-A), Form 26AS (P2-B), head-wise computation 
   | ₹10,460.74 Transactree Technologies; up to ₹77,290 Ikshavaku Software Ventures; Navi/Vivriti/UGRO/InCred/Profectus clusters | **Lendbox P2P / TradeCred invoice-discounting / alt-platform** principal redemptions + coupons (interest in IFOS per 26AS) |
   | 11 × ₹45,000 from HDFC (`HOME LOAN <month>`), plus inter-account "SAVINGS/SIP" entries HDFC↔SBI↔Kotak↔IDFC (UTR-matched both sides) | **Own transfers** between own accounts |
   | ₹40,001 Putul Rani Gorai 04-Mar-2025; ≈₹1.65L across year Mrs. Priyanka Gorai (Kotak) | Family exchanges with **mother / wife** — no income element |
-  | ₹15,000 Priyanshu Kumari 30-Nov-2024 and small reciprocal entries | Family exchanges with **sister-in-law** (the ₹1,00,000 lent to her on 23-Feb-2025 was repaid subsequently) |
+  | ₹15,000 Priyanshu Kumari 30-Nov-2024 and small reciprocal entries | Family exchanges with **sister-in-law** (₹1,00,000 was additionally advanced to her on 23-Feb-2025 towards family need) |
   | Excitel Broadband monthly | Ultra-platform equipment lease rental — declared IFOS (26AS 194-I(a)) |
   | Savings-interest credits (quarterly) | Bank interest — declared IFOS/80TTA |
   - All debits ≥ ₹10,000 likewise classified in P3-B (MF SIPs incl. "TP ACH INDIANESIGN" e-mandates & ICCL ACH tallying AIS MF purchases ₹13,69,760; NPS ₹25,200 via Jio rail; LIC ₹52,782; tuition ₹65,000; ₹4,01,000 HL servicing; ₹50,100 crypto funding with three auto-reversed IMPS legs; family maintenance ₹10,000/month to mother; household/travel/medical spends).
@@ -56,7 +56,7 @@ Enclosed (P4-A, Cert SHYODPA dt 04-Jun-2025): **gross salary ₹40,23,083, TDS �
 
 ## P5 — 24(b) interest ₹2,00,000: property, loan, repayment, purpose  *(demand #5)*
 - **Property & ownership:** Registered Absolute Sale Deed **BNS-I-5063-2021-22 (16-Aug-2021)** — purchasers **Chandrakant & Priyanka Gorai**; Flat C-114, 'C' Block, Mukunda Brundhavan, Kodigehalli (1,425 sft + 584 sft UDS; RERA PRM/KA/RERA/1251/446/PR/200121/003220); **consideration ₹44,26,500 ≤ ₹45L** (also satisfies the 80EEA SDV condition); deed records SBI RACPC loan. Sole-earner basis: all consideration/EMIs paid solely by assessee (bank-proven); spouse is co-borrower for eligibility only. *Enclosed: deed extracts pp1/2/3/6 (P5-A).*
-- **Loan details & sanction window:** SBI HL 40108253827, **sanctioned 31-Mar-2021** (within the s.80EEA window), ₹44L ≤ ₹45L; purpose: purchase of the above flat. *Enclosed: SBI FY2023-24 interest certificate (states sanction date & history); foreclosure letter (18-Jan-2025: outstanding ₹42,01,075; closure value ₹42,19,245). Sanction letter/agreement/amortisation schedule will be furnished on requisition.*
+- **Loan details & sanction window:** SBI HL 40108253827, **sanctioned 31-Mar-2021** (within the s.80EEA window), ₹44L ≤ ₹45L; purpose: purchase of the above flat. *Enclosed: SBI FY2023-24 interest certificate (records sanction date 31-Mar-2021 and loan a/c no.); foreclosure letter (18-Jan-2025: outstanding ₹42,01,075; closure value ₹42,19,245). The sanction letter/loan agreement will be obtained from SBI and furnished immediately if called for (the loan stands foreclosed on 18-Feb-2025).*
 - **Source of repayment (own income):** SBI a/c …8384 shows 11 EMI × ₹31,000 (DIRECT DR) + 6 part-prepay × ₹10,000 = **₹4,01,000 in FY 2024-25**, funded by 11 own UPI × ₹45,000 from the salary account HDFC …3550 ("HOME LOAN `<month>`").
 - **Interest quantum (bank's own ledger):** SBI CASLOAN statement (enclosed, P5-B) posts monthly interest **33,035 + 31,987 + 33,059 = ₹98,081 for Oct–Dec-2024 alone @9.25%** ⇒ SBI FY interest ≈ **₹3.39L** + HDFC-takeover slice 18-Feb→31-Mar ≈ ₹0.30L ⇒ **≈ ₹3.7L ≥ ₹3.5L claimed** (24(b) cap ₹2.0L + 80EEA ₹1.5L). Derived-interest table enclosed; SBI final certificate on requisition.
 
@@ -69,7 +69,7 @@ Enclosed (P4-A, Cert SHYODPA dt 04-Jun-2025): **gross salary ₹40,23,083, TDS �
 | 80EEA | 1,50,000 | Per P5 | 1,50,000 | Per P5 | Per P5 |
 | 80TTA | 8,505 | SB-interest credits across five statements | 8,505 | Statement lines | — |
 
-Eligibility notes: 80C/80TTA/80EEA per statute (80EEA: loan sanctioned 31-Mar-2021 — within the statutory window then in force; stamp-duty value ₹44,26,500 ≤ ₹45L; sanction ₹44L ≤ ₹45L); **corrected VI-A = ₹3,33,705.**
+Eligibility notes: 80C/80TTA/80EEA per statute. For **80EEA**: loan sanctioned 31-Mar-2021 — within the statutory window then in force; stamp-duty value ₹44,26,500 ≤ ₹45L; sanction ₹44L ≤ ₹45L; and the assessee did not own any residential house property on the date of sanction (first-home condition satisfied). **Corrected VI-A = ₹3,33,705.**
 
 ## P7 — IFOS as declared  *(demand #7)*
 | Source | Filed ₹ | 26AS ₹ | Note |
@@ -95,16 +95,22 @@ Eligibility notes: 80C/80TTA/80EEA per statute (80EEA: loan sanctioned 31-Mar-20
    | **Total** | **90,676** | **28,291** (bottom-up recompute: ₹8,70,640; +₹28,290, ₹1 rounding) |
    
    Corrected TI ₹34,15,510; corrected tax ₹8,70,640; credits ₹9,75,916.14 ⇒ recomputed refund ≈ ₹1,05,276 (vs ₹1,40,880 received ⇒ **≈ ₹35,604 to the Department** in the 143(3) order; 234A NIL; 234B/C prayed NIL — TDS > 90% of recomputed tax every quarter). Undertaken to pay on quantification; consent to s.245 adjustment against the pending AY 2026-27 refund.
-6. **Penalty:** position bona fide; disclosed suo motu in this reply; TDS fully traceable — prayed no penalty u/s 270A (s.270A(6)(a)); alternatively immunity u/s 270AA upon payment.
+6. **Penalty:** position bona fide; disclosed suo motu in this reply; all material facts disclosed; TDS fully traceable — prayed that no penalty be initiated u/s 270A (s.270A(6)); alternatively immunity u/s 270AA upon payment.
 
 ## ANNEXURES (upload set — exactly what the eight requisitions call for)
 - **P1** activities note (this letter) · **P2-A** filed ITR · **P2-B** Form 26AS · **P2-C** computation · **P3-A** five bank statements · **P3-B** narration/source index (chain-validated) · **P4-A** Form 16 A&B · **P5-A** sale-deed extracts pp1/2/3/6 + SBI FY23-24 interest certificate (sanction window) + foreclosure letter · **P5-B** CASLOAN loan statement (interest ₹98,081 Oct–Dec @9.25%) + derived-interest table · **P6** LIC statement, Sristi tuition receipts (₹65,000), **NPS Tier-I SOT (₹25,200)** · **P8-A** CoinSwitch tax workbook · **P8-B** 6,223-trade extract · **Z** corrected-computation summary.
-- **Held in reserve (furnish only on requisition):** payslips & payroll tax-computation reports; travel/LTA tickets; SBI sanction letter/agreement/schedule; SBI FINAL interest certificate; HDFC takeover-loan statement; full registered deed.
-- **Not uploaded (outside scope):** anything relating to FY 2025-26 / AY 2026-27; CPC 143(1) intimation (already on portal).
+- **Completeness:** the enclosed set answers every item called for in the eight requisitions; any further document, if specifically required, will be furnished immediately upon requisition.
+
+---
+Yours faithfully,
+**Chandrakant Gorai**
+Place: Bengaluru · Date: 11-Aug-2026 · Enclosures: Annexures P2–P8 & Z, as indexed above
 
 ### SUBMISSION NOTES
 - e-Proceedings → select this 142(1) DIN → upload this letter (PDF) + annexures; each file ≤ portal limit (statements individually; P8-A xlsx zips).
 - Map every upload to requisitions 1–8 exactly as P1–P8 here; keep the submission ack scroll.
+
+### CONTINGENCY (internal — n8 here; keep the submission ack scroll.
 
 ### CONTINGENCY (internal — not part of the letter)
 - If the AO raises the s.10 exemption (₹1,34,184) at any later stage: produce the ticketed set (₹41,070 + ₹2,000 ancillary = ₹43,070 kept) and concede the balance ₹91,114 then — same tax posture as Option A at that point, penalty still defensible (bona fide belief; partial documents exist). Travel evidence set sits ready in repo `10-LTA-Travel-Evidence/`.
