@@ -69,7 +69,7 @@ Enclosed (P4-A, Cert SHYODPA dt 04-Jun-2025): **gross salary ₹40,23,083, TDS �
 | 80EEA | 1,50,000 | Per P5 | 1,50,000 | Per P5 | Per P5 |
 | 80TTA | 8,505 | SB-interest credits across five statements | 8,505 | Statement lines | — |
 
-Eligibility notes: 80C/80TTA/80EEA per statute (80EEA: sanction ≤ 31-03-2022? no — window then open; loan sanctioned 31-Mar-2021 ✓, SDV ₹44,26,500 ≤ ₹45L ✓, loan ≤ ₹45L ✓); **corrected VI-A = ₹3,33,705.**
+Eligibility notes: 80C/80TTA/80EEA per statute (80EEA: loan sanctioned 31-Mar-2021 — within the statutory window then in force; stamp-duty value ₹44,26,500 ≤ ₹45L; sanction ₹44L ≤ ₹45L); **corrected VI-A = ₹3,33,705.**
 
 ## P7 — IFOS as declared  *(demand #7)*
 | Source | Filed ₹ | 26AS ₹ | Note |
@@ -98,7 +98,7 @@ Eligibility notes: 80C/80TTA/80EEA per statute (80EEA: sanction ≤ 31-03-2022? 
 6. **Penalty:** position bona fide; disclosed suo motu in this reply; TDS fully traceable — prayed no penalty u/s 270A (s.270A(6)(a)); alternatively immunity u/s 270AA upon payment.
 
 ## ANNEXURES (upload set — exactly what the eight requisitions call for)
-- **P1** activities note (this letter) · **P2-A** filed ITR · **P2-B** Form 26AS · **P2-C** computation · **P3-A** five bank statements · **P3-B** narration/source index (chain-validated) · **P4-A** Form 16 A&B · **P5-A** sale-deed extracts pp1/2/3/6 + SBI FY23-24 interest certificate (sanction window) + foreclosure letter · **P5-B** CASLOAN loan statement (interest ₹98,081 Oct–Dec @9.25%) + derived-interest table · **P6** LIC statement, Sristi tuition receipts, ePRAN + **NPS Tier-I SOT** · **P8-A** CoinSwitch tax workbook · **P8-B** 6,223-trade extract · **Z** corrected-computation summary.
+- **P1** activities note (this letter) · **P2-A** filed ITR · **P2-B** Form 26AS · **P2-C** computation · **P3-A** five bank statements · **P3-B** narration/source index (chain-validated) · **P4-A** Form 16 A&B · **P5-A** sale-deed extracts pp1/2/3/6 + SBI FY23-24 interest certificate (sanction window) + foreclosure letter · **P5-B** CASLOAN loan statement (interest ₹98,081 Oct–Dec @9.25%) + derived-interest table · **P6** LIC statement, Sristi tuition receipts (₹65,000), **NPS Tier-I SOT (₹25,200)** · **P8-A** CoinSwitch tax workbook · **P8-B** 6,223-trade extract · **Z** corrected-computation summary.
 - **Held in reserve (furnish only on requisition):** payslips & payroll tax-computation reports; travel/LTA tickets; SBI sanction letter/agreement/schedule; SBI FINAL interest certificate; HDFC takeover-loan statement; full registered deed.
 - **Not uploaded (outside scope):** anything relating to FY 2025-26 / AY 2026-27; CPC 143(1) intimation (already on portal).
 
