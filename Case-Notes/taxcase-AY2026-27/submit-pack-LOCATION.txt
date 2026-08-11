@@ -1,0 +1,4 @@
+Print-ready submit-pack HTML master copies live at:
+- repo: FY2024-25_AY2025-26/11-Reply-Annexures-142(1)/SUBMIT-PACK/
+- canonical workspace: /home/user/taxcase-AY2026-27/submit-pack/
+(removed from this mirror to keep the repo under size limits - single source of truth)
