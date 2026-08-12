@@ -400,3 +400,8 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 ### 12-Aug-2026 — Remarks ACCEPTED by portal
 - Screenshot: remarks box filled; tail visible matches portal-safe text verbatim; **Remaining Characters: 333** (predicted 332; +1 = trailing newline dropped on paste → full 3,667-char body pasted intact). Full Response ✓. Attachment expander visible: "Click here to select categories for attaching documents."
 - Screen 4 issued: 10 attachments, order + unique ≤100-char descriptions + category hints ("Others" fallback) + em-dash/colon filename-rename fallback on upload rejection. STOP-and-screenshot before Continue.
+
+### 12-Aug-2026 — Category screen reached; HANDOVER created (context-window insurance)
+- User at "Please select categories for Attaching Documents". Mapping issued: Bank account statement→P3-A; Sale deed copies→P5A; Income computation statement along with schedules→P8-B+Z; Others×7→P1,P2,P3-B,P4,P5-B/C,P6,P8-A (fallback: Transaction statement→P3-B if Others-count <7).
+- **HANDOVER.md written (repo root + SUBMIT-PACK + Case-Notes)**: full mid-flight state — remarks pasted (333 remaining), 10-file map w/ exact descriptions, endgame (Continue→Submit→OTP→TID+screenshot+ack), parked 139(9) AY24-25 twin-proceeding diagnosis (do NOT respond before assistant reads notice PDFs), locked reply figures, reserve-docs list, new-session briefing protocol.
+- Context-window risk flagged by user ("conversation too long"); user instructed: finish filing from HANDOVER if chat ends; new chat = point to repo HANDOVER.md + 00-CASE-FILE.md + supply fresh PAT.
