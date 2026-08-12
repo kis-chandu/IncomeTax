@@ -47,8 +47,12 @@ html("P2C-Computation-As-Filed-AY2025-26", """# ANNEXURE P2-C — COMPUTATION OF
 | TDS claimed in return | 9,75,885 |
 | **Refund as filed** | **1,33,540** |
 *Note: Σ TDS per Form 26AS (P2-B) = ₹9,75,916.14; the additional ₹31.14 is now claimed in the corrected computation (Annexure Z). Corrected figures are separately placed at Annexure Z — this annexure reproduces only the as-filed position.*""")
-# 4-5. P3-B, P8-B verbatim
-html("P3B-Narration-Index-FY2024-25", (D/"annexures/ANNEXURE-P3B-NARRATION-INDEX.md").read_text())
+# 4-5. P3-B, P8-B verbatim (P3-B sliced for upload: internal working sections removed; validation cells professionalized)
+p3b = (D/"annexures/ANNEXURE-P3B-NARRATION-INDEX.md").read_text()
+p3b = p3b.replace("⚠️ parsed Dr 661,365.04/Cr 661,926.55 vs bank Dr 661,365.04/Cr 666,615.80", "Index Σ Cr lower than bank-printed total by ₹4,689.25 (Dr ties exactly) — see Note 2")
+p3b = p3b.replace("⚠️ parsed Dr 175,550.53/Cr 173,374.58 vs bank Dr 182,656.53/Cr 183,115.74", "Index Σ lower than bank-printed totals by ₹7,106.00 (Dr) / ₹9,741.16 (Cr) — see Note 2")
+p3b = p3b[:p3b.index("## REVIEW QUEUE")].rstrip() + "\n\n*(Validation mechanics are documented in the method note above; nothing further is relevant to the requisition.)*\n"
+html("P3B-Narration-Index-FY2024-25", p3b)
 html("P8B-VDA-Trade-Extract", (D/"annexures/ANNEXURE-P8B-VDA-EXTRACT.md").read_text())
 # 6. Z sanitized
 z = (D/"annexures/ANNEXURE-Z-CORRECTED-COMPUTATION.md").read_text().replace(" (OPTION B final)", "").replace("ANNEXURE Z — CORRECTED COMPUTATION OF TOTAL INCOME, AY 2025-26", "ANNEXURE Z — CORRECTED COMPUTATION OF TOTAL INCOME, AY 2025-26")
