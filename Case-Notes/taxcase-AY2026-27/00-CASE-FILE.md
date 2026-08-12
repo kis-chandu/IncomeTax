@@ -386,3 +386,7 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 - User **verbally confirmed P5-B:C zip swap done** (SBI stmtt OUT, FY23-24 FINAL cert IN, 4 PDFs) — **hash re-verification pending**: user to web-upload fixed zip into downloads/ while pasting remarks.
 - Insurance artifact created: `SUBMIT-PACK/PORTAL-RESPONSE-TEXT-ascii.txt` (3,624 chars, plain-ASCII twin: —≈⇒Σ≥→ ASCII) in case the portal rejects special characters in the remarks box. Primary text = PORTAL-RESPONSE-TEXT.txt (3,616 chars; expected "Remaining" ≈ 384 after paste).
 - Screen 3 issued: paste entire remarks text → check remaining-chars counter → STOP, screenshot; do NOT Continue yet.
+
+### 12-Aug-2026 — Zip swap RE-VERIFIED (hash) → all 10 attachments GREEN
+- User pushed fixed zip (commit 66aa2e8; merge 7600025). Re-audit of `downloads/P5-B:C Loan evidence — sanction letter + interest.zip`: exactly **4 real PDFs** — sanction letter (hash MATCH), CASLOAN Oct–Dec-24 stmt (hash MATCH), **SBI-HL-Certificate-FY2023-24-FINAL-Interest398319.pdf (hash MATCH — the 80EEA sanction-date anchor now rides)**, P5 interest-derivation note (print). SBI savings statement ABSENT ✓.
+- **All 10 portal attachments now byte/hash-verified and within size limits. Folder cleared for upload.**
