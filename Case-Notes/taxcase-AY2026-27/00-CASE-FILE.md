@@ -409,3 +409,6 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 ### 12-Aug-2026 — Portal rejects all ZIPs ("internal server issue"); P5A PDF landed
 - Screenshot: rows=Bank stmt/Income computation/Sale deed/Others(+mandatory 50-char desc). ALL 4 attempted zips failed (P3-A, P8-B, P4, P2); P5A.pdf attached OK. Root cause = zip type vs filename symbols (filenames carried +,&,—,:).
 - Built `downloads/PORTAL-FINAL/`: ASCII-named zip twins + merged-PDF twins for every slot (page counts/sizes verified ≤5MB; P2 merged 299pp/4.94MB). Others-desc rewritten ≤50 chars ×7. HANDOVER updated.
+
+### 12-Aug-2026 — ALL 10 ATTACHMENTS GREEN on portal (merged-PDF/xlsx route used)
+- Screenshot verified 10/10: Bank stmt row=P3A-Merged ✓; Income computation row=P8B-Z-Merged ✓; Sale deed row=P5A ✓; Others row (1 shared desc)= xlsx ✓, P6-Merged ✓, P5BC-Merged ✓, P4-Merged ✓, P3B ✓, P2-Merged ✓, P1 ✓. Zip route abandoned by portal behavior, all docs in via merge twins. Recommended single micro-edit: Others description → "Annexures P1 to P8-A; index inside P1" (37/50) since one box covers 7 files. GO issued for Continue→Submit→OTP→TID+screenshot+ack download.
