@@ -366,3 +366,11 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 - Delivered **Step 2 · Screen 1** of the portal walkthrough: login → Pending Actions → e-Proceedings → Self → AY 2025-26 → 142(1) DIN ITBA/AST/F/142(1)/2026-27/1091691350(1). Pre-flight checklist re-issued (P5A reprint ✓ + ".html" stripped from filename; 10 files = 3 loose PDFs + 7 ZIPs; each ≤5 MB).
 - Awaiting user's "on the notice row" confirmation before Screen 2 (notice view + **Submit Response** → **Full Response**).
 - Reminders re-stated: reply ONLY via e-Proceedings; DO NOT use "File Income Tax Return" page (revision closed 31-Dec-2025; ITR-U barred during pending 143(3)). Deadline **17-Aug-2026 15:28 IST**; target filing 12–13 Aug.
+
+### 12-Aug-2026 — Upload-folder forensic audit (user pushed assembled folder to downloads/, commit bd2311a)
+- **10/10 slots present, all ≤5 MB** (largest P5A 4.78 MB). Extra file `README.txt` = repo intake note — NOT for upload.
+- **Hash-verified every repo-sourced document inside every zip** (sha256 vs repo): all MATCH — ITR pdf (47pp) in P2; exactly the 5 correct bank statements (HDFC48/IDFC26/Jio16/Kotak9/SBI5) in P3-A; Form16 A+B in P4; sanction letter(4pp)+CASLOAN(2pp) in P5-B:C; NPS SOT + exactly the two correct tuition receipts (24SGA041120/24SGA042493) + LIC in P6; CoinSwitch xlsx in P8-A.
+- **P5A reprint CONFIRMED FIXED: 6 pages** (1 header + 5 clean deed/foreclosure pages); ".html" stripped from filename ✓.
+- Print page-counts tie to earlier verification: P1 4pp ✓, P2B 26AS 251pp ✓, P3B 15pp ✓.
+- **⚠ ONE DEVIATION FOUND:** `P5-B:C` zip contains **SBI-Savings-40092818384-FY2024-25.pdf** (a duplicate — already in P3-A) **in place of `SBI-HL-Certificate-FY2023-24-FINAL-Interest398319.pdf`**. The FY23-24 FINAL certificate is load-bearing: it anchors the 31-Mar-2021 sanction date (sanction-letter scan has blank Reference/Date fields) → 80EEA window limb; and evidences the full-year interest scale (₹3,98,319) behind the ≈₹3.69L FY24-25 derivation. User instructed: swap out SBI statement, add FY23-24 cert, re-zip. Rest of pack = file-ready.
+- Cosmetic note: macOS Finder zips embed `._*` AppleDouble ghost entries — harmless, accepted (no rebuild demanded of the 6 good zips).
