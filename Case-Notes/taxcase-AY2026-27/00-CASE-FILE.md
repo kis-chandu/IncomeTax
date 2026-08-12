@@ -396,3 +396,7 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 - `PORTAL-RESPONSE-TEXT.txt` REBUILT and machine-verified against the whitelist: 3,668 chars (expected "Remaining" ≈ 332). Substitutions: ≈→~ · "⇒ … ⇒"→"; … hence" · ≥→"comfortably exceeds" · Σ→"Total" · "="→"works out to"/"is" · "Smart Invest"→Smart-Invest · "assessee's accounts"→"any account of the assessee" · —/–→- · ×→x. Meaning zero-change; every figure/digit verified identical.
 - Housekeeping: original unicode text archived as PORTAL-RESPONSE-TEXT-original-unicode.txt; earlier ascii twin deleted (it still contained banned ">"); SUBMIT-PACK-INDEX updated. Safe copy also at PORTAL-RESPONSE-TEXT-portal-safe.txt.
 - User instructed: clear box fully, paste new text, verify counter ~332, STOP, screenshot.
+
+### 12-Aug-2026 — Remarks ACCEPTED by portal
+- Screenshot: remarks box filled; tail visible matches portal-safe text verbatim; **Remaining Characters: 333** (predicted 332; +1 = trailing newline dropped on paste → full 3,667-char body pasted intact). Full Response ✓. Attachment expander visible: "Click here to select categories for attaching documents."
+- Screen 4 issued: 10 attachments, order + unique ≤100-char descriptions + category hints ("Others" fallback) + em-dash/colon filename-rename fallback on upload rejection. STOP-and-screenshot before Continue.
