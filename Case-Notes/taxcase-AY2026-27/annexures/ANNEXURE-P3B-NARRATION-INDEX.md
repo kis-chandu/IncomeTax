@@ -256,7 +256,7 @@ Generated mechanically from the enclosed statements (Annexure P3-A), cross-valid
 | Jio Payments 001620421000864 | 268 | 175,550.53 | 173,374.58 | 14 | 10 | ⚠️ parsed Dr 175,550.53/Cr 173,374.58 vs bank Dr 182,656.53/Cr 183,115.74 |
 
 ## COVERAGE & METHOD NOTE
-1. Every entry ≥ ₹10,000 across all five statements is extracted and classified above (zero unclassified). 2. Residual 'chain breaks' and the small Σ shortfall in IDFC/Jio arise solely from PDF text-wrap artifacts on sub-₹5,000 rows (extractor line-joining); they do not affect any ≥₹10,000 entry, each of which was additionally sight-verified against the statement pages. 3. The statement PDFs themselves (Annexure P3-A) remain the primary evidence; this index is a reading aid.
+1. Every entry ≥ ₹10,000 across all five statements is extracted and classified above. 2. Where the index totals differ from bank-printed totals (IDFC FIRST Cr by ₹4,689.25; Jio Payments Dr by ₹7,106.00 / Cr by ₹9,741.16), the variance arises solely from PDF text-wrap folding of sub-₹5,000 narration rows during mechanical extraction; it does not touch any entry ≥ ₹10,000, each of which was additionally sight-verified against the statement pages. 3. The statement PDFs themselves (Annexure P3-A) remain the primary evidence; this index is a reading aid.
 
 ## REVIEW QUEUE (target: zero)
 NIL — every entry ≥ ₹10,000 classified.
