@@ -34,4 +34,4 @@ Source: exchange-generated tax workbook `CoinSwitch-Tax-PnL-FY2024-25-report_274
 
 ## 5. Fiat funding chain (capital account — not income)
 - IDFC FIRST → Bitcipher/CoinSwitch: ₹500 on 22-Jan-2025 + ₹49,600 on 30-Jan-2025 (preceded by SBI→IDFC ₹50,000 on 30-Jan-2025); three earlier direct SBI→CoinSwitch IMPS attempts (₹1 + ₹50,000 + ₹50,000 on 28/30-Jan-2025) AUTO-REVERSED the same days (visible in SBI statement) ⇒ **net fiat principal deployed: ₹50,100**.
-- VDA holdings NIL on 31-Mar-2025 (workbook 'Balances VDA' sheet). Pocket economic profit = 6,438.45; statutory 115BBH income = 38,859.70 because the Act bars loss set-off and fee deduction — the ₹52.3L 'receipts' are ~104× churn of a ₹50,000 corpus by the Smart-Invest bot, **not** undisclosed income.
+- VDA holdings NIL on 31-Mar-2025 (workbook 'Balances VDA' sheet). Pocket economic profit = 6,438.45; statutory 115BBH income = 38,859.70 because the Act bars loss set-off and fee deduction — the ₹52.3L 'receipts' are ~104× churn of a ₹50,100 corpus by the Smart-Invest bot, **not** undisclosed income.

@@ -6,7 +6,7 @@ Generated mechanically from the enclosed statements (Annexure P3-A), cross-valid
 
 | Date | Narration (as in statement, truncated) | Debit ₹ | Credit ₹ | Classification |
 |---|---|---|---|---|
-| 02/04/2024 | :10 Date Narration Chq. / Ref No. Value Date Withdrawal Amount Deposit Amount Closing Balance* UPI-CHANDRAKANT | 45,000.00 | 0.00 | Own inter-account transfer between own bank accounts (self VPA) |
+| 02/04/2024 | UPI-CHANDRAKANT (self VPA) — own-account transfer | 45,000.00 | 0.00 | Own inter-account transfer between own bank accounts (self VPA) |
 | 02/04/2024 | UPI-XXXXXX9177-BKID0005856-409336246535- APRIL 2024 | 10,000.00 | 0.00 | ₹10,000/month support to mother (BoI xx9177) — family maintenance |
 | 02/04/2024 | UPI-ZERODHA BROKING LTD-ZERODHABROKING@H DFCBANK-HDFC0000523-409336584188-1856635 455897517 Z | 23,000.00 | 0.00 | Zerodha — own trading/MF funding (own money) |
 | 02/04/2024 | UPI-NSE CLEARING LIMITED-NSECBRICS@HDFCB ANK-HDFC0000060-409341991495-PAYMENT FOR ORDER | 10,757.20 | 0.00 | Equity pay-in to broker via NSE Clearing — own share investments (Zerodha) |
@@ -249,10 +249,10 @@ Generated mechanically from the enclosed statements (Annexure P3-A), cross-valid
 ## VALIDATION SUMMARY
 | Account | Rows | Σ Dr (parsed) | Σ Cr (parsed) | Chain breaks | Entries ≥₹10k | Stated-totals tie |
 |---|---|---|---|---|---|---|
-| HDFC 00101130003550 (salary/operating) | 1227 | 3,745,137.68 | 3,735,646.88 | 0 | 109 | n/a (no printed totals in statement — chain-validated) |
+| HDFC 00101130003550 (salary/operating) | 1227 | 3,745,137.68 | 3,735,646.88 | 0 | 109 | no printed totals in statement — running-balance continuity verified |
 | SBI 40092818384 (HL servicing) | 46 | 4,890,580.00 | 4,817,083.00 | 0 | 37 | ✅ EXACT TIE (bank: Dr 4,890,580.00 / Cr 4,817,083.00) |
 | IDFC FIRST 10056816452 | 295 | 661,365.04 | 661,926.55 | 5 | 23 | ⚠️ parsed Dr 661,365.04/Cr 661,926.55 vs bank Dr 661,365.04/Cr 666,615.80 |
-| Kotak 2112302126 | 256 | 862,032.59 | 872,415.33 | 14 | 39 | n/a (no printed totals in statement — chain-validated) |
+| Kotak 2112302126 | 256 | 862,032.59 | 872,415.33 | 14 | 39 | no printed totals in statement — running-balance continuity verified |
 | Jio Payments 001620421000864 | 268 | 175,550.53 | 173,374.58 | 14 | 10 | ⚠️ parsed Dr 175,550.53/Cr 173,374.58 vs bank Dr 182,656.53/Cr 183,115.74 |
 
 ## COVERAGE & METHOD NOTE

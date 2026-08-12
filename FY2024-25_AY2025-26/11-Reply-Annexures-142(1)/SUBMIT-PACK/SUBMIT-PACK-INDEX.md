@@ -1,7 +1,7 @@
 # SUBMIT-PACK — 142(1) REPLY UPLOAD MAP (AY 2025-26) · prepared 11-Aug-2026
 **Portal rules (verified): Pending Actions → e-Proceedings → Self → AY 2025-26 → notice 142(1) → Submit Response → Response type: FULL → remarks (≤4,000 chars — paste from PORTAL-RESPONSE-TEXT.txt) → up to 10 attachments per response, each ≤5 MB (zipped folder up to 50 MB). Formats: PDF; put XLSX/multi-doc sets inside ZIPs. Attachment description field ≤100 chars, names must not repeat.**
 
-## STEP A — Convert 6 HTMLs to PDF (Mac: open in Chrome/Safari → Cmd+P → Destination "Save as PDF" → margins Default):
+## STEP A — Convert 8 HTMLs to PDF (Mac: open in Chrome/Safari → Cmd+P → Destination "Save as PDF" → margins Default):
 | Print to PDF as… | From file |
 |---|---|
 | P1-Reply-Letter-142(1)-AY2025-26.pdf | P1-Reply-Letter-142(1)-AY2025-26.html |
@@ -29,11 +29,11 @@
 
 ## STEP C — On the response screen:
 1. Response type: **Full Response** (NOT partial — everything is ready).
-2. Remarks box: paste **entire** `PORTAL-RESPONSE-TEXT.txt` (~3,900 chars, within limit).
+2. Remarks box: paste **entire** `PORTAL-RESPONSE-TEXT.txt` (3,659 chars, within limit).
 3. Add the 10 attachments above, in order, descriptions as shown (≤100 chars each).
 4. Submit. If the portal asks for OTP/EVC confirmation, complete with Aadhaar-linked mobile. **Do NOT file anything from the "File Income Tax Return" page — revision window for AY 2025-26 closed 31-Dec-2025 and ITR-U is barred during a pending 143(3). The reply goes ONLY here.**
 5. After submit: note the **Transaction/Response ID**, screenshot the success screen, and download the response acknowledgment (e-Proceedings → submitted responses). Share the TID with Arena for the case file.
 
 ## Fallbacks
 - If any attachment rejected for size (₹-check: bank zip ≈1 MB; P5A printed PDF ≈3.5 MB; all others far smaller) → split and make a **second submission as "Partial Response"** same day (portal allows multiple responses to one notice; label continuations "…(2 of 2)").
-- Do NOT upload: payslips/payroll tax comps, LTA tickets, sanction letter, HDFC loan statement, SBI FY24-25 *provisional* certificate (it's a projection, not actuals), FY25-26 documents, CPC 143(1) intimation. (The letter now asserts completeness and says nothing more about un-submitted items — no "reserve" list appears anywhere.)
+- Do NOT upload: payslips/payroll tax comps, LTA tickets, HDFC loan statement, SBI FY24-25 *provisional* certificate (it's a projection, not actuals), FY25-26 documents, CPC 143(1) intimation. (The letter now asserts completeness and says nothing more about un-submitted items — no "reserve" list appears anywhere.)
