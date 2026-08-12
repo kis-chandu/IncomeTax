@@ -360,3 +360,9 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 ## LOG 12-Aug-2026 (Task parked + PDF verification of user's printed outputs)
 - **PARKED TASK (user will trigger later):** draft a detailed script for a layman awareness video on Smart-Invest-style VDA churn bots & the 115BBH/194S trap (one-page explainer tone, cite the user's real FY24-25 numbers as the case study: +₹6,438 pocket vs −₹5,686 after tax; TDS lock > deposit; effective ~188% tax on real profit). Do NOT start until user says so.
 - User pushed printed PDFs to repo downloads/. Verified all: P1 ✓ (s.208, P5-C, no stale strings, 4pp), P2B ✓ (251pp; bitcipher row present TRACES-format), P2C ✓, P3B ✓ (15pp, no internal markers), P5 note ✓, P8B ✓, Z ✓ (has s.208), P5A ✗→FIX headers fine but Chrome split tall deed images across 9 pages → CSS patched (max-height:252mm; one image per page) & regenerated → user must REPRINT P5A only. Rename at assembly: strip ".html" from filename.
+
+### 12-Aug-2026 (later) — Step 2 portal filing commenced
+- User confirmed the **10-file upload folder is assembled** per SUBMIT-PACK-INDEX.md (Step-1 complete).
+- Delivered **Step 2 · Screen 1** of the portal walkthrough: login → Pending Actions → e-Proceedings → Self → AY 2025-26 → 142(1) DIN ITBA/AST/F/142(1)/2026-27/1091691350(1). Pre-flight checklist re-issued (P5A reprint ✓ + ".html" stripped from filename; 10 files = 3 loose PDFs + 7 ZIPs; each ≤5 MB).
+- Awaiting user's "on the notice row" confirmation before Screen 2 (notice view + **Submit Response** → **Full Response**).
+- Reminders re-stated: reply ONLY via e-Proceedings; DO NOT use "File Income Tax Return" page (revision closed 31-Dec-2025; ITR-U barred during pending 143(3)). Deadline **17-Aug-2026 15:28 IST**; target filing 12–13 Aug.
