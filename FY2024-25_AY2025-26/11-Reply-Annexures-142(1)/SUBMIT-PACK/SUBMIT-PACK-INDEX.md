@@ -29,7 +29,7 @@
 
 ## STEP C — On the response screen:
 1. Response type: **Full Response** (NOT partial — everything is ready).
-2. Remarks box: paste **entire** `PORTAL-RESPONSE-TEXT.txt` (3,659 chars, within limit).
+2. Remarks box: paste entire PORTAL-RESPONSE-TEXT.txt (portal-whitelist-safe charset).
 3. Add the 10 attachments above, in order, descriptions as shown (≤100 chars each).
 4. Submit. If the portal asks for OTP/EVC confirmation, complete with Aadhaar-linked mobile. **Do NOT file anything from the "File Income Tax Return" page — revision window for AY 2025-26 closed 31-Dec-2025 and ITR-U is barred during a pending 143(3). The reply goes ONLY here.**
 5. After submit: note the **Transaction/Response ID**, screenshot the success screen, and download the response acknowledgment (e-Proceedings → submitted responses). Share the TID with Arena for the case file.

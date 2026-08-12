@@ -390,3 +390,9 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 ### 12-Aug-2026 — Zip swap RE-VERIFIED (hash) → all 10 attachments GREEN
 - User pushed fixed zip (commit 66aa2e8; merge 7600025). Re-audit of `downloads/P5-B:C Loan evidence — sanction letter + interest.zip`: exactly **4 real PDFs** — sanction letter (hash MATCH), CASLOAN Oct–Dec-24 stmt (hash MATCH), **SBI-HL-Certificate-FY2023-24-FINAL-Interest398319.pdf (hash MATCH — the 80EEA sanction-date anchor now rides)**, P5 interest-derivation note (print). SBI savings statement ABSENT ✓.
 - **All 10 portal attachments now byte/hash-verified and within size limits. Folder cleared for upload.**
+
+### 12-Aug-2026 — Portal charset rejection → remarks rebuilt whitelist-safe
+- Portal rejected remarks paste: allowed set = **A-Za-z 0-9 ! @ # $ % ^ & * ( ) | : ; . , / ? + - _ ` ~** only (NOT =, >, ", ', —, ≈, ⇒, Σ, ≥, ×).
+- `PORTAL-RESPONSE-TEXT.txt` REBUILT and machine-verified against the whitelist: 3,668 chars (expected "Remaining" ≈ 332). Substitutions: ≈→~ · "⇒ … ⇒"→"; … hence" · ≥→"comfortably exceeds" · Σ→"Total" · "="→"works out to"/"is" · "Smart Invest"→Smart-Invest · "assessee's accounts"→"any account of the assessee" · —/–→- · ×→x. Meaning zero-change; every figure/digit verified identical.
+- Housekeeping: original unicode text archived as PORTAL-RESPONSE-TEXT-original-unicode.txt; earlier ascii twin deleted (it still contained banned ">"); SUBMIT-PACK-INDEX updated. Safe copy also at PORTAL-RESPONSE-TEXT-portal-safe.txt.
+- User instructed: clear box fully, paste new text, verify counter ~332, STOP, screenshot.
