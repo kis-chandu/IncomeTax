@@ -36,3 +36,8 @@
 - Deadline: **17-Aug-2026 15:28 IST**. AO order bar 31-Mar-2027.
 - If AO requisitions later (reserve items): payslips, LTA tickets ₹43,070, HDFC FY24-25 loan statement/cert, full registered deed, SBI duplicate final FY24-25 certificate.
 - Track 3: this repo = system of record; mirror workpaper MDs into Case-Notes/; commit+push every batch.
+
+## UPDATE 12-Aug-2026 #2 — ZIP upload bug + 50-char Others limit
+- Portal accepted PDF (P5A ok) but rejected every .zip with "internal server issue". Cure: `downloads/PORTAL-FINAL/` = clean-ASCII-named zip twins (retry these FIRST; symbols +,&,—,: removed) AND merged-PDF twins (use if zips still fail): P2-Merged (299pp/4.9MB), P3A-Merged (104pp/1MB), P4-Merged (5pp), P5BC-Merged (8pp), P6-Merged (9pp), P8B-Z-Merged (4pp); loose: P1, P3B, P8A-CoinSwitch-Workbook.zip (xlsx inside; if zip fails, extract & attach xlsx - Excel is an allowed type).
+- **"Others" description limit is 50 chars (not 100).** Use: P1 `P1 covering letter and point-wise reply`; P2 `P2 filed ITR, 26AS, computation`; P3B `P3-B narration and source index`; P4 `P4 Form 16 Part A and B`; P5BC `P5-B/C sanction, interest evidence`; P6 `P6 VI-A proofs LIC, tuition, NPS`; P8A `P8-A CoinSwitch VDA workbook xlsx`. If only ONE Others row exists: description `Annexures P1 to P8-A; index inside P1` (37).
+- Category rows mapping unchanged: Bank account statement<-P3A; Sale deed copies<-P5A (DONE on portal); Income computation<-P8B-Z; Others<-rest (7 items).
