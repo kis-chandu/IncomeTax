@@ -428,3 +428,10 @@ User wants minimal asks. Final mandatory list (6 items): 26AS FY24-25; 5 bank st
 ### 07-Sep-2026 — Workspace budget incident #2 (239MB/991 files; 129 unsaved = local git internals only)
 - Verified NOTHING substantive lost: remote = 57859e3 complete (incl. resubmission set + notice + logs); local resubmission folder 14 files + case file intact. Sandbox had rolled local git to stale base again — resynced; working tree matches origin.
 - Cleanup (zero data loss): B-PORTAL-FINAL ascii-named zips = sha256-verified byte-twins of A-staging zips → deleted (uniqueness = filename only, recorded); git reflog expired + gc --prune=now. History NOT rewritten (audit trail intact on GitHub = system of record).
+
+### 07-Sep-2026 — Cleanup #2 completed; workspace re-architected under 128MB cap
+- Remote verified COMPLETE @ 4256e13: 230 tracked files; resubmission set 15/15 (xlsx slot-12 restored); reminder notice, 139(9) analysis, as-submitted record, HANDOVER, master index all present.
+- **Two real misses found & fixed during audit** (neither from the snapshot cutoff): (1) xlsx missing from resubmission folder (earlier build script aborted mid-run; slot-12 file restored & pushed); (2) earlier cleanup commits had silently failed (git identity unset in fresh sandbox) — re-committed & pushed; remote now current.
+- The "129 files not saved" = local .git internals only; no content loss anywhere.
+- **Architecture change (budget-driven):** local clone (~211MB: .git 72M + tree ~139M) is mathematically incompatible with the 128MB snapshot cap. Remote (GitHub) + user's Mac clone are the two full copies; workspace keeps only MD workpapers (taxcase-AY2026-27/), a task-critical file cache, and REPO-POINTER.md (restore instructions). Future repo writes via ephemeral depth-1 clone in /tmp → commit → push within one call.
+- Tonight's resubmission filing (deadline 08-Sep): user pulls REPLY-RESUBMISSION-08Sep2026/ (15 files) from GitHub to his Mac; TWO Partial responses on the reminder row, remarks verbatim from the two txt files (Expected portal "Remaining" 2497 / 3395).
